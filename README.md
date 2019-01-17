@@ -2,6 +2,8 @@
 Colab Compatible FastAI notebooks for NLP and Computer Vision Datasets
 
 Computer Vision Projects
+
+
 https://github.com/navneetkrc/Colab_fastai/blob/master/Intel_Image_Classification3.ipynb
 This is a Google Colab Notebook on the Intel Image Classification hosted on the Analytics Vidhya
 In this There are 17034 images in train and 7301 images in test data.
@@ -18,6 +20,8 @@ https://github.com/navneetkrc/Colab_fastai/blob/master/food_image.ipynb
 This is Google Colab Notebook for the Food Data Hackathon hosted by Rakuten in which I got good accuracy almost Top 10 but was not able to submit the test results, after the added documentation in the FASTAI library testing for the test data and adding for that has become more convenient and same has been applied in the Intel Image Classification Challenge as well.
 
 NLP Based Projects
+
+
 https://github.com/navneetkrc/Colab_fastai/blob/master/Medicine_review_ULMFiT_fastai_Short.ipynb
 This is a Google Colab Notebook on the medicinal dataset provided on Kaggle
 !kaggle datasets download -d jessicali9530/kuc-hackathon-winter-2018
