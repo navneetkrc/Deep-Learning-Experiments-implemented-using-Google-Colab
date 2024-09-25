@@ -1,6 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
-
 class MobileDevice:
     def __init__(self, name, release_date, price, market_positioning,
                  display_size, display_resolution, refresh_rate,
@@ -28,46 +25,17 @@ class MobileDevice:
                f"  Storage Options: {self.storage}\n" \
                f"  Battery Capacity: {self.battery_capacity} mAh\n"
 
-def fetch_phone_data(phone_name):
-    """Fetches mobile phone specifications from GSMArena."""
-    url = f"https://www.gsmarena.com/{phone_name.replace(' ', '_').lower()}-10100.php"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
-    }
-    
-    response = requests.get(url, headers=headers)
-    
-    if response.status_code != 200:
-        print(f"Failed to retrieve data for {phone_name}")
-        return None
-
-    soup = BeautifulSoup(response.content, 'html.parser')
-    
-    # Extract specifications from the page
-    specs_table = soup.find("table", {"class": "specs-table"})
-    specs = {}
-    
-    if specs_table:
-        rows = specs_table.find_all("tr")
-        for row in rows:
-            header = row.find("td", {"class": "ttl"})
-            value = row.find("td", {"class": "nfo"})
-            if header and value:
-                specs[header.get_text(strip=True)] = value.get_text(strip=True)
-
-    return specs
-
-def create_device_from_specs(name, specs):
-    """Creates a MobileDevice instance from fetched specifications."""
+def create_device_from_data(name, specs):
+    """Creates a MobileDevice instance from provided specifications."""
     return MobileDevice(
         name=name,
-        release_date=specs.get("Announced", "N/A"),
+        release_date=specs.get("Release Date", "N/A"),
         price=specs.get("Price", "N/A"),
         market_positioning="Flagship",  # Assuming both are flagship devices
-        display_size=specs.get("Display", "N/A"),
-        display_resolution=specs.get("Resolution", "N/A"),
+        display_size=specs.get("Display Size", "N/A"),
+        display_resolution=specs.get("Display Resolution", "N/A"),
         refresh_rate=specs.get("Refresh Rate", "N/A"),
-        processor=specs.get("Chipset", "N/A"),
+        processor=specs.get("Processor", "N/A"),
         ram=specs.get("RAM", "N/A").replace(' GB', ''),
         storage=specs.get("Storage", "N/A"),
         battery_capacity=specs.get("Battery", "N/A").replace(' mAh', '')
@@ -94,13 +62,34 @@ def compare_devices(device1, device2):
             print()
 
 if __name__ == "__main__":
-    # Fetch data for Samsung Galaxy S24 and iPhone 15
-    samsung_s24_specs = fetch_phone_data("Samsung Galaxy S24")
-    iphone_15_specs = fetch_phone_data("iPhone 15")
+    # Specifications extracted from search results
+    samsung_s24_specs = {
+        "Release Date": "January 17, 2024",
+        "Price": "$799",
+        "Display Size": "6.2 inches",
+        "Display Resolution": "2340 x 1080 pixels",
+        "Refresh Rate": "1-120Hz",
+        "Processor": "Snapdragon 8 Gen 3 / Exynos 2400",
+        "RAM": "8 GB",
+        "Storage": "128GB / 256GB",
+        "Battery": "4000 mAh"
+    }
 
-    if samsung_s24_specs and iphone_15_specs:
-        samsung_s24_device = create_device_from_specs("Samsung Galaxy S24", samsung_s24_specs)
-        iphone_15_device = create_device_from_specs("iPhone 15", iphone_15_specs)
+    iphone_15_specs = {
+        "Release Date": "September 12, 2023",
+        "Price": "$799",
+        "Display Size": "6.1 inches",
+        "Display Resolution": "2556 x 1179 pixels",
+        "Refresh Rate": "60Hz",
+        "Processor": "A16 Bionic",
+        "RAM": "6 GB",
+        "Storage": "128GB / 256GB / 512GB",
+        "Battery": "3349 mAh"
+    }
 
-        # Compare the two devices
-        compare_devices(samsung_s24_device, iphone_15_device)
+    # Create device instances
+    samsung_s24_device = create_device_from_data("Samsung Galaxy S24", samsung_s24_specs)
+    iphone_15_device = create_device_from_data("iPhone 15", iphone_15_specs)
+
+    # Compare the two devices
+    compare_devices(samsung_s24_device, iphone_15_device)
