@@ -1,0 +1,510 @@
+{
+  "sessionID": "222d0b65-33d1-384e-b94f-47100282c9c6-1726738382014",
+  "searchTotalTime": 141,
+  "searchTotalCount": 2,
+  "searchProcTime": 113,
+  "correctionWord": "s20",
+  "hasMoreResults": false,
+  "searchResults": [
+    {
+      "id": "LS25BG400EUXXU",
+      "name": "25\" G40B 240Hz Odyssey Gaming Monitor",
+      "type": "Product",
+      "category": "Display",
+      "sub_category": "Display Monitors",
+      "sub_genre": "Gaming",
+      "discount": 14.0,
+      "groupedProducts": [
+        "LS25BG400EUXXU",
+        "LS27BG400EUXXU"
+      ],
+      "productLaunchDate": "2022-06-29 00:00:00",
+      "numberOfReviews": "1",
+      "reviewRating": "5.0",
+      "productDisplayName": "25\" G40B 240Hz Odyssey Gaming Monitor",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ls25bg400euxxu/gallery/uk-odyssey-g4-27g40b-427094-ls25bg400euxxu-532868924?$PD_GALLERY_PNG$",
+          "desc": "front Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ls25bg400euxxu/gallery/uk-odyssey-g4-27g40b-427094-ls25bg400euxxu-thumb-532868925?$PD_GALLERY_THUM_PNG$",
+          "desc": "l-swivel Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ls25bg400euxxu/gallery/uk-odyssey-g4-27g40b-427094-ls25bg400euxxu-thumb-532868925?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ls25bg400euxxu/gallery/uk-odyssey-g4-27g40b-427094-ls25bg400euxxu-532868924?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name_eng": "Class",
+          "name": "Type",
+          "id": "0",
+          "value": [
+            "Flat"
+          ]
+        },
+        {
+          "name_eng": "Supported Accessories",
+          "name": "Supported Accessories",
+          "id": "1",
+          "value": [
+            "HDMI Cable"
+          ]
+        },
+        {
+          "name_eng": "Panel Type",
+          "name": "Panel Type",
+          "id": "2",
+          "value": [
+            "IPS"
+          ]
+        },
+        {
+          "numeric_value": [
+            240
+          ],
+          "name_eng": "Refresh Rate",
+          "name": "Refresh Rate",
+          "numeric_value_unit": [
+            "Hz"
+          ],
+          "id": "5",
+          "value": [
+            "240 Hz"
+          ]
+        },
+        {
+          "name_eng": "Features",
+          "name": "Features",
+          "id": "7",
+          "value": [
+            "Eco Saving Plus",
+            "Eco Light Sensor",
+            "Eye Saver Mode",
+            "Flicker Free",
+            "Off Timer Plus",
+            "Black Equalizer",
+            "Low Input Lag Mode",
+            "Virtual AIM Point",
+            "Refresh Rate Optimizor",
+            "Super Arena Gaming UX",
+            "Auto Source Switch+",
+            "Adaptive Picture",
+            "Ultrawide Game View"
+          ]
+        },
+        {
+          "numeric_value": [
+            25
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "3",
+          "value": [
+            "25 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "4",
+          "value": [
+            "1920 x 1080"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Voucher Codes"
+          ]
+        },
+        {
+          "name": "Class",
+          "id": "3",
+          "value": [
+            "Odyssey Gaming"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 229.99,
+      "sale_price": 199.0,
+      "taxonomyIdPath": "07000000#07010000#07010200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Flat",
+        "HDMI Cable",
+        "IPS",
+        "240 Hz",
+        "Eco Saving Plus",
+        "Eco Light Sensor",
+        "Eye Saver Mode",
+        "Flicker Free",
+        "Off Timer Plus",
+        "Black Equalizer",
+        "Low Input Lag Mode",
+        "Virtual AIM Point",
+        "Refresh Rate Optimizor",
+        "Super Arena Gaming UX",
+        "Auto Source Switch+",
+        "Adaptive Picture",
+        "Ultrawide Game View",
+        "25 inch",
+        "1920 x 1080",
+        "Odyssey Gaming",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=samsung_s25&cn=scom&cco=B2C&ui=c7a758dc-8a8a-3fe2-bb68-cdfbf29891b9&si=222d0b65-33d1-384e-b94f-47100282c9c6-1726738382014&ti=94edba90-2995-3ebe-9c96-8696cdc21b5c&qi=c6bf99ca-3917-3d7d-ac76-f403c10830c3&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=2&rs=Samsung_Galaxy_S22_5G,Samsung_Galaxy_S23_Ultra_Enterprise_Edition,Samsung_Galaxy_S24_Online_Exclusive,Samsung_Galaxy_S23_FE_Online_Exclusive,Samsung_Galaxy_S23_Enterprise_Edition,Samsung_Galaxy_S23_Ultra,Samsung_Galaxy_S21_5G_Certified_Re_Newed,Samsung_Galaxy_S23_FE,Samsung_Galaxy_S24,Samsung_Galaxy_S23&tc=PRODUCT&di=LS25BG400EUXXU&dc=Display&sc=Display_Monitors&dg=Gaming&dt=25\"_G40B_240Hz_Odyssey_Gaming_Monitor&dr=1",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/monitors/gaming/odyssey-g4-g40b-25-inch-ls25bg400euxxu/",
+      "linkUrlReview": "/uk/monitors/gaming/odyssey-g4-g40b-25-inch-ls25bg400euxxu/#reviews",
+      "supportLinkUrl": "/uk/support/model/LS25BG400EUXXU",
+      "uspDesc": [
+        "Great for: Serious Gaming, productivity & Streaming",
+        "Connections: HDMI, Display Port, Headphone",
+        "Technology: 240Hz Refresh Rate, 1ms GTG response time",
+        "Screen: 1920x1080 resolution, IPS panel"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "Y",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "badge-energy-label__badge--e",
+        "EnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/uk-energylabel-ls25bg400euxxu-energylabel.pdf",
+        "Grade": "E",
+        "FicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ls25bg400euxxu-productfiche.pdf"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£229.99",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£199.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the 25\" Samsung Odyssey G4 flat gaming monitor LS25BG400EUXXU with 240Hz refresh rate & FHD resolution. Free Delivery at Samsung UK"
+    },
+    {
+      "id": "MZ-V7S250BW",
+      "name": "970 EVO Plus NVMe™ M.2 SSD 250GB",
+      "type": "Product",
+      "category": "Memory and Storage",
+      "sub_category": "Memory and Storage",
+      "sub_genre": "NVMe SSD",
+      "groupedProducts": [
+        "MZ-V7S1T0BW",
+        "MZ-V7S250BW",
+        "MZ-V7S2T0BW",
+        "MZ-V7S500BW"
+      ],
+      "productLaunchDate": "2019-01-22 00:00:00",
+      "numberOfReviews": "143",
+      "reviewRating": "4.7",
+      "productDisplayName": "970 EVO Plus NVMe™ M.2 SSD 250GB",
+      "ecomFlag": "N",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-970-evoplus-nvme-m2-ssd-mz-v7s250bw-frontblack-139730646?$PD_GALLERY_PNG$",
+          "desc": "front black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-970-evoplus-nvme-m2-ssd-mz-v7s250bw-frontblack-thumb-139730647?$PD_GALLERY_THUM_PNG$",
+          "desc": "pkg-group-shot black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/uk-970-evoplus-nvme-m2-ssd-mz-v7s250bw-frontblack-thumb-139730647?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/uk-970-evoplus-nvme-m2-ssd-mz-v7s250bw-frontblack-139730646?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name_eng": "Capacity",
+          "name": "Capacity",
+          "id": "1",
+          "value": [
+            "250GB"
+          ]
+        },
+        {
+          "name": "Type",
+          "id": "0",
+          "value": [
+            "NVMe SSD"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "taxonomyIdPath": "09000000#09010000#09010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": false,
+      "attribute_values": [
+        "250GB",
+        "NVMe SSD",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=samsung_s25&cn=scom&cco=B2C&ui=c7a758dc-8a8a-3fe2-bb68-cdfbf29891b9&si=222d0b65-33d1-384e-b94f-47100282c9c6-1726738382014&ti=94edba90-2995-3ebe-9c96-8696cdc21b5c&qi=c6bf99ca-3917-3d7d-ac76-f403c10830c3&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=2&rs=Samsung_Galaxy_S22_5G,Samsung_Galaxy_S23_Ultra_Enterprise_Edition,Samsung_Galaxy_S24_Online_Exclusive,Samsung_Galaxy_S23_FE_Online_Exclusive,Samsung_Galaxy_S23_Enterprise_Edition,Samsung_Galaxy_S23_Ultra,Samsung_Galaxy_S21_5G_Certified_Re_Newed,Samsung_Galaxy_S23_FE,Samsung_Galaxy_S24,Samsung_Galaxy_S23&tc=PRODUCT&di=MZ-V7S250BW&dc=Memory_and_Storage&sc=Memory_and_Storage&dg=NVMe_SSD&dt=970_EVO_Plus_NVMe™_M.2_SSD_250GB&dr=2",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/memory-storage/nvme-ssd/970-evo-plus-nvme-m-2-ssd-250gb-mz-v7s250bw/",
+      "linkUrlReview": "/uk/memory-storage/nvme-ssd/970-evo-plus-nvme-m-2-ssd-250gb-mz-v7s250bw/#reviews",
+      "supportLinkUrl": "/uk/support/model/MZ-V7S250BW",
+      "uspDesc": [],
+      "promotionText": [],
+      "whereToBuyBnFlag": "Y",
+      "mdlRegTypeCd": "L",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "productDescription": "Discover the ultimate in performance with a Samsung SSD. Level up your performance with more power and discover lasting performance and exceptional endurance. "
+    }
+  ],
+  "filters": [
+    {
+      "displayName": "Categories",
+      "values": [
+        {
+          "count": 1,
+          "value": "Display Monitors"
+        },
+        {
+          "count": 1,
+          "value": "Memory and Storage"
+        }
+      ],
+      "name": "groupedProductsList.sub_category.keyword",
+      "type": "property",
+      "priority": 0
+    },
+    {
+      "displayName": "Discount Range",
+      "values": [
+        {
+          "count": 2,
+          "value": "10% - 25%"
+        },
+        {
+          "count": 1,
+          "value": "5% or less"
+        }
+      ],
+      "name": "groupedProductsList.discount",
+      "type": "range",
+      "priority": 2
+    },
+    {
+      "displayName": "Type",
+      "values": [
+        {
+          "count": 2,
+          "value": "Flat"
+        },
+        {
+          "count": 4,
+          "value": "NVMe SSD"
+        }
+      ],
+      "name": "Type",
+      "type": "attribute",
+      "priority": 8
+    },
+    {
+      "displayName": "Screen Size",
+      "values": [
+        {
+          "count": 1,
+          "value": "27 inch"
+        },
+        {
+          "count": 1,
+          "value": "25 inch"
+        }
+      ],
+      "name": "Screen Size",
+      "type": "attribute",
+      "priority": 25
+    },
+    {
+      "displayName": "Capacity",
+      "values": [
+        {
+          "count": 1,
+          "value": "500GB"
+        },
+        {
+          "count": 1,
+          "value": "250GB"
+        },
+        {
+          "count": 1,
+          "value": "2,000GB"
+        },
+        {
+          "count": 1,
+          "value": "1,000GB"
+        }
+      ],
+      "name": "Capacity",
+      "type": "attribute",
+      "priority": 30
+    },
+    {
+      "displayName": "Features",
+      "values": [
+        {
+          "count": 2,
+          "value": "Adaptive Picture"
+        },
+        {
+          "count": 2,
+          "value": "Auto Source Switch+"
+        },
+        {
+          "count": 2,
+          "value": "Black Equalizer"
+        },
+        {
+          "count": 2,
+          "value": "Eco Light Sensor"
+        },
+        {
+          "count": 2,
+          "value": "Eco Saving Plus"
+        },
+        {
+          "count": 2,
+          "value": "Eye Saver Mode"
+        },
+        {
+          "count": 2,
+          "value": "Flicker Free"
+        },
+        {
+          "count": 2,
+          "value": "Low Input Lag Mode"
+        },
+        {
+          "count": 2,
+          "value": "Off Timer Plus"
+        },
+        {
+          "count": 2,
+          "value": "Refresh Rate Optimizor"
+        },
+        {
+          "count": 2,
+          "value": "Super Arena Gaming UX"
+        },
+        {
+          "count": 2,
+          "value": "Ultrawide Game View"
+        },
+        {
+          "count": 2,
+          "value": "Virtual AIM Point"
+        }
+      ],
+      "name": "Features",
+      "type": "attribute",
+      "priority": 62
+    },
+    {
+      "displayName": "Availability",
+      "values": [
+        {
+          "count": 2,
+          "value": "In Stock"
+        },
+        {
+          "count": 1,
+          "value": "Out of Stock"
+        }
+      ],
+      "name": "Availability",
+      "type": "attribute",
+      "priority": 98
+    }
+  ],
+  "subjectiveQuery": false,
+  "resultType": "Product",
+  "relatedKeywords": [
+    "Samsung Galaxy S22 5G",
+    "Samsung Galaxy S23 Ultra Enterprise Edition",
+    "Samsung Galaxy S24 Online Exclusive",
+    "Samsung Galaxy S23 FE Online Exclusive",
+    "Samsung Galaxy S23 Enterprise Edition",
+    "Samsung Galaxy S23 Ultra",
+    "Samsung Galaxy S21 5G Certified Re Newed",
+    "Samsung Galaxy S23 FE",
+    "Samsung Galaxy S24",
+    "Samsung Galaxy S23"
+  ],
+  "tabInfoList": [
+    {
+      "tabType": "ALL",
+      "tabParam": "all",
+      "count": 94
+    },
+    {
+      "tabType": "PRD",
+      "tabParam": "product",
+      "count": 2
+    },
+    {
+      "tabType": "SPP",
+      "tabParam": "support",
+      "count": 92
+    }
+  ]
+}

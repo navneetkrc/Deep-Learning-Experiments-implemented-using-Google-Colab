@@ -1,0 +1,3089 @@
+{
+  "sessionID": "20d9f74e-3ded-3412-8155-32134f21334a-1726738196902",
+  "searchTotalTime": 206,
+  "searchTotalCount": 351,
+  "searchProcTime": 182,
+  "searchResultsFor": "Smartphones",
+  "hasMoreResults": true,
+  "searchResults": [
+    {
+      "id": "EF-UF741CTEGWW",
+      "name": "Anti-reflecting Screen Protector for Z Flip6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Screen Protectors",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-UF741CTEGWW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "24",
+      "reviewRating": "4.3",
+      "productDisplayName": "Anti-reflecting Screen Protector for Z Flip6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-uf741-ef-uf741ctegww-542302397?$PD_GALLERY_PNG$",
+          "desc": "set-cut Transparent"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-uf741-ef-uf741ctegww-thumb-542302403?$PD_GALLERY_THUM_PNG$",
+          "desc": "set-cut Transparent"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-uf741-ef-uf741ctegww-thumb-542302403?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-uf741-ef-uf741ctegww-542302397?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Screen Protectors"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Transparent"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#fffffe"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 27.0,
+      "sale_price": 27.0,
+      "taxonomyIdPath": "01000000#01050000#01050300",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Screen Protectors",
+        "Transparent"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-UF741CTEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Screen_Protectors&dt=Anti-reflecting_Screen_Protector_for_Z_Flip6&dr=1",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-flip6-anti-reflecting-film-transparent-ef-uf741ctegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-flip6-anti-reflecting-film-transparent-ef-uf741ctegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-UF741CTEGWW",
+      "uspDesc": [
+        "2 pack for exterior cover screen"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£27.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£27.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Anti Reflecting Film for your Galaxy Z Flip6 at Samsung UK. With high touch sensitivity, great visibility, and anti-scratch coating."
+    },
+    {
+      "id": "GP-FPR630HICBW",
+      "name": "Clip Case for Galaxy Buds3 Pro | Buds3",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "GP-FPR630HICBW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "158",
+      "reviewRating": "3.2",
+      "productDisplayName": "Clip Case for Galaxy Buds3 Pro | Buds3",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-buds3-clip-case-gp-fpr630hicbw-542307467?$PD_GALLERY_PNG$",
+          "desc": "lperspective Transparent"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-buds3-clip-case-gp-fpr630hicbw-thumb-542307471?$PD_GALLERY_THUM_PNG$",
+          "desc": "lperspective Transparent"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-buds3-clip-case-gp-fpr630hicbw-thumb-542307471?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-buds3-clip-case-gp-fpr630hicbw-542307467?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Other",
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Buds Compatibility",
+          "id": "11",
+          "value": [
+            "Buds3/3 Pro"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Transparent"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#fffffe"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 29.0,
+      "sale_price": 29.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Other",
+        "Covers & Cases",
+        "Transparent"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=GP-FPR630HICBW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Clip_Case_for_Galaxy_Buds3_Pro_|_Buds3&dr=2",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-buds3-clip-case-transparent-gp-fpr630hicbw/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-buds3-clip-case-transparent-gp-fpr630hicbw/#reviews",
+      "uspDesc": [
+        "Slim case with clip for added security"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£29.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£29.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Earbuds Clip Case for your Samsung Galaxy Buds3 and Samsung Galaxy Buds3 Pro. Browse all earbud cases and mobile accessories at Samsung UK."
+    },
+    {
+      "id": "EF-OF95PCJEGWW",
+      "name": "S Pen Case for Z Fold6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-OF95PCJEGWW",
+        "EF-OF95PCNEGWW",
+        "EF-OF95PCPEGWW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "79",
+      "reviewRating": "3.4",
+      "productDisplayName": "S Pen Case for Z Fold6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-of95p-ef-of95pcjegww-542305348?$PD_GALLERY_PNG$",
+          "desc": "front Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-of95p-ef-of95pcjegww-thumb-542305349?$PD_GALLERY_THUM_PNG$",
+          "desc": "set-cut Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-of95p-ef-of95pcjegww-thumb-542305349?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-of95p-ef-of95pcjegww-542305348?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "S Pens",
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Fold6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#485167",
+        "#f1d7dc",
+        "#848587"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 89.0,
+      "sale_price": 89.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "S Pens",
+        "Covers & Cases",
+        "Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-OF95PCJEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=S_Pen_Case_for_Z_Fold6&dr=3",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-fold6-s-pen-case-gray-ef-of95pcjegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-fold6-s-pen-case-gray-ef-of95pcjegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-OF95PCJEGWW",
+      "uspDesc": [
+        "Slim case with included S Pen"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£89.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£89.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the S Pen Phone Case for your Galaxy Z Fold6 at Samsung UK. Compact and easy to carry, the S Pen case is a perfect partner for busy professionals."
+    },
+    {
+      "id": "GP-FFF741YCATW",
+      "name": "Clear Case for Z Flip6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "GP-FFF741YCATW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "8",
+      "reviewRating": "5.0",
+      "productDisplayName": "Clear Case for Z Flip6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-slim-clear-case-for-galaxy-z-flip6-gp-fff741ycatw-542303262?$PD_GALLERY_PNG$",
+          "desc": "back Transparent"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-slim-clear-case-for-galaxy-z-flip6-gp-fff741ycatw-thumb-542303266?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Transparent"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-slim-clear-case-for-galaxy-z-flip6-gp-fff741ycatw-thumb-542303266?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-slim-clear-case-for-galaxy-z-flip6-gp-fff741ycatw-542303262?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Transparent"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#fffffe"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 21.0,
+      "sale_price": 21.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Transparent"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=GP-FFF741YCATW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Clear_Case_for_Z_Flip6&dr=4",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/slim-clear-case-for-galaxy-z-flip6-transparent-gp-fff741ycatw/",
+      "linkUrlReview": "/uk/mobile-accessories/slim-clear-case-for-galaxy-z-flip6-transparent-gp-fff741ycatw/#reviews",
+      "uspDesc": [
+        "Slimmest case for Z Flip6"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£21.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£21.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Clear Phone Case for your Samsung Galaxy Z Flip6 at Samsung UK. Protect your device while also letting the original look and design shine."
+    },
+    {
+      "id": "ET-SVL70MOEGEU",
+      "name": "Trail Band for Galaxy Watch Ultra",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Wearables Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "ET-SVL70MBEGEU",
+        "ET-SVL70MOEGEU",
+        "ET-SVL70MWEGEU"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "27",
+      "reviewRating": "3.8",
+      "productDisplayName": "Trail Band for Galaxy Watch Ultra",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-trail-band-small-and-medium-and-large-et-svl70moegeu-542306239?$PD_GALLERY_PNG$",
+          "desc": "back Orange"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-trail-band-small-and-medium-and-large-et-svl70moegeu-thumb-542306243?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Orange"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-trail-band-small-and-medium-and-large-et-svl70moegeu-thumb-542306243?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-trail-band-small-and-medium-and-large-et-svl70moegeu-542306239?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch Ultra"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Orange"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#d6cfc7",
+        "#4a4f59",
+        "#ff7338"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 69.0,
+      "sale_price": 69.0,
+      "taxonomyIdPath": "01000000#01050000#01052800",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Orange"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=ET-SVL70MOEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Wearables_Accessories&dt=Trail_Band_for_Galaxy_Watch_Ultra&dr=5",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-watch-ultra-trail-band-orange-et-svl70moegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-watch-ultra-trail-band-orange-et-svl70moegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/ET-SVL70MOEGEU",
+      "uspDesc": [
+        "Unique to Galaxy Watch Ultra"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£69.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£69.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Trail Smartwatch Band for your Galaxy Watch Ultra at Samsung UK. Enjoy the lightweight and breathable design for a wide range of workouts."
+    },
+    {
+      "id": "EF-VF741PJEGWW",
+      "name": "Faux Leather Case / Kindsuit Case for Z Flip6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-VF741PJEGWW",
+        "EF-VF741PMEGWW",
+        "EF-VF741PYEGWW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "12",
+      "reviewRating": "4.3",
+      "productDisplayName": "Faux Leather Case / Kindsuit Case for Z Flip6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-vf741-ef-vf741pjegww-542302296?$PD_GALLERY_PNG$",
+          "desc": "back Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-vf741-ef-vf741pjegww-thumb-542302310?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-vf741-ef-vf741pjegww-thumb-542302310?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-vf741-ef-vf741pjegww-542302296?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#f1e3ad",
+        "#a5dfd3",
+        "#848587"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 79.0,
+      "sale_price": 79.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-VF741PJEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Faux_Leather_Case_/_Kindsuit_Case_for_Z_Flip6&dr=6",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-flip6-kindsuit-case-gray-ef-vf741pjegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-flip6-kindsuit-case-gray-ef-vf741pjegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-VF741PJEGWW",
+      "uspDesc": [
+        "Luxury feel with hinge protection made from bio-based material"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£79.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£79.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Kindsuit Phone Case for your Samsung Galaxy Z Flip6 at Samsung UK. Designed to protect your phone's hinge, without compromising on style."
+    },
+    {
+      "id": "EF-UF956CTEGWW",
+      "name": "Anti-reflecting Screen Protector for Z Fold6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Screen Protectors",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-UF956CTEGWW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "18",
+      "reviewRating": "3.8",
+      "productDisplayName": "Anti-reflecting Screen Protector for Z Fold6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-uf956-ef-uf956ctegww-542305889?$PD_GALLERY_PNG$",
+          "desc": "set-cut Transparent"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-uf956-ef-uf956ctegww-thumb-542305895?$PD_GALLERY_THUM_PNG$",
+          "desc": "set-cut Transparent"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-uf956-ef-uf956ctegww-thumb-542305895?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-uf956-ef-uf956ctegww-542305889?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Screen Protectors"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Fold6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Transparent"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#fffffe"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 27.0,
+      "sale_price": 27.0,
+      "taxonomyIdPath": "01000000#01050000#01050300",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Screen Protectors",
+        "Transparent"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-UF956CTEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Screen_Protectors&dt=Anti-reflecting_Screen_Protector_for_Z_Fold6&dr=7",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-fold6-anti-reflecting-film-transparent-ef-uf956ctegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-fold6-anti-reflecting-film-transparent-ef-uf956ctegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-UF956CTEGWW",
+      "uspDesc": [
+        "2 pack for exterior cover screen"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£27.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£27.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Anti Reflecting Film for your Galaxy Z Fold6 at Samsung UK. With high touch sensitivity, great visibility, and anti-scratch coating."
+    },
+    {
+      "id": "EF-QF956CTEGWW",
+      "name": "Clear Grip Case for Z Fold6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-QF956CTEGWW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "14",
+      "reviewRating": "3.9",
+      "productDisplayName": "Clear Grip Case for Z Fold6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-qf956-ef-qf956ctegww-542305773?$PD_GALLERY_PNG$",
+          "desc": "back Transparent"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-qf956-ef-qf956ctegww-thumb-542305780?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Transparent"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-qf956-ef-qf956ctegww-thumb-542305780?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-qf956-ef-qf956ctegww-542305773?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Fold6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Transparent"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#fffffe"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 44.0,
+      "sale_price": 44.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Transparent"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-QF956CTEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Clear_Grip_Case_for_Z_Fold6&dr=8",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-fold6-clear-case-transparent-ef-qf956ctegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-fold6-clear-case-transparent-ef-qf956ctegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-QF956CTEGWW",
+      "uspDesc": [
+        "Clear case with added grip funtionality"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£44.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£44.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Clear Grip Phone Case for your Galaxy Z Fold6 at Samsung UK. Protect your device while also letting the original look and design shine."
+    },
+    {
+      "id": "EF-QF741CTEGWW",
+      "name": "Clear Case with Ring for Z Flip6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-QF741CTEGWW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "18",
+      "reviewRating": "3.7",
+      "productDisplayName": "Clear Case with Ring for Z Flip6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-qf741-ef-qf741ctegww-542301781?$PD_GALLERY_PNG$",
+          "desc": "back Transparent"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-qf741-ef-qf741ctegww-thumb-542301790?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Transparent"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-qf741-ef-qf741ctegww-thumb-542301790?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-qf741-ef-qf741ctegww-542301781?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Transparent"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#fffffe"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 39.0,
+      "sale_price": 39.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Transparent"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-QF741CTEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Clear_Case_with_Ring_for_Z_Flip6&dr=9",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-flip6-clear-case-transparent-ef-qf741ctegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-flip6-clear-case-transparent-ef-qf741ctegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-QF741CTEGWW",
+      "uspDesc": [
+        "Pure transparency with the added functionality of ring grip"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£39.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£39.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Clear Phone Case with Ring for your Galaxy Z Flip6 at Samsung UK. Protect your device while also letting the original look & design shine."
+    },
+    {
+      "id": "ET-SNL70MKEGEU",
+      "name": "Marine Band for Galaxy Watch Ultra",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Wearables Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "ET-SNL70MBEGEU",
+        "ET-SNL70MKEGEU",
+        "ET-SNL70MOEGEU",
+        "ET-SNL70MWEGEU"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "13",
+      "reviewRating": "3.7",
+      "productDisplayName": "Marine Band for Galaxy Watch Ultra",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-marine-band-small-and-medium-and-large-et-snl70mkegeu-542306160?$PD_GALLERY_PNG$",
+          "desc": "back Green"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-marine-band-small-and-medium-and-large-et-snl70mkegeu-thumb-542306164?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Green"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-marine-band-small-and-medium-and-large-et-snl70mkegeu-thumb-542306164?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-marine-band-small-and-medium-and-large-et-snl70mkegeu-542306160?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Watch Straps"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch Ultra"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#e5e9e8",
+        "#4a4f59",
+        "#ff7338",
+        "#54574f"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 69.0,
+      "sale_price": 69.0,
+      "taxonomyIdPath": "01000000#01050000#01052800",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Watch Straps",
+        "Green"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=ET-SNL70MKEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Wearables_Accessories&dt=Marine_Band_for_Galaxy_Watch_Ultra&dr=10",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-watch-ultra-marine-band-green-et-snl70mkegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-watch-ultra-marine-band-green-et-snl70mkegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/ET-SNL70MKEGEU",
+      "uspDesc": [
+        "Unique to Galaxy Watch Ultra"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£69.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£69.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Marine Band for your Galaxy Watch Ultra at Samsung UK. Designed for water activities, enjoy its lightweight and durable design."
+    },
+    {
+      "id": "EF-MF956TJEGWW",
+      "name": "Silicone Grip Case with Stand for Z Fold6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-MF956TJEGWW",
+        "EF-MF956TWEGWW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "31",
+      "reviewRating": "3.0",
+      "productDisplayName": "Silicone Grip Case with Stand for Z Fold6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-mf956-ef-mf956tjegww-542305642?$PD_GALLERY_PNG$",
+          "desc": "back Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-mf956-ef-mf956tjegww-thumb-542305652?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-mf956-ef-mf956tjegww-thumb-542305652?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-mf956-ef-mf956tjegww-542305642?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Fold6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#e9e9e7",
+        "#848587"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 59.0,
+      "sale_price": 59.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-MF956TJEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Silicone_Grip_Case_with_Stand_for_Z_Fold6&dr=11",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-fold6-silicone-case-gray-ef-mf956tjegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-fold6-silicone-case-gray-ef-mf956tjegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-MF956TJEGWW",
+      "uspDesc": [
+        "Enhanced functionality with both integrated grip and stand"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£59.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£59.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Silicone Case with a built-in stand for your Galaxy Z Fold6 at Samsung UK. Express yourself with a range of trendy colours to match your unique style."
+    },
+    {
+      "id": "ET-SNL31LOEGEU",
+      "name": "Sport Band (M/L) for Galaxy Watch 7",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Wearables Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "ET-SNL31LBEGEU",
+        "ET-SNL31LKEGEU",
+        "ET-SNL31LOEGEU",
+        "ET-SNL31LSEGEU",
+        "ET-SNL31LWEGEU"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "2",
+      "reviewRating": "5.0",
+      "productDisplayName": "Sport Band (M/L) for Galaxy Watch 7",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-medium-and-large-et-snl31loegeu-542306717?$PD_GALLERY_PNG$",
+          "desc": "back Orange"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-medium-and-large-et-snl31loegeu-thumb-542306720?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Orange"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-medium-and-large-et-snl31loegeu-thumb-542306720?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-medium-and-large-et-snl31loegeu-542306717?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Watch Straps"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch4",
+            "Galaxy Watch5 & 5 Pro",
+            "Galaxy Watch6 & 6 Classic",
+            "Galaxy Watch7"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Orange"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#4a4f59",
+        "#bdc0bf",
+        "#ff7338",
+        "#54574f",
+        "#f0eae0"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 44.0,
+      "sale_price": 44.0,
+      "taxonomyIdPath": "01000000#01050000#01052800",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Watch Straps",
+        "Orange"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=ET-SNL31LOEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Wearables_Accessories&dt=Sport_Band_(M/L)_for_Galaxy_Watch_7&dr=12",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-watch7-sport-band-medium-and-large-orange-et-snl31loegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-watch7-sport-band-medium-and-large-orange-et-snl31loegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/ET-SNL31LOEGEU",
+      "uspDesc": [
+        "Compatible with Galaxy Watch4/5/6/7/FE/4 Classic/5 Classic/5 Pro"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£44.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£44.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Sport Smartwatch Band M/L for your Galaxy Watch7 at Samsung UK. Enjoy the lightweight and breathable design, even while you sleep."
+    },
+    {
+      "id": "GP-FFF956YCATW",
+      "name": "Clear Case for Z Fold6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "GP-FFF956YCATW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "5",
+      "reviewRating": "4.0",
+      "productDisplayName": "Clear Case for Z Fold6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-slim-clear-case-for-galaxy-z-fold6-gp-fff956ycatw-542305925?$PD_GALLERY_PNG$",
+          "desc": "back Transparent"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-slim-clear-case-for-galaxy-z-fold6-gp-fff956ycatw-thumb-542305929?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Transparent"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-slim-clear-case-for-galaxy-z-fold6-gp-fff956ycatw-thumb-542305929?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-slim-clear-case-for-galaxy-z-fold6-gp-fff956ycatw-542305925?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Fold6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Transparent"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#fffffe"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 25.0,
+      "sale_price": 25.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Transparent"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=GP-FFF956YCATW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Clear_Case_for_Z_Fold6&dr=13",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/slim-clear-case-for-galaxy-z-fold6-transparent-gp-fff956ycatw/",
+      "linkUrlReview": "/uk/mobile-accessories/slim-clear-case-for-galaxy-z-fold6-transparent-gp-fff956ycatw/#reviews",
+      "uspDesc": [
+        "Slimmest case for Z Fold6"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£25.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£25.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Clear Phone Case for your Galaxy Z Fold6 at Samsung UK. Protect your device while also letting the original look and design shine."
+    },
+    {
+      "id": "EF-PF741TLEGWW",
+      "name": "Silicone Case with Ring for Z Flip6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-PF741TJEGWW",
+        "EF-PF741TLEGWW",
+        "EF-PF741TMEGWW",
+        "EF-PF741TNEGWW",
+        "EF-PF741TYEGWW"
+      ],
+      "productLaunchDate": "2024-06-07 00:00:00",
+      "numberOfReviews": "25",
+      "reviewRating": "3.4",
+      "productDisplayName": "Silicone Case with Ring for Z Flip6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-pf741-ef-pf741tlegww-542242549?$PD_GALLERY_PNG$",
+          "desc": "back Blue"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-pf741-ef-pf741tlegww-thumb-542242559?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Blue"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-pf741-ef-pf741tlegww-thumb-542242559?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-pf741-ef-pf741tlegww-542242549?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Blue"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#a5dfd3",
+        "#f8e59a",
+        "#485167",
+        "#848587",
+        "#a0c0dd"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 44.0,
+      "sale_price": 44.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Blue"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-PF741TLEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Silicone_Case_with_Ring_for_Z_Flip6&dr=14",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-flip6-silicone-case-blue-ef-pf741tlegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-flip6-silicone-case-blue-ef-pf741tlegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-PF741TLEGWW",
+      "uspDesc": [
+        "Removable ring and Silicone Case"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£44.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£44.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Silicone Case with a built-in ring for your Galaxy Z Flip6 at Samsung UK. Express yourself with a range of trendy colours to match your unique style."
+    },
+    {
+      "id": "EF-ZF741CTEGWW",
+      "name": "Flipsuit Case for Z Flip6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EF-ZF741CTEGWW"
+      ],
+      "productLaunchDate": "2024-06-07 00:00:00",
+      "numberOfReviews": "17",
+      "reviewRating": "3.5",
+      "productDisplayName": "Flipsuit Case for Z Flip6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-zf741-ef-zf741ctegww-542241545?$PD_GALLERY_PNG$",
+          "desc": "front Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-zf741-ef-zf741ctegww-thumb-542241546?$PD_GALLERY_THUM_PNG$",
+          "desc": "package Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-zf741-ef-zf741ctegww-thumb-542241546?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-flip6-zf741-ef-zf741ctegww-542241545?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#babdc2"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 44.0,
+      "sale_price": 44.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=EF-ZF741CTEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Flipsuit_Case_for_Z_Flip6&dr=15",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-z-flip6-flipsuit-case-gray-ef-zf741ctegww/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-z-flip6-flipsuit-case-gray-ef-zf741ctegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EF-ZF741CTEGWW",
+      "uspDesc": [
+        "Smart Case with custom digital skin - interchangeable design cards available"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£44.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£44.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Flipsuit Phone Case for your Galaxy Z Flip6 at Samsung UK. Give your device a digital makeover and change the style using your unique content."
+    },
+    {
+      "id": "GP-TOF741SBAYW",
+      "name": "Keith Haring Flipsuit Card",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "GP-TOF741SBALW",
+        "GP-TOF741SBAYW"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "1",
+      "reviewRating": "5.0",
+      "productDisplayName": "Keith Haring Flipsuit Card",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-keith-haring-flipsuit-card-for-galaxy-z-flip6-gp-tof741sbayw-542303549?$PD_GALLERY_PNG$",
+          "desc": "front-1 Yellow"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-keith-haring-flipsuit-card-for-galaxy-z-flip6-gp-tof741sbayw-thumb-542303557?$PD_GALLERY_THUM_PNG$",
+          "desc": "front-1 Yellow"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-keith-haring-flipsuit-card-for-galaxy-z-flip6-gp-tof741sbayw-thumb-542303557?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-keith-haring-flipsuit-card-for-galaxy-z-flip6-gp-tof741sbayw-542303549?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Offer Available"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Covers & Cases"
+          ]
+        },
+        {
+          "name": "Accessory Collection",
+          "id": "6",
+          "value": [
+            "Keith Harring"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip6"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Yellow"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffff00",
+        "#0000ff"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 12.0,
+      "sale_price": 12.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Covers & Cases",
+        "Keith Harring",
+        "Yellow"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=GP-TOF741SBAYW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Keith_Haring_Flipsuit_Card&dr=16",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/keith-haring-flipsuit-card-for-galaxy-z-flip6-yellow-gp-tof741sbayw/",
+      "linkUrlReview": "/uk/mobile-accessories/keith-haring-flipsuit-card-for-galaxy-z-flip6-yellow-gp-tof741sbayw/#reviews",
+      "uspDesc": [
+        "Additional Keith Haring contents card for Z Flip5 and Z Flip6 Flipsuit Case"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£12.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£12.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Keith Haring Flipsuit Card Phone Case for your Galaxy Z Flip6. Browse all Flip Phone Cases and mobile accessories at Samsung UK."
+    },
+    {
+      "id": "ET-SBL70MBEGEU",
+      "name": "PeakForm Band for Galaxy Watch Ultra",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Wearables Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "ET-SBL70MBEGEU",
+        "ET-SBL70MOEGEU",
+        "ET-SBL70MWEGEU"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "1",
+      "reviewRating": "5.0",
+      "productDisplayName": "PeakForm Band for Galaxy Watch Ultra",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-peakform-band-small-and-medium-and-large-et-sbl70mbegeu-542306320?$PD_GALLERY_PNG$",
+          "desc": "back Dark Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-peakform-band-small-and-medium-and-large-et-sbl70mbegeu-thumb-542306324?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Dark Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-peakform-band-small-and-medium-and-large-et-sbl70mbegeu-thumb-542306324?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch-ultra-peakform-band-small-and-medium-and-large-et-sbl70mbegeu-542306320?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Watch Straps"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch Ultra"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Dark Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#d6cfc7",
+        "#5e5a5e",
+        "#ff7338"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 69.0,
+      "sale_price": 69.0,
+      "taxonomyIdPath": "01000000#01050000#01052800",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Watch Straps",
+        "Dark Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=ET-SBL70MBEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Wearables_Accessories&dt=PeakForm_Band_for_Galaxy_Watch_Ultra&dr=17",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-watch-ultra-peakform-band-dark-gray-et-sbl70mbegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-watch-ultra-peakform-band-dark-gray-et-sbl70mbegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/ET-SBL70MBEGEU",
+      "uspDesc": [
+        "Unique to Galaxy Watch Ultra"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£69.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£69.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the PeakForm Smartwatch Band for your Galaxy Watch Ultra at Samsung UK. Enjoy the lightweight design and maximum durability."
+    },
+    {
+      "id": "ET-SNL30SBEGEU",
+      "name": "Sport Band (S/M) for Galaxy Watch 7",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Wearables Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "ET-SNL30SBEGEU",
+        "ET-SNL30SKEGEU",
+        "ET-SNL30SOEGEU",
+        "ET-SNL30SSEGEU",
+        "ET-SNL30SWEGEU"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "1",
+      "reviewRating": "5.0",
+      "productDisplayName": "Sport Band (S/M) for Galaxy Watch 7",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-small-and-medium-et-snl30sbegeu-542306448?$PD_GALLERY_PNG$",
+          "desc": "back Dark Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-small-and-medium-et-snl30sbegeu-thumb-542306451?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Dark Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-small-and-medium-et-snl30sbegeu-thumb-542306451?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-small-and-medium-et-snl30sbegeu-542306448?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Watch Straps"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch4",
+            "Galaxy Watch5 & 5 Pro",
+            "Galaxy Watch6 & 6 Classic",
+            "Galaxy Watch7"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Dark Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#4a4f59",
+        "#bdc0bf",
+        "#ff7338",
+        "#54574f",
+        "#f0eae0"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 44.0,
+      "sale_price": 44.0,
+      "taxonomyIdPath": "01000000#01050000#01052800",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Watch Straps",
+        "Dark Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=ET-SNL30SBEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Wearables_Accessories&dt=Sport_Band_(S/M)_for_Galaxy_Watch_7&dr=18",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-watch7-sport-band-small-and-medium-dark-gray-et-snl30sbegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-watch7-sport-band-small-and-medium-dark-gray-et-snl30sbegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/ET-SNL30SBEGEU",
+      "uspDesc": [
+        "Compatible with Galaxy Watch4/5/6/7/FE/4 Classic/5 Classic/5 Pro"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£44.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£44.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Sport Smartwatch Band S/M for your Galaxy Watch7 at Samsung UK. Enjoy the lightweight and breathable design, even while you sleep."
+    },
+    {
+      "id": "ET-SVL30SKEGEU",
+      "name": "Fabric Band (S/M) for Galaxy Watch 7",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Wearables Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "ET-SVL30SEEGEU",
+        "ET-SVL30SKEGEU",
+        "ET-SVL30SWEGEU"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "1",
+      "reviewRating": "5.0",
+      "productDisplayName": "Fabric Band (S/M) for Galaxy Watch 7",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-fabric-band-small-and-medium-et-svl30skegeu-542306785?$PD_GALLERY_PNG$",
+          "desc": "back Green"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-fabric-band-small-and-medium-et-svl30skegeu-thumb-542306788?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Green"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-fabric-band-small-and-medium-et-svl30skegeu-thumb-542306788?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-fabric-band-small-and-medium-et-svl30skegeu-542306785?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Watch Straps"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch4",
+            "Galaxy Watch5 & 5 Pro",
+            "Galaxy Watch6 & 6 Classic",
+            "Galaxy Watch7"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#643e47",
+        "#f5f7f6",
+        "#69725f"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 44.0,
+      "sale_price": 44.0,
+      "taxonomyIdPath": "01000000#01050000#01052800",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Watch Straps",
+        "Green"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=ET-SVL30SKEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Wearables_Accessories&dt=Fabric_Band_(S/M)_for_Galaxy_Watch_7&dr=19",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-watch7-fabric-band-small-and-medium-green-et-svl30skegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-watch7-fabric-band-small-and-medium-green-et-svl30skegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/ET-SVL30SKEGEU",
+      "uspDesc": [
+        "Compatible with Galaxy Watch4/5/6/7/FE/4 Classic/5 Classic/5 Pro"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£44.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£44.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Fabric Smartwatch Band S/M for your Galaxy Watch7 at Samsung UK. Enjoy the lightweight design & maximum comfort, even while you sleep."
+    },
+    {
+      "id": "ET-SOL31LLEGEU",
+      "name": "Athleisure Band (M/L) for Galaxy Watch 7",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Wearables Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "ET-SOL31LKEGEU",
+        "ET-SOL31LLEGEU",
+        "ET-SOL31LSEGEU"
+      ],
+      "productLaunchDate": "2024-06-12 00:00:00",
+      "numberOfReviews": "1",
+      "reviewRating": "5.0",
+      "productDisplayName": "Athleisure Band (M/L) for Galaxy Watch 7",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-athleisure-band-medium-and-large-et-sol31llegeu-542307289?$PD_GALLERY_PNG$",
+          "desc": "back Sky Blue"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-athleisure-band-medium-and-large-et-sol31llegeu-thumb-542307292?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Sky Blue"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-athleisure-band-medium-and-large-et-sol31llegeu-thumb-542307292?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-athleisure-band-medium-and-large-et-sol31llegeu-542307289?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Watch Straps"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch4",
+            "Galaxy Watch5 & 5 Pro",
+            "Galaxy Watch6 & 6 Classic",
+            "Galaxy Watch7"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Sky Blue"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#bdc0bf",
+        "#54574f",
+        "#a0c0dd"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 59.0,
+      "sale_price": 59.0,
+      "taxonomyIdPath": "01000000#01050000#01052800",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Watch Straps",
+        "Sky Blue"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=printer&cn=scom&cco=B2C&ui=69d2ab3f-0004-3b11-b11a-b6371e8c4ed4&si=20d9f74e-3ded-3412-8155-32134f21334a-1726738196902&ti=afdc1488-e403-3427-b395-0f754a11c328&qi=a47e837f-beef-3ad2-9516-26c47f657bb1&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=351&rs=Printer_Support_with_HP&tc=ACCESSORIES&di=ET-SOL31LLEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Wearables_Accessories&dt=Athleisure_Band_(M/L)_for_Galaxy_Watch_7&dr=20",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/galaxy-watch7-athleisure-band-medium-and-large-sky-blue-et-sol31llegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/galaxy-watch7-athleisure-band-medium-and-large-sky-blue-et-sol31llegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/ET-SOL31LLEGEU",
+      "uspDesc": [
+        "Compatible with Galaxy Watch4/5/6/7/FE/4 Classic/5 Classic/5 Pro"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£59.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£59.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Athleisure Smartwatch Band M/L for your Galaxy Watch7 at Samsung UK. Enjoy the lightweight, durable design & stay stylish on the move."
+    }
+  ],
+  "filters": [
+    {
+      "displayName": "Categories",
+      "values": [
+        {
+          "count": 2,
+          "value": "Computer Accessories"
+        },
+        {
+          "count": 344,
+          "value": "Mobile Accessories"
+        },
+        {
+          "count": 5,
+          "value": "SmartThings"
+        }
+      ],
+      "name": "groupedProductsList.sub_category.keyword",
+      "type": "property",
+      "priority": 0
+    },
+    {
+      "displayName": "Price Range",
+      "values": [
+        {
+          "count": 2,
+          "value": "£250 - £500"
+        },
+        {
+          "count": 10,
+          "value": "£100 - £250"
+        },
+        {
+          "count": 99,
+          "value": "£50 - £100"
+        },
+        {
+          "count": 389,
+          "value": "£50 or less"
+        }
+      ],
+      "name": "groupedProductsList.sale_price",
+      "type": "range",
+      "priority": 1
+    },
+    {
+      "displayName": "Discount Range",
+      "values": [
+        {
+          "count": 111,
+          "value": "25% - 35%"
+        },
+        {
+          "count": 389,
+          "value": "5% or less"
+        }
+      ],
+      "name": "groupedProductsList.discount",
+      "type": "range",
+      "priority": 2
+    },
+    {
+      "displayName": "Colour",
+      "values": [
+        {
+          "count": 3,
+          "value": "Apricot"
+        },
+        {
+          "count": 1,
+          "value": "Arctic Blue"
+        },
+        {
+          "count": 4,
+          "value": "Awesome Peach"
+        },
+        {
+          "count": 5,
+          "value": "Beige"
+        },
+        {
+          "count": 135,
+          "value": "Black"
+        },
+        {
+          "count": 2,
+          "value": "Black Camo"
+        },
+        {
+          "count": 1,
+          "value": "Black Titanium"
+        },
+        {
+          "count": 15,
+          "value": "Blue"
+        },
+        {
+          "count": 2,
+          "value": "Blue Black"
+        },
+        {
+          "count": 1,
+          "value": "Blue Grey"
+        },
+        {
+          "count": 1,
+          "value": "Blue White"
+        },
+        {
+          "count": 3,
+          "value": "Blueberry"
+        },
+        {
+          "count": 1,
+          "value": "Blueblack"
+        },
+        {
+          "count": 1,
+          "value": "Brown"
+        },
+        {
+          "count": 1,
+          "value": "Butter Yellow"
+        },
+        {
+          "count": 5,
+          "value": "Camel"
+        },
+        {
+          "count": 1,
+          "value": "Cloud Blue"
+        },
+        {
+          "count": 1,
+          "value": "Copper"
+        },
+        {
+          "count": 12,
+          "value": "Cream"
+        },
+        {
+          "count": 6,
+          "value": "Dark Grey"
+        },
+        {
+          "count": 12,
+          "value": "Dark Violet"
+        },
+        {
+          "count": 2,
+          "value": "Essential White"
+        },
+        {
+          "count": 5,
+          "value": "Etoupe"
+        },
+        {
+          "count": 1,
+          "value": "Fresh Lavender"
+        },
+        {
+          "count": 4,
+          "value": "Gold"
+        },
+        {
+          "count": 8,
+          "value": "Graphite"
+        },
+        {
+          "count": 3,
+          "value": "Gray"
+        },
+        {
+          "count": 1,
+          "value": "Gray Titanium"
+        },
+        {
+          "count": 23,
+          "value": "Green"
+        },
+        {
+          "count": 11,
+          "value": "Grey"
+        },
+        {
+          "count": 1,
+          "value": "Indian Pink"
+        },
+        {
+          "count": 5,
+          "value": "Indigo"
+        },
+        {
+          "count": 1,
+          "value": "Ivory White"
+        },
+        {
+          "count": 10,
+          "value": "Lavender"
+        },
+        {
+          "count": 8,
+          "value": "Light Blue"
+        },
+        {
+          "count": 1,
+          "value": "Light Gray"
+        },
+        {
+          "count": 3,
+          "value": "Light Green"
+        },
+        {
+          "count": 4,
+          "value": "Light Grey"
+        },
+        {
+          "count": 13,
+          "value": "Lime"
+        },
+        {
+          "count": 1,
+          "value": "Midnight"
+        },
+        {
+          "count": 1,
+          "value": "Minions Bob"
+        },
+        {
+          "count": 1,
+          "value": "Minions Otto"
+        },
+        {
+          "count": 1,
+          "value": "Minions Stuart"
+        },
+        {
+          "count": 9,
+          "value": "Mint"
+        },
+        {
+          "count": 1,
+          "value": "Mustard"
+        },
+        {
+          "count": 1,
+          "value": "Mystic Black"
+        },
+        {
+          "count": 1,
+          "value": "Mystic Pink"
+        },
+        {
+          "count": 1,
+          "value": "Mystic Silver"
+        },
+        {
+          "count": 6,
+          "value": "Navy"
+        },
+        {
+          "count": 1,
+          "value": "Navy Blue"
+        },
+        {
+          "count": 10,
+          "value": "Orange"
+        },
+        {
+          "count": 1,
+          "value": "Peach"
+        },
+        {
+          "count": 4,
+          "value": "Phantom Black"
+        },
+        {
+          "count": 10,
+          "value": "Pink"
+        },
+        {
+          "count": 1,
+          "value": "Pink Gold"
+        },
+        {
+          "count": 1,
+          "value": "Pink White"
+        },
+        {
+          "count": 5,
+          "value": "Purple"
+        },
+        {
+          "count": 16,
+          "value": "Red"
+        },
+        {
+          "count": 4,
+          "value": "Sand"
+        },
+        {
+          "count": 1,
+          "value": "Sapphire"
+        },
+        {
+          "count": 1,
+          "value": "Serene Purple"
+        },
+        {
+          "count": 20,
+          "value": "Silver"
+        },
+        {
+          "count": 1,
+          "value": "Sky Blue"
+        },
+        {
+          "count": 1,
+          "value": "Tan"
+        },
+        {
+          "count": 6,
+          "value": "Taupe"
+        },
+        {
+          "count": 2,
+          "value": "Titan"
+        },
+        {
+          "count": 67,
+          "value": "Transparent"
+        },
+        {
+          "count": 8,
+          "value": "Violet"
+        },
+        {
+          "count": 2,
+          "value": "Vivid Lemon"
+        },
+        {
+          "count": 69,
+          "value": "White"
+        },
+        {
+          "count": 3,
+          "value": "White Sand"
+        },
+        {
+          "count": 1,
+          "value": "Wine"
+        },
+        {
+          "count": 22,
+          "value": "Yellow"
+        }
+      ],
+      "name": "Colour",
+      "type": "attribute",
+      "priority": 3
+    },
+    {
+      "displayName": "Product Type",
+      "values": [
+        {
+          "count": 2,
+          "value": "Battery Packs"
+        },
+        {
+          "count": 17,
+          "value": "Cables and Adaptors"
+        },
+        {
+          "count": 341,
+          "value": "Covers & Cases"
+        },
+        {
+          "count": 1,
+          "value": "Keyboard"
+        },
+        {
+          "count": 3,
+          "value": "Mouse"
+        },
+        {
+          "count": 97,
+          "value": "Other"
+        },
+        {
+          "count": 3,
+          "value": "Power and Cables"
+        },
+        {
+          "count": 22,
+          "value": "S Pens"
+        },
+        {
+          "count": 16,
+          "value": "Screen Protectors"
+        },
+        {
+          "count": 84,
+          "value": "Smart Accessories"
+        },
+        {
+          "count": 87,
+          "value": "Watch Straps"
+        },
+        {
+          "count": 19,
+          "value": "Wireless Chargers"
+        }
+      ],
+      "name": "Product Type",
+      "type": "attribute",
+      "priority": 9
+    },
+    {
+      "displayName": "Thickness",
+      "values": [
+        {
+          "count": 1,
+          "value": "126 mm"
+        },
+        {
+          "count": 1,
+          "value": "55.7 mm"
+        },
+        {
+          "count": 1,
+          "value": "51.9 mm"
+        },
+        {
+          "count": 1,
+          "value": "42 mm"
+        },
+        {
+          "count": 1,
+          "value": "40.8 mm"
+        }
+      ],
+      "name": "Thickness",
+      "type": "attribute",
+      "priority": 67
+    },
+    {
+      "displayName": "Accessory Collection",
+      "values": [
+        {
+          "count": 24,
+          "value": "Keith Harring"
+        },
+        {
+          "count": 4,
+          "value": "Marvel Avengers"
+        },
+        {
+          "count": 3,
+          "value": "Marvel Spiderman"
+        },
+        {
+          "count": 9,
+          "value": "Mickey Mouse"
+        },
+        {
+          "count": 70,
+          "value": "More collections"
+        },
+        {
+          "count": 12,
+          "value": "Smiley"
+        },
+        {
+          "count": 1,
+          "value": "Star Wars"
+        },
+        {
+          "count": 8,
+          "value": "TOILETPAPER"
+        }
+      ],
+      "name": "Accessory Collection",
+      "type": "attribute",
+      "priority": 90
+    },
+    {
+      "displayName": "Smartphone Compatibility",
+      "values": [
+        {
+          "count": 3,
+          "value": "Galaxy A15 | A15 5G"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A21s"
+        },
+        {
+          "count": 3,
+          "value": "Galaxy A25 5G"
+        },
+        {
+          "count": 10,
+          "value": "Galaxy A35"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A40"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A41"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A51"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A53"
+        },
+        {
+          "count": 10,
+          "value": "Galaxy A55"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A70"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A71"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Note10"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Note20"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy S10"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy S20"
+        },
+        {
+          "count": 3,
+          "value": "Galaxy S21"
+        },
+        {
+          "count": 20,
+          "value": "Galaxy S22"
+        },
+        {
+          "count": 44,
+          "value": "Galaxy S23"
+        },
+        {
+          "count": 10,
+          "value": "Galaxy S23 FE"
+        },
+        {
+          "count": 40,
+          "value": "Galaxy S24"
+        },
+        {
+          "count": 35,
+          "value": "Galaxy S24 Ultra"
+        },
+        {
+          "count": 39,
+          "value": "Galaxy S24+"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Z Flip"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Z Flip3"
+        },
+        {
+          "count": 12,
+          "value": "Galaxy Z Flip4"
+        },
+        {
+          "count": 45,
+          "value": "Galaxy Z Flip5"
+        },
+        {
+          "count": 24,
+          "value": "Galaxy Z Flip6"
+        },
+        {
+          "count": 3,
+          "value": "Galaxy Z Fold2"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Z Fold3"
+        },
+        {
+          "count": 14,
+          "value": "Galaxy Z Fold4"
+        },
+        {
+          "count": 18,
+          "value": "Galaxy Z Fold5"
+        },
+        {
+          "count": 10,
+          "value": "Galaxy Z Fold6"
+        },
+        {
+          "count": 1,
+          "value": "Other"
+        }
+      ],
+      "name": "Smartphone Compatibility",
+      "type": "attribute",
+      "priority": 91
+    },
+    {
+      "displayName": "Watch Compatibility",
+      "values": [
+        {
+          "count": 2,
+          "value": "Galaxy Watch Active"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Watch Active2"
+        },
+        {
+          "count": 11,
+          "value": "Galaxy Watch Ultra"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Watch3"
+        },
+        {
+          "count": 67,
+          "value": "Galaxy Watch4"
+        },
+        {
+          "count": 62,
+          "value": "Galaxy Watch5 & 5 Pro"
+        },
+        {
+          "count": 63,
+          "value": "Galaxy Watch6 & 6 Classic"
+        },
+        {
+          "count": 27,
+          "value": "Galaxy Watch7"
+        }
+      ],
+      "name": "Watch Compatibility",
+      "type": "attribute",
+      "priority": 92
+    },
+    {
+      "displayName": "Tablet Compatibility",
+      "values": [
+        {
+          "count": 1,
+          "value": "Galaxy Tab 10.1"
+        },
+        {
+          "count": 1,
+          "value": "Galaxy Tab A 10.5"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Tab A8"
+        },
+        {
+          "count": 10,
+          "value": "Galaxy Tab A9/A9+"
+        },
+        {
+          "count": 1,
+          "value": "Galaxy Tab S6"
+        },
+        {
+          "count": 11,
+          "value": "Galaxy Tab S6 Lite"
+        },
+        {
+          "count": 9,
+          "value": "Galaxy Tab S7"
+        },
+        {
+          "count": 10,
+          "value": "Galaxy Tab S8"
+        },
+        {
+          "count": 17,
+          "value": "Galaxy Tab S9"
+        },
+        {
+          "count": 13,
+          "value": "Galaxy Tab S9 FE"
+        },
+        {
+          "count": 13,
+          "value": "Galaxy Tab S9 FE+"
+        },
+        {
+          "count": 16,
+          "value": "Galaxy Tab S9 Ultra"
+        },
+        {
+          "count": 17,
+          "value": "Galaxy Tab S9+"
+        }
+      ],
+      "name": "Tablet Compatibility",
+      "type": "attribute",
+      "priority": 93
+    },
+    {
+      "displayName": "Offers",
+      "values": [
+        {
+          "count": 1,
+          "value": "Free Gift With Smart Monitor"
+        },
+        {
+          "count": 120,
+          "value": "Offer Available"
+        }
+      ],
+      "name": "Offers",
+      "type": "attribute",
+      "priority": 97
+    },
+    {
+      "displayName": "Availability",
+      "values": [
+        {
+          "count": 491,
+          "value": "In Stock"
+        },
+        {
+          "count": 9,
+          "value": "Out of Stock"
+        }
+      ],
+      "name": "Availability",
+      "type": "attribute",
+      "priority": 98
+    }
+  ],
+  "subjectiveQuery": false,
+  "resultType": "accessory",
+  "relatedKeywords": [
+    "Printer Support with HP"
+  ],
+  "tabInfoList": [
+    {
+      "tabType": "ALL",
+      "tabParam": "all",
+      "count": 1346
+    },
+    {
+      "tabType": "PRD",
+      "tabParam": "product",
+      "count": 302
+    },
+    {
+      "tabType": "ACC",
+      "tabParam": "accessory",
+      "count": 351
+    },
+    {
+      "tabType": "SPP",
+      "tabParam": "support",
+      "count": 693
+    }
+  ]
+}

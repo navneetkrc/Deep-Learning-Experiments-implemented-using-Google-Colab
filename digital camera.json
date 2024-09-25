@@ -1,0 +1,229 @@
+{
+  "sessionID": "61a1ae72-679e-37f9-9835-cd846bd82b6f-1726737977749",
+  "searchTotalTime": 225,
+  "searchTotalCount": 1,
+  "searchProcTime": 207,
+  "hasMoreResults": false,
+  "searchResults": [
+    {
+      "id": "MB-MC128SA/EU",
+      "name": "EVO Plus microSD Card",
+      "type": "Product",
+      "category": "Memory and Storage",
+      "sub_category": "Memory and Storage",
+      "sub_genre": "Memory Card",
+      "discount": 0.0,
+      "groupedProducts": [
+        "MB-MC128SA/EU",
+        "MB-MC256SA/EU",
+        "MB-MC512SA/EU",
+        "MB-MC64SA/EU"
+      ],
+      "productLaunchDate": "2024-05-16 00:00:00",
+      "numberOfReviews": "1",
+      "reviewRating": "5.0",
+      "productDisplayName": "EVO Plus microSD Card",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/mb-mc128sa-eu/gallery/uk-memory-cardevo-plus-microsd-card-mb-mc128sa-eu-540813944?$PD_GALLERY_PNG$",
+          "desc": "r-perspective White"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/mb-mc128sa-eu/gallery/uk-memory-cardevo-plus-microsd-card-mb-mc128sa-eu-thumb-540813962?$PD_GALLERY_THUM_PNG$",
+          "desc": "r-perspective White"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/mb-mc128sa-eu/gallery/uk-memory-cardevo-plus-microsd-card-mb-mc128sa-eu-thumb-540813962?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/mb-mc128sa-eu/gallery/uk-memory-cardevo-plus-microsd-card-mb-mc128sa-eu-540813944?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name_eng": "Type",
+          "name": "Type",
+          "id": "0",
+          "value": [
+            "microSDXC Memory Card"
+          ]
+        },
+        {
+          "name_eng": "Capacity",
+          "name": "Capacity",
+          "id": "1",
+          "value": [
+            "128GB"
+          ]
+        },
+        {
+          "name": "Type",
+          "id": "0",
+          "value": [
+            "Memory Card"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "White"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 15.0,
+      "sale_price": 15.0,
+      "taxonomyIdPath": "09000000#09010000#09010300",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "microSDXC Memory Card",
+        "128GB",
+        "Memory Card",
+        "White"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=digital_camera&cn=scom&cco=B2C&ui=d654629b-36a8-3532-8f38-e6461a7c3326&si=61a1ae72-679e-37f9-9835-cd846bd82b6f-1726737977749&ti=b0d72950-97e7-3d5f-b1b3-09965b9d539e&qi=37b46dea-83da-3fdb-b5f0-f7d4c5e5930f&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=1&rs=How_do_I_use_my_digital_camera?&tc=PRODUCT&di=MB-MC128SA/EU&dc=Memory_and_Storage&sc=Memory_and_Storage&dg=Memory_Card&dt=EVO_Plus_microSD_Card&dr=1",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/memory-storage/memory-card/evo-plus-microsd-card-128gb-mb-mc128sa-eu/",
+      "linkUrlReview": "/uk/memory-storage/memory-card/evo-plus-microsd-card-128gb-mb-mc128sa-eu/#reviews",
+      "supportLinkUrl": "/uk/support/model/MB-MC128SA/EU",
+      "uspDesc": [
+        "Includes full size adapter for use in cameras, laptops, and desktop computers",
+        "10-year limited warranty",
+        "Compatible with Android smartphones, tablets, action cams, drones, gaming consoles and more.",
+        "Protection from water, extreme temperatures, X-rays, magnets, drops and wearout.",
+        "Available in various capacities up to 1TB.",
+        "Up to 160MB/s transfer speed with UHS-I interface. Performance varies by capacity."
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "Y",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£15.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£15.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "EVO Plus microSD Card (MB-MC128SA/EU) - See the benefits and full features of this product. Learn more and find the best Memory and Storage for you at Samsung UK."
+    }
+  ],
+  "filters": [
+    {
+      "displayName": "Price Range",
+      "values": [
+        {
+          "count": 1,
+          "value": "£50 - £100"
+        },
+        {
+          "count": 3,
+          "value": "£50 or less"
+        }
+      ],
+      "name": "groupedProductsList.sale_price",
+      "type": "range",
+      "priority": 1
+    },
+    {
+      "displayName": "Type",
+      "values": [
+        {
+          "count": 4,
+          "value": "Memory Card"
+        },
+        {
+          "count": 4,
+          "value": "microSDXC Memory Card"
+        }
+      ],
+      "name": "Type",
+      "type": "attribute",
+      "priority": 8
+    },
+    {
+      "displayName": "Capacity",
+      "values": [
+        {
+          "count": 1,
+          "value": "64GB"
+        },
+        {
+          "count": 1,
+          "value": "512GB"
+        },
+        {
+          "count": 1,
+          "value": "256GB"
+        },
+        {
+          "count": 1,
+          "value": "128GB"
+        }
+      ],
+      "name": "Capacity",
+      "type": "attribute",
+      "priority": 30
+    }
+  ],
+  "subjectiveQuery": false,
+  "resultType": "Product",
+  "relatedKeywords": [
+    "How do I use my digital camera?"
+  ],
+  "tabInfoList": [
+    {
+      "tabType": "ALL",
+      "tabParam": "all",
+      "count": 88
+    },
+    {
+      "tabType": "PRD",
+      "tabParam": "product",
+      "count": 1
+    },
+    {
+      "tabType": "SPP",
+      "tabParam": "support",
+      "count": 85
+    }
+  ],
+  "bestMatch": {
+    "clientCode": "b2c",
+    "content": [
+      {
+        "DocId": "/uk/b2cbestmatch/bm/digital camera/",
+        "ThumbUrl": "http://images.samsung.com/is/image/samsung/uk-search-bm-1257911aff2-6746",
+        "LinkUrl": "https://www.samsung.com/uk/support/",
+        "Title": "Digital Cameras",
+        "Description": "Samsung Digital Cameras are a snapImages that make you look better.Smart guidance, intuitive interfaces and automated features help you channel your inner photographer under any circumstance, regardless of your expertise.",
+        "query": "digital camera"
+      }
+    ],
+    "query": "digital camera"
+  }
+}

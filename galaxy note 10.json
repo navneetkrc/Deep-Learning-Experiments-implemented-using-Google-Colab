@@ -1,0 +1,274 @@
+{
+  "sessionID": "28922f82-ab1b-325e-9428-1a362d975513-1726738074545",
+  "searchTotalTime": 88,
+  "searchTotalCount": 1,
+  "searchProcTime": 68,
+  "hasMoreResults": false,
+  "searchResults": [
+    {
+      "id": "EP-P6300TBEGGB",
+      "name": "Wireless Charger Trio",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Smartphones Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-P6300TBEGGB",
+        "EP-P6300TWEGGB"
+      ],
+      "productLaunchDate": "2020-10-01 00:00:00",
+      "numberOfReviews": "73",
+      "reviewRating": "3.9",
+      "productDisplayName": "Wireless Charger Trio",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-wireless-charger-trio-p6300-ep-p6300tbeggb-backblack-312135349?$PD_GALLERY_PNG$",
+          "desc": "back Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-wireless-charger-trio-p6300-ep-p6300tbeggb-frontblack-thumb-312135361?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/uk-wireless-charger-trio-p6300-ep-p6300tbeggb-frontblack-thumb-312135361?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/uk-wireless-charger-trio-p6300-ep-p6300tbeggb-backblack-312135349?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip",
+            "Galaxy S20",
+            "Galaxy Note10",
+            "Galaxy S10",
+            "Galaxy A51",
+            "Galaxy A71",
+            "Galaxy Note20",
+            "Galaxy Z Fold2",
+            "Galaxy S21",
+            "Galaxy A70",
+            "Galaxy A41",
+            "Galaxy A40",
+            "Galaxy A21s"
+          ]
+        },
+        {
+          "name": "Tablet Compatibility",
+          "id": "9",
+          "value": [
+            "Galaxy Tab S6 Lite"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch Active",
+            "Galaxy Watch Active2",
+            "Galaxy Watch3"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 89.0,
+      "sale_price": 89.0,
+      "taxonomyIdPath": "01000000#01050000#01052200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=galaxy_note_10&cn=scom&cco=B2C&ui=d3345a56-07d2-33a0-a92b-b023ce9c0254&si=28922f82-ab1b-325e-9428-1a362d975513-1726738074545&ti=7cc6e0bd-180f-32ab-9901-9fce306b6742&qi=42cd6a21-8ee6-3235-a0ae-6d5c4e74e3a3&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=1&rs=Galaxy_Note_10.1,_3G,Galaxy_Note_10.1\"_Book_Cover,Galaxy_Note_10.1_Book_Cover,Galaxy_Note_10.1,_Wi_Fi,12.0_MP_Galaxy_Note_Smartphones,Galaxy_Note9_Single_Sim_128_GB,Galaxy_Note_2014_Edition_10.1,_Wi_Fi,Galaxy_Note9_Hybrid_Sim_128_GB,Galaxy_Note_10.1_2014_Edition_4G_and_Wi_Fi&tc=ACCESSORIES&di=EP-P6300TBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Smartphones_Accessories&dt=Wireless_Charger_Trio&dr=1",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/wireless-charger-trio-p6300-ep-p6300tbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/wireless-charger-trio-p6300-ep-p6300tbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-P6300TBEGGB",
+      "uspDesc": [],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£89.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£89.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the black Samsung Wireless Phone Charger Trio EP-P6300TBEGGB to charge up to 3 Galaxy devices at once. Shop all chargers at Samsung UK."
+    }
+  ],
+  "filters": [
+    {
+      "displayName": "Colour",
+      "values": [
+        {
+          "count": 1,
+          "value": "Black"
+        },
+        {
+          "count": 1,
+          "value": "White"
+        }
+      ],
+      "name": "Colour",
+      "type": "attribute",
+      "priority": 3
+    },
+    {
+      "displayName": "Smartphone Compatibility",
+      "values": [
+        {
+          "count": 2,
+          "value": "Galaxy A21s"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A40"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A41"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A51"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A70"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A71"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Note10"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Note20"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy S10"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy S20"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy S21"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Z Flip"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Z Fold2"
+        }
+      ],
+      "name": "Smartphone Compatibility",
+      "type": "attribute",
+      "priority": 91
+    },
+    {
+      "displayName": "Watch Compatibility",
+      "values": [
+        {
+          "count": 2,
+          "value": "Galaxy Watch Active"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Watch Active2"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Watch3"
+        }
+      ],
+      "name": "Watch Compatibility",
+      "type": "attribute",
+      "priority": 92
+    }
+  ],
+  "subjectiveQuery": false,
+  "resultType": "accessory",
+  "relatedKeywords": [
+    "Galaxy Note 10.1, 3G",
+    "Galaxy Note 10.1\" Book Cover",
+    "Galaxy Note 10.1 Book Cover",
+    "Galaxy Note 10.1, Wi Fi",
+    "12.0 MP Galaxy Note Smartphones",
+    "Galaxy Note9 Single Sim 128 GB",
+    "Galaxy Note 2014 Edition 10.1, Wi Fi",
+    "Galaxy Note9 Hybrid Sim 128 GB",
+    "Galaxy Note 10.1 2014 Edition 4G and Wi Fi"
+  ],
+  "tabInfoList": [
+    {
+      "tabType": "ALL",
+      "tabParam": "all",
+      "count": 1912
+    },
+    {
+      "tabType": "ACC",
+      "tabParam": "accessory",
+      "count": 1
+    },
+    {
+      "tabType": "SPP",
+      "tabParam": "support",
+      "count": 1908
+    }
+  ]
+}

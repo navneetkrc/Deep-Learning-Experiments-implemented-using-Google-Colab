@@ -1,0 +1,4589 @@
+{
+  "sessionID": "1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632",
+  "searchTotalTime": 4,
+  "searchTotalCount": 32,
+  "searchProcTime": 0,
+  "hasMoreResults": true,
+  "searchResults": [
+    {
+      "id": "SM-P620NZAAEUB",
+      "name": "Galaxy Tab S6 Lite 2024 (10.4\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 26.0,
+      "groupedProducts": [
+        "SM-P620NZAAEUB",
+        "SM-P620NZAEEUB"
+      ],
+      "productLaunchDate": "2024-03-20 00:00:00",
+      "numberOfReviews": "192",
+      "reviewRating": "4.2",
+      "productDisplayName": "Galaxy Tab S6 Lite 2024 (10.4\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-p620nzaaeub/gallery/uk-galaxy-tab-s6-lite-sm-p620-sm-p620nzaaeub-540632396?$PD_GALLERY_PNG$",
+          "desc": "front Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-p620nzaaeub/gallery/uk-galaxy-tab-s6-lite-sm-p620-sm-p620nzaaeub-thumb-540632397?$PD_GALLERY_THUM_PNG$",
+          "desc": "front-with-s-pen Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-p620nzaaeub/gallery/uk-galaxy-tab-s6-lite-sm-p620-sm-p620nzaaeub-thumb-540632397?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-p620nzaaeub/gallery/uk-galaxy-tab-s6-lite-sm-p620-sm-p620nzaaeub-540632396?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            7040
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "7040 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WUXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            64
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "64 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2000 x 1200"
+          ]
+        },
+        {
+          "numeric_value": [
+            4
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "4 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Free Gift"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#777777"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 349.0,
+      "sale_price": 259.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-P620NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S6_Lite_2024_(10.4\",_Wi-Fi)&dr=1",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s6-lite-2024-grey-64gb-sm-p620nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s6-lite-2024-grey-64gb-sm-p620nzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-P620NZAAEUB",
+      "uspDesc": [
+        "10.4\" Display",
+        "Dolby Atmos speakers",
+        "S Pen included"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Get at least £20 off when you trade in<sup>5</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£349.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£259.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Change the way you note with Galaxy Tab S6 Lite, equipped with S Pen, a large 10.4 inch display, powerful battery life and expandable microSD."
+    },
+    {
+      "id": "SM-X210NZAAEUB",
+      "name": "Galaxy Tab A9+ (11\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab A",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X210NDBAEUB",
+        "SM-X210NDBEEUB",
+        "SM-X210NZAAEUB",
+        "SM-X210NZAEEUB",
+        "SM-X210NZSAEUB",
+        "SM-X210NZSEEUB"
+      ],
+      "productLaunchDate": "2023-11-27 00:00:00",
+      "numberOfReviews": "1095",
+      "reviewRating": "4.7",
+      "productDisplayName": "Galaxy Tab A9+ (11\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-a9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x210nzaaeub/gallery/uk-galaxy-tab-a9-plus-sm-x210-sm-x210nzaaeub-538905788?$PD_GALLERY_PNG$",
+          "desc": "product-image Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x210nzaaeub/gallery/uk-galaxy-tab-a9-plus-sm-x210-sm-x210nzaaeub-thumb-538905799?$PD_GALLERY_THUM_PNG$",
+          "desc": "product-image Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x210nzaaeub/gallery/uk-galaxy-tab-a9-plus-sm-x210-sm-x210nzaaeub-thumb-538905799?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x210nzaaeub/gallery/uk-galaxy-tab-a9-plus-sm-x210-sm-x210nzaaeub-538905788?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            7040
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "7040 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WUXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            64
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "64 GB"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1920 x 1200"
+          ]
+        },
+        {
+          "numeric_value": [
+            4
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "4 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Price Drop"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#c9c9c8",
+        "#2a3244"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 239.0,
+      "sale_price": 239.0,
+      "taxonomyIdPath": "01000000#01020000#01020200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X210NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_A&dt=Galaxy_Tab_A9+_(11\",_Wi-Fi)&dr=2",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-a/galaxy-tab-a9-plus-wifi-graphite-64gb-sm-x210nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-a/galaxy-tab-a9-plus-wifi-graphite-64gb-sm-x210nzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X210NZAAEUB",
+      "uspDesc": [
+        "11\" display with smooth 90Hz refresh rate",
+        "Thin and light design",
+        "Quad speakers with Dolby Atmos"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£239.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£239.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy Tab A9 Plus WiFi Tablet with an 11\" display & thin, light design. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X110NZAAEUB",
+      "name": "Galaxy Tab A9 (8.7\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab A",
+      "discount": 18.0,
+      "groupedProducts": [
+        "SM-X110NDBAEUB",
+        "SM-X110NDBEEUB",
+        "SM-X110NZAAEUB",
+        "SM-X110NZAEEUB",
+        "SM-X110NZSAEUB",
+        "SM-X110NZSEEUB"
+      ],
+      "productLaunchDate": "2023-11-27 00:00:00",
+      "numberOfReviews": "305",
+      "reviewRating": "4.6",
+      "productDisplayName": "Galaxy Tab A9 (8.7\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-a9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x110nzaaeub/gallery/uk-galaxy-tab-a9-sm-x110-sm-x110nzaaeub-538903813?$PD_GALLERY_PNG$",
+          "desc": "front1 Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x110nzaaeub/gallery/uk-galaxy-tab-a9-sm-x110-sm-x110nzaaeub-thumb-538903827?$PD_GALLERY_THUM_PNG$",
+          "desc": "front1 Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x110nzaaeub/gallery/uk-galaxy-tab-a9-sm-x110-sm-x110nzaaeub-thumb-538903827?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x110nzaaeub/gallery/uk-galaxy-tab-a9-sm-x110-sm-x110nzaaeub-538903813?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5100
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5100 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            64
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "64 GB"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1340 x 800"
+          ]
+        },
+        {
+          "numeric_value": [
+            4
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "4 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "10% Off"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#c9c9c8",
+        "#2a3244"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 169.0,
+      "sale_price": 139.0,
+      "taxonomyIdPath": "01000000#01020000#01020200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X110NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_A&dt=Galaxy_Tab_A9_(8.7\",_Wi-Fi)&dr=3",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-a/galaxy-tab-a9-wifi-graphite-64gb-sm-x110nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-a/galaxy-tab-a9-wifi-graphite-64gb-sm-x110nzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X110NZAAEUB",
+      "uspDesc": [
+        "Bright 8.7\" display",
+        "Compact and light design",
+        "Parental Controls for peace of mind"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£169.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£139.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy Tab A9 WiFi Tablet with a 8.7\" display & compact, lightweight design. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X216BDBEEUB",
+      "name": "Galaxy Tab A9+ (11\", 5G)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab A",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X216BDBAEUB",
+        "SM-X216BDBEEUB",
+        "SM-X216BZAAEUB",
+        "SM-X216BZAEEUB",
+        "SM-X216BZSAEUB",
+        "SM-X216BZSEEUB"
+      ],
+      "productLaunchDate": "2023-11-27 00:00:00",
+      "numberOfReviews": "94",
+      "reviewRating": "4.6",
+      "productDisplayName": "Galaxy Tab A9+ (11\", 5G)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-a9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x216bdbeeub/gallery/uk-galaxy-tab-a9-plus-sm-x216-sm-x216bdbeeub-538906304?$PD_GALLERY_PNG$",
+          "desc": "product-image Mystic Navy"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x216bdbeeub/gallery/uk-galaxy-tab-a9-plus-sm-x216-sm-x216bdbeeub-thumb-538906314?$PD_GALLERY_THUM_PNG$",
+          "desc": "product-image Mystic Navy"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x216bdbeeub/gallery/uk-galaxy-tab-a9-plus-sm-x216-sm-x216bdbeeub-thumb-538906314?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x216bdbeeub/gallery/uk-galaxy-tab-a9-plus-sm-x216-sm-x216bdbeeub-538906304?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            7040
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "7040 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WUXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1920 x 1200"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Price Drop"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Navy"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#c9c9c8",
+        "#2a3244"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 339.0,
+      "sale_price": 339.0,
+      "taxonomyIdPath": "01000000#01020000#01020200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "5G",
+        "Navy"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X216BDBEEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_A&dt=Galaxy_Tab_A9+_(11\",_5G)&dr=4",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-a/galaxy-tab-a9-plus-5g-mystic-navy-128gb-sm-x216bdbeeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-a/galaxy-tab-a9-plus-5g-mystic-navy-128gb-sm-x216bdbeeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X216BDBEEUB",
+      "uspDesc": [
+        "11\" display with smooth 90Hz refresh rate",
+        "Thin and light design",
+        "Quad speakers with Dolby Atmos"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£339.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£339.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy Tab A9 Plus 5G Tablet with an 11\" display & thin, light design. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X510NZAAEUB",
+      "name": "Galaxy Tab S9 FE (10.9\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X510NLGAEUB",
+        "SM-X510NLGEEUB",
+        "SM-X510NZAAEUB",
+        "SM-X510NZAEEUB",
+        "SM-X510NZSAEUB",
+        "SM-X510NZSEEUB"
+      ],
+      "productLaunchDate": "2023-10-11 00:00:00",
+      "numberOfReviews": "1034",
+      "reviewRating": "4.6",
+      "productDisplayName": "Galaxy Tab S9 FE (10.9\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9-fe/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x510nzaaeub/gallery/uk-galaxy-tab-s9-fe-sm-x510-sm-x510nzaaeub-538518555?$PD_GALLERY_PNG$",
+          "desc": "back Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x510nzaaeub/gallery/uk-galaxy-tab-s9-fe-sm-x510-sm-x510nzaaeub-thumb-538518577?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x510nzaaeub/gallery/uk-galaxy-tab-s9-fe-sm-x510-sm-x510nzaaeub-thumb-538518577?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x510nzaaeub/gallery/uk-galaxy-tab-s9-fe-sm-x510-sm-x510nzaaeub-538518555?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            8000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "8000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WUXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2304 x 1440"
+          ]
+        },
+        {
+          "numeric_value": [
+            6
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "6 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#c4ded7",
+        "#808080",
+        "#c0c0c0"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 449.0,
+      "sale_price": 449.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X510NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9_FE_(10.9\",_Wi-Fi)&dr=5",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-fe-wifi-gray-128gb-sm-x510nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-fe-wifi-gray-128gb-sm-x510nzaaeub/#reviews",
+      "uspDesc": [
+        "10.9\" 90Hz LCD Display",
+        "Powerful Exynos 1380 processor for fast multi-tasking",
+        "The families most useful S Pen"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£449.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£449.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Samsung Galaxy S9 FE Tablet with Wifi Connectivity, 10.9\" Display & S Pen Compatibility. Available in 4 Fan Edition colours at Samsung UK."
+    },
+    {
+      "id": "SM-X610NZAAEUB",
+      "name": "Galaxy Tab S9 FE+ (12.4\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X610NLGAEUB",
+        "SM-X610NLGEEUB",
+        "SM-X610NLIAEUB",
+        "SM-X610NZAAEUB",
+        "SM-X610NZAEEUB",
+        "SM-X610NZSAEUB",
+        "SM-X610NZSEEUB"
+      ],
+      "productLaunchDate": "2023-10-11 00:00:00",
+      "numberOfReviews": "558",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S9 FE+ (12.4\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9-fe/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x610nzaaeub/gallery/uk-galaxy-tab-s9-fe-plus-sm-x610-sm-x610nzaaeub-538519699?$PD_GALLERY_PNG$",
+          "desc": "front Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x610nzaaeub/gallery/uk-galaxy-tab-s9-fe-plus-sm-x610-sm-x610nzaaeub-thumb-538519700?$PD_GALLERY_THUM_PNG$",
+          "desc": "back-w--s-pen Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x610nzaaeub/gallery/uk-galaxy-tab-s9-fe-plus-sm-x610-sm-x610nzaaeub-thumb-538519700?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x610nzaaeub/gallery/uk-galaxy-tab-s9-fe-plus-sm-x610-sm-x610nzaaeub-538519699?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            10090
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "10090 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2560 x 1600"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#808080",
+        "#c0c0c0",
+        "#c1d1a6",
+        "#dcced9"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 599.0,
+      "sale_price": 599.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X610NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9_FE+_(12.4\",_Wi-Fi)&dr=6",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-fe-plus-wifi-gray-128gb-sm-x610nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-fe-plus-wifi-gray-128gb-sm-x610nzaaeub/#reviews",
+      "uspDesc": [
+        "12.4\" 90Hz LCD Display",
+        "Powerful Exynos 1380 processor for fast multi-tasking",
+        "The families most useful S Pen"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£599.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£599.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy S9 FE Plus Tablet with Wifi Connectivity, 10.9\" Display & S Pen Compatibility. Available in 4 Fan Edition colours at Samsung UK."
+    },
+    {
+      "id": "SM-X115NDBAEUB",
+      "name": "Galaxy Tab A9 (8.7\", LTE)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab A",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X115NDBAEUB",
+        "SM-X115NDBEEUB",
+        "SM-X115NZAAEUB",
+        "SM-X115NZAEEUB",
+        "SM-X115NZSAEUB",
+        "SM-X115NZSEEUB"
+      ],
+      "productLaunchDate": "2023-11-28 00:00:00",
+      "numberOfReviews": "29",
+      "reviewRating": "4.5",
+      "productDisplayName": "Galaxy Tab A9 (8.7\", LTE)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-a9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x115ndbaeub/gallery/uk-galaxy-tab-a9-sm-x115-sm-x115ndbaeub-538905581?$PD_GALLERY_PNG$",
+          "desc": "product-image Mystic Navy"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x115ndbaeub/gallery/uk-galaxy-tab-a9-sm-x115-sm-x115ndbaeub-thumb-538905591?$PD_GALLERY_THUM_PNG$",
+          "desc": "product-image Mystic Navy"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x115ndbaeub/gallery/uk-galaxy-tab-a9-sm-x115-sm-x115ndbaeub-thumb-538905591?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x115ndbaeub/gallery/uk-galaxy-tab-a9-sm-x115-sm-x115ndbaeub-538905581?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5100
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5100 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            64
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "64 GB"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1340 x 800"
+          ]
+        },
+        {
+          "numeric_value": [
+            4
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "4 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "4G"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Navy"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#c9c9c8",
+        "#2a3244"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 219.0,
+      "sale_price": 219.0,
+      "taxonomyIdPath": "01000000#01020000#01020200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "4G",
+        "Navy"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X115NDBAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_A&dt=Galaxy_Tab_A9_(8.7\",_LTE)&dr=7",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-a/galaxy-tab-a9-lte-mystic-navy-64gb-sm-x115ndbaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-a/galaxy-tab-a9-lte-mystic-navy-64gb-sm-x115ndbaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X115NDBAEUB",
+      "uspDesc": [
+        "Bright 8.7\" display",
+        "Compact and light design",
+        "Parental Controls for peace of mind"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£219.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£219.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy Tab A9 LTE Tablet with a 8.7\" display & compact, lightweight design. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X516BLGAEUB",
+      "name": "Galaxy Tab S9 FE (10.9\", 5G)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X516BLGAEUB",
+        "SM-X516BLGEEUB",
+        "SM-X516BZAAEUB",
+        "SM-X516BZAEEUB",
+        "SM-X516BZSAEUB",
+        "SM-X516BZSEEUB"
+      ],
+      "productLaunchDate": "2023-10-11 00:00:00",
+      "numberOfReviews": "205",
+      "reviewRating": "4.5",
+      "productDisplayName": "Galaxy Tab S9 FE (10.9\", 5G)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9-fe/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x516blgaeub/gallery/uk-galaxy-tab-s9-fe-sm-x516-sm-x516blgaeub-538516833?$PD_GALLERY_PNG$",
+          "desc": "front Light Green"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x516blgaeub/gallery/uk-galaxy-tab-s9-fe-sm-x516-sm-x516blgaeub-thumb-538516834?$PD_GALLERY_THUM_PNG$",
+          "desc": "s-pen-back Light Green"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x516blgaeub/gallery/uk-galaxy-tab-s9-fe-sm-x516-sm-x516blgaeub-thumb-538516834?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x516blgaeub/gallery/uk-galaxy-tab-s9-fe-sm-x516-sm-x516blgaeub-538516833?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            8000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "8000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WUXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2304 x 1440"
+          ]
+        },
+        {
+          "numeric_value": [
+            6
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "6 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Mint"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#c4ded7",
+        "#808080",
+        "#c0c0c0"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 549.0,
+      "sale_price": 549.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "5G",
+        "Mint"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X516BLGAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9_FE_(10.9\",_5G)&dr=8",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-fe-5g-light-green-128gb-sm-x516blgaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-fe-5g-light-green-128gb-sm-x516blgaeub/#reviews",
+      "uspDesc": [
+        "10.9\" 90Hz LCD Display",
+        "Powerful Exynos 1380 processor for fast multi-tasking",
+        "The families most useful S Pen"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£549.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£549.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Samsung Galaxy S9 FE Tablet with 5G Connectivity, 10.9\" Display & S Pen Compatibility. Available in 4 Fan Edition colours at Samsung UK."
+    },
+    {
+      "id": "SM-X616BLGAEUB",
+      "name": "Galaxy Tab S9 FE+ (12.4\", 5G)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X616BLGAEUB",
+        "SM-X616BLGEEUB",
+        "SM-X616BZAAEUB",
+        "SM-X616BZAEEUB",
+        "SM-X616BZSAEUB",
+        "SM-X616BZSEEUB"
+      ],
+      "productLaunchDate": "2023-10-11 00:00:00",
+      "numberOfReviews": "129",
+      "reviewRating": "4.6",
+      "productDisplayName": "Galaxy Tab S9 FE+ (12.4\", 5G)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9-fe/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x616blgaeub/gallery/uk-galaxy-tab-s9-fe-plus-sm-x616-sm-x616blgaeub-538518904?$PD_GALLERY_PNG$",
+          "desc": "front-only Light Green"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x616blgaeub/gallery/uk-galaxy-tab-s9-fe-plus-sm-x616-sm-x616blgaeub-thumb-538518926?$PD_GALLERY_THUM_PNG$",
+          "desc": "front-only Light Green"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x616blgaeub/gallery/uk-galaxy-tab-s9-fe-plus-sm-x616-sm-x616blgaeub-thumb-538518926?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x616blgaeub/gallery/uk-galaxy-tab-s9-fe-plus-sm-x616-sm-x616blgaeub-538518904?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            10090
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "10090 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2560 x 1600"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Mint"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#c4ded7",
+        "#808080",
+        "#c0c0c0"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 699.0,
+      "sale_price": 699.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "5G",
+        "Mint"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X616BLGAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9_FE+_(12.4\",_5G)&dr=9",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-fe-plus-5g-light-green-128gb-sm-x616blgaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-fe-plus-5g-light-green-128gb-sm-x616blgaeub/#reviews",
+      "uspDesc": [
+        "12.4\" 90Hz LCD Display",
+        "Powerful Exynos 1380 processor for fast multi-tasking",
+        "The families most useful S Pen"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£699.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£699.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy S9 FE Plus Tablet with 5G Connectivity, 10.9\" Display & S Pen Compatibility. Available in 4 Fan Edition colours at Samsung UK."
+    },
+    {
+      "id": "SM-X910NZAEEUB",
+      "name": "Galaxy Tab S9 Ultra (14.6\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X910NZAAEUB",
+        "SM-X910NZAEEUB",
+        "SM-X910NZAIEUB",
+        "SM-X910NZEAEUB",
+        "SM-X910NZEEEUB",
+        "SM-X910NZEIEUB"
+      ],
+      "productLaunchDate": "2023-07-03 00:00:00",
+      "numberOfReviews": "757",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S9 Ultra (14.6\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-ultra-wifi-x910-sm-x910nzaeeub-537349703?$PD_GALLERY_PNG$",
+          "desc": "front Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-ultra-wifi-x910-sm-x910nzaeeub-thumb-537349704?$PD_GALLERY_THUM_PNG$",
+          "desc": "front-w--s-pen Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-ultra-wifi-x910-sm-x910nzaeeub-thumb-537349704?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-ultra-wifi-x910-sm-x910nzaeeub-537349703?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            11200
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "11200 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            512
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "512 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2960 x 1848"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Gaming Tablets"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Free Gift",
+            "Trade In"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "Dolby Atmos speakers",
+            "MicroSD slot",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#dad6ca"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 1299.0,
+      "sale_price": 1299.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X910NZAEEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9_Ultra_(14.6\",_Wi-Fi)&dr=10",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-ultra-wi-fi-graphite-512gb-sm-x910nzaeeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-ultra-wi-fi-graphite-512gb-sm-x910nzaeeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X910NZAEEUB",
+      "uspDesc": [
+        "Next-gen processor for next-level, lifelike gaming",
+        "The first water and dust-resistant Galaxy S tablet ever",
+        "Pro-level creative apps with enhanced S Pen for your imagination",
+        "Get a crystal-clear, comfortable view with Dynamic AMOLED 2X"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Save £100 - £300 with code TABS9*</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£1,299.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£1,299.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "The Galaxy Tab S9 Ultra WiFi 14.6\" Tablet with new AI features. Our most durable, versatile & powerful tablets ever. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X810NZAAEUB",
+      "name": "Galaxy Tab S9+ (12.4\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X810NZAAEUB",
+        "SM-X810NZAEEUB",
+        "SM-X810NZEAEUB",
+        "SM-X810NZEEEUB"
+      ],
+      "productLaunchDate": "2023-07-03 00:00:00",
+      "numberOfReviews": "478",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S9+ (12.4\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-plus-wifi-x810-sm-x810nzaaeub-537349827?$PD_GALLERY_PNG$",
+          "desc": "front Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-plus-wifi-x810-sm-x810nzaaeub-thumb-537349828?$PD_GALLERY_THUM_PNG$",
+          "desc": "front Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-plus-wifi-x810-sm-x810nzaaeub-thumb-537349828?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-plus-wifi-x810-sm-x810nzaaeub-537349827?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            10090
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "10090 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            256
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "256 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2800 x 1752"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Gaming Tablets"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Free Gift",
+            "Trade In"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "Dolby Atmos speakers",
+            "MicroSD slot",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#dad6ca"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 999.0,
+      "sale_price": 999.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X810NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9+_(12.4\",_Wi-Fi)&dr=11",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-plus-wi-fi-graphite-256gb-sm-x810nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-plus-wi-fi-graphite-256gb-sm-x810nzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X810NZAAEUB",
+      "uspDesc": [
+        "Unified design. The beauty is in the details",
+        "The first water and dust-resistant Galaxy S tablet ever",
+        "Pro-level creative apps with enhanced S Pen for your imagination",
+        "Get a crystal-clear, comfortable view with Dynamic AMOLED 2X"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Save £100 - £300 with code TABS9*</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£999.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£999.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "The new Galaxy Tab S9 Plus WiFi 12.4\" Tablet with new AI features. Our most durable, versatile & powerful tablets yet. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X710NZAAEUB",
+      "name": "Galaxy Tab S9 (11\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X710NZAAEUB",
+        "SM-X710NZAEEUB",
+        "SM-X710NZEAEUB",
+        "SM-X710NZEEEUB"
+      ],
+      "productLaunchDate": "2023-07-03 00:00:00",
+      "numberOfReviews": "476",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S9 (11\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-wifi-x710-sm-x710nzaaeub-537348236?$PD_GALLERY_PNG$",
+          "desc": "front Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-wifi-x710-sm-x710nzaaeub-thumb-537348237?$PD_GALLERY_THUM_PNG$",
+          "desc": "front Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-wifi-x710-sm-x710nzaaeub-thumb-537348237?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-wifi-x710-sm-x710nzaaeub-537348236?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            8400
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "8400 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2560 x 1600"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Gaming Tablets"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Free Gift",
+            "Trade In"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "Dolby Atmos speakers",
+            "MicroSD slot",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#dad6ca"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 799.0,
+      "sale_price": 799.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X710NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9_(11\",_Wi-Fi)&dr=12",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-wi-fi-graphite-128gb-sm-x710nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-wi-fi-graphite-128gb-sm-x710nzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X710NZAAEUB",
+      "uspDesc": [
+        "Unified design. The beauty is in the details",
+        "Pro-level creative apps with enhanced S Pen for your imagination",
+        "Get a crystal-clear, comfortable view with Dynamic AMOLED 2X",
+        "Shoot on your phone, share it to your tablet"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Save £100 - £300 with code TABS9*</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£799.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£799.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the New Galaxy Tab S9 WiFi 11\" Tablet with new AI features. Our most durable, versatile & powerful tablets ever. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X716BZAAEUB",
+      "name": "Galaxy Tab S9 (11\", 5G)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X716BZAAEUB",
+        "SM-X716BZAEEUB",
+        "SM-X716BZEAEUB",
+        "SM-X716BZEEEUB"
+      ],
+      "productLaunchDate": "2023-07-03 00:00:00",
+      "numberOfReviews": "255",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S9 (11\", 5G)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-5g-x716-sm-x716bzaaeub-537347768?$PD_GALLERY_PNG$",
+          "desc": "front Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-5g-x716-sm-x716bzaaeub-thumb-537347769?$PD_GALLERY_THUM_PNG$",
+          "desc": "front Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-5g-x716-sm-x716bzaaeub-thumb-537347769?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-5g-x716-sm-x716bzaaeub-537347768?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            8400
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "8400 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2560 x 1600"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Gaming Tablets"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Free Gift",
+            "Trade In"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "Dolby Atmos speakers",
+            "MicroSD slot",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#dad6ca"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 949.0,
+      "sale_price": 949.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "5G",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X716BZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9_(11\",_5G)&dr=13",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-5g-graphite-128gb-sm-x716bzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-5g-graphite-128gb-sm-x716bzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X716BZAAEUB",
+      "uspDesc": [
+        "Unified design. The beauty is in the details",
+        "Pro-level creative apps with enhanced S Pen for your imagination",
+        "Get a crystal-clear, comfortable view with Dynamic AMOLED 2X",
+        "Shoot on your phone, share it to your tablet"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Save £100 - £300 with code TABS9*</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£949.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£949.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the New Galaxy Tab S9 WiFi 11\" Tablet with new AI features. Our most durable, versatile & powerful tablets ever. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X816BZAAEUB",
+      "name": "Galaxy Tab S9+ (12.4\", 5G)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X816BZAAEUB",
+        "SM-X816BZAEEUB",
+        "SM-X816BZEAEUB",
+        "SM-X816BZEEEUB"
+      ],
+      "productLaunchDate": "2023-07-03 00:00:00",
+      "numberOfReviews": "240",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S9+ (12.4\", 5G)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/tablets/galaxy-tab-s9/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-plus-5g-x816-sm-x816bzaaeub-537348842?$PD_GALLERY_PNG$",
+          "desc": "front Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-plus-5g-x816-sm-x816bzaaeub-thumb-537348843?$PD_GALLERY_THUM_PNG$",
+          "desc": "front Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-plus-5g-x816-sm-x816bzaaeub-thumb-537348843?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-plus-5g-x816-sm-x816bzaaeub-537348842?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            10090
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "10090 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            256
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "256 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2800 x 1752"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Gaming Tablets"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Free Gift",
+            "Trade In"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "Dolby Atmos speakers",
+            "MicroSD slot",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#dad6ca"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 1149.0,
+      "sale_price": 1149.0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "5G",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X816BZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9+_(12.4\",_5G)&dr=14",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-plus-5g-graphite-256gb-sm-x816bzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-plus-5g-graphite-256gb-sm-x816bzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X816BZAAEUB",
+      "uspDesc": [
+        "Unified design. The beauty is in the details",
+        "The first water and dust-resistant Galaxy S tablet ever",
+        "Pro-level creative apps with enhanced S Pen for your imagination",
+        "Get a crystal-clear, comfortable view with Dynamic AMOLED 2X"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Save £100 - £300 with code TABS9*</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£1,149.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£1,149.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "The new Galaxy Tab S9 Plus WiFi 12.4\" Tablet with new AI features. Our most durable, versatile & powerful tablets yet. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-T636BZKEEEA",
+      "name": "Samsung Galaxy Tab Active4 Pro",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Others",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-T636BZKEEEA"
+      ],
+      "productLaunchDate": "2022-09-05 00:00:00",
+      "numberOfReviews": "3",
+      "reviewRating": "4.7",
+      "productDisplayName": "Samsung Galaxy Tab Active4 Pro",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/business/tablets/galaxy-tab-active/galaxy-tab-active4-pro5g-sm-t636bzkeeea/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-t636bzkeeea/gallery/uk-galaxy-tab-active4-pro-sm-t636-sm-t636bzkeeea-533629588?$PD_GALLERY_PNG$",
+          "desc": "back Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-t636bzkeeea/gallery/uk-galaxy-tab-active4-pro-sm-t636-sm-t636bzkeeea-thumb-533629633?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-t636bzkeeea/gallery/uk-galaxy-tab-active4-pro-sm-t636-sm-t636bzkeeea-thumb-533629633?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-t636bzkeeea/gallery/uk-galaxy-tab-active4-pro-sm-t636-sm-t636bzkeeea-533629588?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            7600
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "7600 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WUXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1920 x 1200"
+          ]
+        },
+        {
+          "numeric_value": [
+            6
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "6 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "10% Off"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "MicroSD slot"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 749.0,
+      "sale_price": 749.0,
+      "taxonomyIdPath": "01000000#01020000#01020400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "5G",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-T636BZKEEEA&dc=Mobile&sc=Tablets&dg=Others&dt=Samsung_Galaxy_Tab_Active4_Pro&dr=15",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/others/galaxy-tab-active4-pro-black-128gb-sm-t636bzkeeea/",
+      "linkUrlReview": "/uk/tablets/others/galaxy-tab-active4-pro-black-128gb-sm-t636bzkeeea/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-T636BZKEEEA",
+      "uspDesc": [
+        "Advanced Octa-core processor",
+        "Durable design",
+        "Dust & water resistant"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£749.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£749.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the 10\" Samsung Galaxy Tab Active4 Pro 5G Tablet with S Pen compatibility, long lasting battery, durable design & advanced processor at Samsung UK."
+    },
+    {
+      "id": "SM-X306BZGAEEA",
+      "name": "Galaxy Tab Active5",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Others",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-X306BZGAEEA"
+      ],
+      "productLaunchDate": "2024-01-10 00:00:00",
+      "numberOfReviews": "3",
+      "reviewRating": "4.0",
+      "productDisplayName": "Galaxy Tab Active5",
+      "ecomFlag": "N",
+      "stockFlag": "N",
+      "consumerUrl": "/uk/business/tablets/galaxy-tab-active/galaxy-tab-active5-green-128gb-sm-x306bzgaeea/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x306bzgaeea/gallery/uk-galaxy-tab-active5-sm-x306bzgaeea-539582497?$PD_GALLERY_PNG$",
+          "desc": "front-r30 Green"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x306bzgaeea/gallery/uk-galaxy-tab-active5-sm-x306bzgaeea-thumb-539582551?$PD_GALLERY_THUM_PNG$",
+          "desc": "front-r30 Green"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x306bzgaeea/gallery/uk-galaxy-tab-active5-sm-x306bzgaeea-thumb-539582551?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x306bzgaeea/gallery/uk-galaxy-tab-active5-sm-x306bzgaeea-539582497?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5050
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5050 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WUXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1920 x 1200"
+          ]
+        },
+        {
+          "numeric_value": [
+            6
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "6 GB"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "Out of Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#008000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 509.0,
+      "sale_price": 509.0,
+      "taxonomyIdPath": "01000000#01020000#01020400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Green"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X306BZGAEEA&dc=Mobile&sc=Tablets&dg=Others&dt=Galaxy_Tab_Active5&dr=16",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/others/galaxy-tab-active5-green-128gb-sm-x306bzgaeea/",
+      "linkUrlReview": "/uk/tablets/others/galaxy-tab-active5-green-128gb-sm-x306bzgaeea/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X306BZGAEEA",
+      "uspDesc": [
+        "Replaceable Battery",
+        "Water and Dust Resistance (IP68)",
+        "1.8m Drop Resistance (with case)"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£509.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£509.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "outOfStock",
+      "productDescription": "Meet the 8\" Samsung Galaxy Tab Active5 5G Tablet with a durable & rugged design, removable battery & advanced processor at Samsung UK."
+    },
+    {
+      "id": "SM-X916BZEEEUB",
+      "name": "Galaxy Tab S9 Ultra (14.6\", 5G)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "groupedProducts": [
+        "SM-X916BZAAEUB",
+        "SM-X916BZAEEUB",
+        "SM-X916BZAIEUB",
+        "SM-X916BZEAEUB",
+        "SM-X916BZEEEUB",
+        "SM-X916BZEIEUB"
+      ],
+      "productLaunchDate": "2023-07-03 00:00:00",
+      "numberOfReviews": "504",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S9 Ultra (14.6\", 5G)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-ultra-5g-x916-sm-x916bzeeeub-537349589?$PD_GALLERY_PNG$",
+          "desc": "front Beige"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-ultra-5g-x916-sm-x916bzeeeub-thumb-537349590?$PD_GALLERY_THUM_PNG$",
+          "desc": "product-image Beige"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-ultra-5g-x916-sm-x916bzeeeub-thumb-537349590?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2307/gallery/uk-galaxy-tab-s9-ultra-5g-x916-sm-x916bzeeeub-537349589?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            11200
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "11200 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            512
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "512 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2960 x 1848"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Gaming Tablets"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Free Gift",
+            "Trade In"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "Dolby Atmos speakers",
+            "MicroSD slot",
+            "IP68"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Beige"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#545356",
+        "#dad6ca"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "5G",
+        "Beige"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X916BZEEEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S9_Ultra_(14.6\",_5G)&dr=17",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-ultra-5g-beige-512gb-sm-x916bzeeeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s9-ultra-5g-beige-512gb-sm-x916bzeeeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X916BZEEEUB",
+      "uspDesc": [
+        "Next-gen processor for next-level, lifelike gaming",
+        "The first water and dust-resistant Galaxy S tablet ever",
+        "Pro-level creative apps with enhanced S Pen for your imagination",
+        "Get a crystal-clear, comfortable view with Dynamic AMOLED 2X"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "productDescription": "The Galaxy Tab S9 Ultra WiFi 14.6\" Tablet with new AI features. Our most durable, versatile & powerful tablets ever. Available in a range of colours at Samsung UK."
+    },
+    {
+      "id": "SM-X200NZSEEUA",
+      "name": "Galaxy Tab A8 (10.5\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab A",
+      "groupedProducts": [
+        "SM-X200NIDAEUA",
+        "SM-X200NIDEEUA",
+        "SM-X200NZAAEUA",
+        "SM-X200NZAEEUA",
+        "SM-X200NZSAEUA",
+        "SM-X200NZSEEUA"
+      ],
+      "productLaunchDate": "2021-12-17 00:00:00",
+      "numberOfReviews": "1331",
+      "reviewRating": "4.7",
+      "productDisplayName": "Galaxy Tab A8 (10.5\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x200nzseeua/gallery/uk-galaxy-a8-sm-x200-sm-x200nzseeua-530568143?$PD_GALLERY_PNG$",
+          "desc": "front Silver"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x200nzseeua/gallery/uk-galaxy-a8-sm-x200-sm-x200nzseeua-thumb-530568144?$PD_GALLERY_THUM_PNG$",
+          "desc": "rside Silver"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x200nzseeua/gallery/uk-galaxy-a8-sm-x200-sm-x200nzseeua-thumb-530568144?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x200nzseeua/gallery/uk-galaxy-a8-sm-x200-sm-x200nzseeua-530568143?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            7040
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "7040 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            8.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "8.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WUXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "TFT"
+          ]
+        },
+        {
+          "numeric_value": [
+            64
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "64 GB"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1920 x 1200"
+          ]
+        },
+        {
+          "numeric_value": [
+            4
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "4 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Price Drop",
+            "10% Off"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "Dolby Atmos speakers",
+            "MicroSD slot"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Silver"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#d6b6a8",
+        "#777777",
+        "#c0c0c0"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "taxonomyIdPath": "01000000#01020000#01020200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Silver"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X200NZSEEUA&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_A&dt=Galaxy_Tab_A8_(10.5\",_Wi-Fi)&dr=18",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-silver-64gb-sm-x200nzseeua/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-a/galaxy-tab-a8-wifi-silver-64gb-sm-x200nzseeua/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X200NZSEEUA",
+      "uspDesc": [
+        "10.5'' Display",
+        "Dolby Atmos speakers",
+        "Ultra thin sleek design"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "productDescription": "Meet the 10.5\" Galaxy Tab A8 WiFi 32GB Tablet. Watch, work & play thanks to the long-lasting battery, powerful Octa-Core processor & Dolby Atmos sound."
+    },
+    {
+      "id": "SM-X800NZAAEUB",
+      "name": "Galaxy Tab S8+ (12.4\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "groupedProducts": [
+        "SM-X800NIDAEUB",
+        "SM-X800NIDBEUB",
+        "SM-X800NZAAEUA",
+        "SM-X800NZAAEUB",
+        "SM-X800NZABEUB",
+        "SM-X800NZSAEUB",
+        "SM-X800NZSBEUB"
+      ],
+      "productLaunchDate": "2022-01-17 00:00:00",
+      "numberOfReviews": "951",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S8+ (12.4\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x800nzaaeub/gallery/uk-galaxy-tab-s8-plus-wifi-x800-sm-x800nzaaeub-534232603?$PD_GALLERY_PNG$",
+          "desc": "front- Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x800nzaaeub/gallery/uk-galaxy-tab-s8-plus-wifi-x800-sm-x800nzaaeub-thumb-534232606?$PD_GALLERY_THUM_PNG$",
+          "desc": "front- Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x800nzaaeub/gallery/uk-galaxy-tab-s8-plus-wifi-x800-sm-x800nzaaeub-thumb-534232606?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x800nzaaeub/gallery/uk-galaxy-tab-s8-plus-wifi-x800-sm-x800nzaaeub-534232603?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            10090
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "10090 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2800 x 1752"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "Price Drop"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "Dolby Atmos speakers",
+            "MicroSD slot"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#494d53"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X800NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S8+_(12.4\",_Wi-Fi)&dr=19",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s8-plus-wi-fi-graphite-128gb-sm-x800nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s8-plus-wi-fi-graphite-128gb-sm-x800nzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X800NZAAEUB",
+      "uspDesc": [
+        "Even bigger battery",
+        "S Pen included",
+        "12.4'' Super AMOLED Display"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "productDescription": "Meet the 12.4\" Samsung Galaxy Tab S8+ WiFi Tablet. Work and play with S Pen Compatibility, Multi-View Split Screen & 120Hz Refresh Rate."
+    },
+    {
+      "id": "SM-X900NZAAEUB",
+      "name": "Galaxy Tab S8 Ultra (14.6\", Wi-Fi)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Tablets",
+      "sub_genre": "Galaxy Tab S",
+      "groupedProducts": [
+        "SM-X900NZAAEUB",
+        "SM-X900NZAEEUA",
+        "SM-X900NZAEEUB",
+        "SM-X900NZAFEUA",
+        "SM-X900NZAFEUB"
+      ],
+      "productLaunchDate": "2022-01-17 00:00:00",
+      "numberOfReviews": "823",
+      "reviewRating": "4.8",
+      "productDisplayName": "Galaxy Tab S8 Ultra (14.6\", Wi-Fi)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x900nzaaeub/gallery/uk-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaaeub-534283579?$PD_GALLERY_PNG$",
+          "desc": "front Graphite"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x900nzaaeub/gallery/uk-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaaeub-thumb-534283581?$PD_GALLERY_THUM_PNG$",
+          "desc": "front--s-pen- Graphite"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x900nzaaeub/gallery/uk-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaaeub-thumb-534283581?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-x900nzaaeub/gallery/uk-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaaeub-534283579?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            11200
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "11200 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            13.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "13.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "WQXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "Spen Support",
+          "name": "S Pen Support",
+          "id": "8",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "numeric_value": [
+            14.6
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "14.6 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2960 x 1848"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "4",
+          "value": [
+            "12 Months Disney+"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "5",
+          "value": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "6",
+          "value": [
+            "S Pen Included",
+            "Dolby Atmos speakers",
+            "MicroSD slot"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#494d53"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "taxonomyIdPath": "01000000#01020000#01020100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wi-Fi",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=tablet&cn=scom&cco=B2C&ui=50387062-1613-3a47-81e8-bd7c62228515&si=1b80a476-c3d4-3ffc-908e-b3bf86d006aa-1726740192632&ti=8f5a4ffc-7697-3a1e-a56b-d7ced8190ce2&qi=7383c335-4a90-3dc8-96c0-b8016b895231&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=32&rs=Samsung_Galaxy_Tab_A8_Wi_Fi,Samsung_Galaxy_Tab_A9_8.7\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_and_FE,Samsung_Galaxy_Tab_A8_10.5\",_LTE,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9+_and_S9_FE+,Samsung_Galaxy_Tab_A8_LTE,Samsung_Galaxy_Tab_A9_LTE,Samsung_Galaxy_Tab_A9_8.7\",_Wi_Fi,Samsung_Galaxy_Tab_A9_Wi_Fi,Samsung_adidas_Book_Cover_Tablet_Case_for_Galaxy_Tab_S9_Ultra&tc=PRODUCT&di=SM-X900NZAAEUB&dc=Mobile&sc=Tablets&dg=Galaxy_Tab_S&dt=Galaxy_Tab_S8_Ultra_(14.6\",_Wi-Fi)&dr=20",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-wi-fi-graphite-128gb-sm-x900nzaaeub/",
+      "linkUrlReview": "/uk/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-wi-fi-graphite-128gb-sm-x900nzaaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-X900NZAAEUB",
+      "uspDesc": [
+        "Dual (Ultra Wide+Wide) Front Camera",
+        "S Pen included",
+        "14.6\" Super AMOLED Display"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "productDescription": "Meet the Samsung Galaxy Tab S8 Ultra WiFi Tablet. Work & play with the immersive AMOLED 14.6\" Display, S Pen Compatibility & 120Hz Refresh Rate."
+    }
+  ],
+  "filters": [
+    {
+      "displayName": "Price Range",
+      "values": [
+        {
+          "count": 9,
+          "value": "£1000 or more"
+        },
+        {
+          "count": 9,
+          "value": "£700 - £1000"
+        },
+        {
+          "count": 17,
+          "value": "£500 - £700"
+        },
+        {
+          "count": 13,
+          "value": "£250 - £500"
+        },
+        {
+          "count": 12,
+          "value": "£100 - £250"
+        }
+      ],
+      "name": "groupedProductsList.sale_price",
+      "type": "range",
+      "priority": 1
+    },
+    {
+      "displayName": "Discount Range",
+      "values": [
+        {
+          "count": 1,
+          "value": "25% - 35%"
+        },
+        {
+          "count": 8,
+          "value": "10% - 25%"
+        },
+        {
+          "count": 51,
+          "value": "5% or less"
+        }
+      ],
+      "name": "groupedProductsList.discount",
+      "type": "range",
+      "priority": 2
+    },
+    {
+      "displayName": "Colour",
+      "values": [
+        {
+          "count": 4,
+          "value": "Angora Blue"
+        },
+        {
+          "count": 14,
+          "value": "Beige"
+        },
+        {
+          "count": 2,
+          "value": "Black"
+        },
+        {
+          "count": 48,
+          "value": "Graphite"
+        },
+        {
+          "count": 1,
+          "value": "Green"
+        },
+        {
+          "count": 12,
+          "value": "Grey"
+        },
+        {
+          "count": 1,
+          "value": "Lavender"
+        },
+        {
+          "count": 8,
+          "value": "Mint"
+        },
+        {
+          "count": 4,
+          "value": "Mystic Black"
+        },
+        {
+          "count": 4,
+          "value": "Mystic Green"
+        },
+        {
+          "count": 4,
+          "value": "Mystic Pink"
+        },
+        {
+          "count": 4,
+          "value": "Mystic Silver"
+        },
+        {
+          "count": 8,
+          "value": "Navy"
+        },
+        {
+          "count": 4,
+          "value": "Oxford Grey"
+        },
+        {
+          "count": 12,
+          "value": "Pink Gold"
+        },
+        {
+          "count": 30,
+          "value": "Silver"
+        }
+      ],
+      "name": "Colour",
+      "type": "attribute",
+      "priority": 3
+    },
+    {
+      "displayName": "Display Type",
+      "values": [
+        {
+          "count": 28,
+          "value": "Dynamic AMOLED 2X"
+        },
+        {
+          "count": 24,
+          "value": "Super AMOLED"
+        },
+        {
+          "count": 108,
+          "value": "TFT"
+        }
+      ],
+      "name": "Display Type",
+      "type": "attribute",
+      "priority": 10
+    },
+    {
+      "displayName": "Screen Size",
+      "values": [
+        {
+          "count": 5,
+          "value": "14.6 inch"
+        },
+        {
+          "count": 8,
+          "value": "12.4 inch"
+        },
+        {
+          "count": 7,
+          "value": "11 inch"
+        },
+        {
+          "count": 4,
+          "value": "10.4 inch"
+        },
+        {
+          "count": 2,
+          "value": "8.7 inch"
+        }
+      ],
+      "name": "Screen Size",
+      "type": "attribute",
+      "priority": 25
+    },
+    {
+      "displayName": "Display Resolution",
+      "values": [
+        {
+          "count": 95,
+          "value": "WQXGA"
+        },
+        {
+          "count": 49,
+          "value": "WUXGA"
+        },
+        {
+          "count": 16,
+          "value": "WXGA"
+        }
+      ],
+      "name": "Display Resolution",
+      "type": "attribute",
+      "priority": 26
+    },
+    {
+      "displayName": "Display Resolution Pixels",
+      "values": [
+        {
+          "count": 23,
+          "value": "2960 x 1848"
+        },
+        {
+          "count": 21,
+          "value": "2800 x 1752"
+        },
+        {
+          "count": 51,
+          "value": "2560 x 1600"
+        },
+        {
+          "count": 12,
+          "value": "2304 x 1440"
+        },
+        {
+          "count": 10,
+          "value": "2000 x 1200"
+        },
+        {
+          "count": 27,
+          "value": "1920 x 1200"
+        },
+        {
+          "count": 16,
+          "value": "1340 x 800"
+        }
+      ],
+      "name": "Display Resolution Pixels",
+      "type": "attribute",
+      "priority": 28
+    },
+    {
+      "displayName": "Device Storage",
+      "values": [
+        {
+          "count": 12,
+          "value": "512 GB"
+        },
+        {
+          "count": 41,
+          "value": "256 GB"
+        },
+        {
+          "count": 61,
+          "value": "128 GB"
+        },
+        {
+          "count": 32,
+          "value": "64 GB"
+        },
+        {
+          "count": 10,
+          "value": "32 GB"
+        }
+      ],
+      "name": "Device Storage",
+      "type": "attribute",
+      "priority": 36
+    },
+    {
+      "displayName": "Camera",
+      "values": [
+        {
+          "count": 69,
+          "value": "13.0 MP"
+        },
+        {
+          "count": 91,
+          "value": "8.0 MP"
+        }
+      ],
+      "name": "Camera",
+      "type": "attribute",
+      "priority": 42
+    },
+    {
+      "displayName": "Ram",
+      "values": [
+        {
+          "count": 8,
+          "value": "16 GB"
+        },
+        {
+          "count": 30,
+          "value": "12 GB"
+        },
+        {
+          "count": 59,
+          "value": "8 GB"
+        },
+        {
+          "count": 16,
+          "value": "6 GB"
+        },
+        {
+          "count": 37,
+          "value": "4 GB"
+        },
+        {
+          "count": 10,
+          "value": "3 GB"
+        }
+      ],
+      "name": "Ram",
+      "type": "attribute",
+      "priority": 45
+    },
+    {
+      "displayName": "Battery Capacity",
+      "values": [
+        {
+          "count": 23,
+          "value": "11200 mAh"
+        },
+        {
+          "count": 50,
+          "value": "10090 mAh"
+        },
+        {
+          "count": 8,
+          "value": "8400 mAh"
+        },
+        {
+          "count": 26,
+          "value": "8000 mAh"
+        },
+        {
+          "count": 2,
+          "value": "7600 mAh"
+        },
+        {
+          "count": 34,
+          "value": "7040 mAh"
+        },
+        {
+          "count": 16,
+          "value": "5100 mAh"
+        },
+        {
+          "count": 1,
+          "value": "5050 mAh"
+        }
+      ],
+      "name": "Battery Capacity",
+      "type": "attribute",
+      "priority": 50
+    },
+    {
+      "displayName": "Connectivity",
+      "values": [
+        {
+          "count": 60,
+          "value": "5G"
+        },
+        {
+          "count": 18,
+          "value": "4G"
+        },
+        {
+          "count": 78,
+          "value": "Wi-Fi"
+        }
+      ],
+      "name": "Connectivity",
+      "type": "attribute",
+      "priority": 52
+    },
+    {
+      "displayName": "Features",
+      "values": [
+        {
+          "count": 106,
+          "value": "Dolby Atmos speakers"
+        },
+        {
+          "count": 53,
+          "value": "IP68"
+        },
+        {
+          "count": 108,
+          "value": "MicroSD slot"
+        },
+        {
+          "count": 108,
+          "value": "S Pen Included"
+        }
+      ],
+      "name": "Features",
+      "type": "attribute",
+      "priority": 62
+    },
+    {
+      "displayName": "Offers",
+      "values": [
+        {
+          "count": 11,
+          "value": "12 Months Disney+"
+        },
+        {
+          "count": 13,
+          "value": "10% Off"
+        },
+        {
+          "count": 30,
+          "value": "Free Gift"
+        },
+        {
+          "count": 39,
+          "value": "Price Drop"
+        },
+        {
+          "count": 28,
+          "value": "Trade In"
+        }
+      ],
+      "name": "Offers",
+      "type": "attribute",
+      "priority": 97
+    },
+    {
+      "displayName": "Availability",
+      "values": [
+        {
+          "count": 57,
+          "value": "In Stock"
+        },
+        {
+          "count": 3,
+          "value": "Out of Stock"
+        }
+      ],
+      "name": "Availability",
+      "type": "attribute",
+      "priority": 98
+    }
+  ],
+  "subjectiveQuery": false,
+  "resultType": "Product",
+  "relatedKeywords": [
+    "Samsung Galaxy Tab A8 Wi Fi",
+    "Samsung Galaxy Tab A9 8.7\", LTE",
+    "Samsung adidas Book Cover Tablet Case for Galaxy Tab S9 and FE",
+    "Samsung Galaxy Tab A8 10.5\", LTE",
+    "Samsung adidas Book Cover Tablet Case for Galaxy Tab S9+ and S9 FE+",
+    "Samsung Galaxy Tab A8 LTE",
+    "Samsung Galaxy Tab A9 LTE",
+    "Samsung Galaxy Tab A9 8.7\", Wi Fi",
+    "Samsung Galaxy Tab A9 Wi Fi",
+    "Samsung adidas Book Cover Tablet Case for Galaxy Tab S9 Ultra"
+  ],
+  "tabInfoList": [
+    {
+      "tabType": "ALL",
+      "tabParam": "all",
+      "count": 550
+    },
+    {
+      "tabType": "PRD",
+      "tabParam": "product",
+      "count": 32
+    },
+    {
+      "tabType": "ACC",
+      "tabParam": "accessory",
+      "count": 52
+    },
+    {
+      "tabType": "SPP",
+      "tabParam": "support",
+      "count": 328
+    }
+  ],
+  "bestMatch": {
+    "clientCode": "b2c",
+    "content": [
+      {
+        "DocId": "/uk/b2cbestmatch/bm/tablet/",
+        "ThumbUrl": "http://images.samsung.com/is/image/samsung/uk-search-bm-galaxybookwlogo-67128036?$ORIGIN_PNG$",
+        "LinkUrl": "https://www.samsung.com/uk/windows-tablets/galaxy-book/",
+        "Title": "Galaxy Book",
+        "Description": "A new chapter for the PC",
+        "query": "tablet"
+      }
+    ],
+    "query": "tablet"
+  }
+}

@@ -1,0 +1,2694 @@
+{
+  "sessionID": "12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084",
+  "searchTotalTime": 107,
+  "searchTotalCount": 40,
+  "searchProcTime": 94,
+  "hasMoreResults": true,
+  "searchResults": [
+    {
+      "id": "EP-P6300TBEGGB",
+      "name": "Wireless Charger Trio",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Smartphones Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-P6300TBEGGB",
+        "EP-P6300TWEGGB"
+      ],
+      "productLaunchDate": "2020-10-01 00:00:00",
+      "numberOfReviews": "73",
+      "reviewRating": "3.9",
+      "productDisplayName": "Wireless Charger Trio",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-wireless-charger-trio-p6300-ep-p6300tbeggb-backblack-312135349?$PD_GALLERY_PNG$",
+          "desc": "back Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-wireless-charger-trio-p6300-ep-p6300tbeggb-frontblack-thumb-312135361?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/uk-wireless-charger-trio-p6300-ep-p6300tbeggb-frontblack-thumb-312135361?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/uk-wireless-charger-trio-p6300-ep-p6300tbeggb-backblack-312135349?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Flip",
+            "Galaxy S20",
+            "Galaxy Note10",
+            "Galaxy S10",
+            "Galaxy A51",
+            "Galaxy A71",
+            "Galaxy Note20",
+            "Galaxy Z Fold2",
+            "Galaxy S21",
+            "Galaxy A70",
+            "Galaxy A41",
+            "Galaxy A40",
+            "Galaxy A21s"
+          ]
+        },
+        {
+          "name": "Tablet Compatibility",
+          "id": "9",
+          "value": [
+            "Galaxy Tab S6 Lite"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch Active",
+            "Galaxy Watch Active2",
+            "Galaxy Watch3"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 89.0,
+      "sale_price": 89.0,
+      "taxonomyIdPath": "01000000#01050000#01052200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-P6300TBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Smartphones_Accessories&dt=Wireless_Charger_Trio&dr=1",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/wireless-charger-trio-p6300-ep-p6300tbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/wireless-charger-trio-p6300-ep-p6300tbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-P6300TBEGGB",
+      "uspDesc": [],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£89.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£89.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the black Samsung Wireless Phone Charger Trio EP-P6300TBEGGB to charge up to 3 Galaxy devices at once. Shop all chargers at Samsung UK."
+    },
+    {
+      "id": "EE-P5400USEGWW",
+      "name": "Multiport Adapter",
+      "type": "Product",
+      "category": "Computers",
+      "sub_category": "Computer Accessories",
+      "sub_genre": "Adapter",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EE-P5400USEGWW"
+      ],
+      "productLaunchDate": "2021-04-19 00:00:00",
+      "numberOfReviews": "7",
+      "reviewRating": "4.6",
+      "productDisplayName": "Multiport Adapter",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/galaxy-book/gallery/uk-multiport-adapter-ee-p5400usegww-430366676?$PD_GALLERY_PNG$",
+          "desc": "front Silver"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/galaxy-book/gallery/uk-multiport-adapter-ee-p5400usegww-thumb-430366677?$PD_GALLERY_THUM_PNG$",
+          "desc": "front Silver"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/galaxy-book/gallery/uk-multiport-adapter-ee-p5400usegww-thumb-430366677?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/galaxy-book/gallery/uk-multiport-adapter-ee-p5400usegww-430366676?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Power and Cables"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Silver"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#c0c0c0"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 84.0,
+      "sale_price": 84.0,
+      "taxonomyIdPath": "03000000#03020000#03021000",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Power and Cables",
+        "Silver"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EE-P5400USEGWW&dc=Computers&sc=Computer_Accessories&dg=Adapter&dt=Multiport_Adapter&dr=2",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/computer-accessories/multiport-adapter-ee-p5400usegww/",
+      "linkUrlReview": "/uk/computer-accessories/multiport-adapter-ee-p5400usegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EE-P5400USEGWW",
+      "uspDesc": [],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£84.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£84.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Samsung USB Type C Multi Port Adaptor Hub. Connect just about anything to your Galaxy Book laptop with ease. Buy online at Samsung UK."
+    },
+    {
+      "id": "EP-P5400TBEGGB",
+      "name": "15W Duo Super Fast Wireless Charger Pad",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Smartphones Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-P5400TBEGGB",
+        "EP-P5400TWEGGB"
+      ],
+      "productLaunchDate": "2022-01-19 00:00:00",
+      "numberOfReviews": "79",
+      "reviewRating": "2.6",
+      "productDisplayName": "15W Duo Super Fast Wireless Charger Pad",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-ep-p5400-ep-p5400tbeggb-530910121?$PD_GALLERY_PNG$",
+          "desc": "front Dark Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-ep-p5400-ep-p5400tbeggb-thumb-530910122?$PD_GALLERY_THUM_PNG$",
+          "desc": "wireless charger pad white with grey watch charging"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-ep-p5400-ep-p5400tbeggb-thumb-530910122?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-ep-p5400-ep-p5400tbeggb-530910121?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy S22"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#5e6061"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 79.0,
+      "sale_price": 79.0,
+      "taxonomyIdPath": "01000000#01050000#01052200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-P5400TBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Smartphones_Accessories&dt=15W_Duo_Super_Fast_Wireless_Charger_Pad&dr=3",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/super-fast-wireless-charger-duo-dark-gray-ep-p5400tbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/super-fast-wireless-charger-duo-dark-gray-ep-p5400tbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-P5400TBEGGB",
+      "uspDesc": [
+        "The LED light intuitively tells you the charging status of your device",
+        "Built in cooling system to preserve power consumption",
+        "Simultaneously power up your compatible smartphone with your Galaxy Watch or Galaxy Buds"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£79.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£79.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the 15W Samsung Duo Wireless Charger Pad for your device. Browse all Mobile Accessories at Samsung UK."
+    },
+    {
+      "id": "EP-OR900BBEGWW",
+      "name": "Galaxy Watch Fast Wireless Charger (USB-C)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Wearables Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-OR900BBEGWW"
+      ],
+      "productLaunchDate": "2022-07-22 00:00:00",
+      "numberOfReviews": "30",
+      "reviewRating": "2.6",
+      "productDisplayName": "Galaxy Watch Fast Wireless Charger (USB-C)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2208/gallery/uk-fast-wireless-charger-ep-or900-ep-or900bbegww-533326002?$PD_GALLERY_PNG$",
+          "desc": "r-perspective Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2208/gallery/uk-fast-wireless-charger-ep-or900-ep-or900bbegww-thumb-533326008?$PD_GALLERY_THUM_PNG$",
+          "desc": "r-perspective Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2208/gallery/uk-fast-wireless-charger-ep-or900-ep-or900bbegww-thumb-533326008?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2208/gallery/uk-fast-wireless-charger-ep-or900-ep-or900bbegww-533326002?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch5 & 5 Pro"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 34.0,
+      "sale_price": 34.0,
+      "taxonomyIdPath": "01000000#01050000#01052800",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-OR900BBEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Wearables_Accessories&dt=Galaxy_Watch_Fast_Wireless_Charger_(USB-C)&dr=4",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/fast-wireless-charger-black-ep-or900bbegww/",
+      "linkUrlReview": "/uk/mobile-accessories/fast-wireless-charger-black-ep-or900bbegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-OR900BBEGWW",
+      "uspDesc": [
+        "4.5W Normal Charging: Galaxy Watch Active, Active2, Watch3, Watch4",
+        "9W Fast Charging: Galaxy Watch5, Watch 5 Pro"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£34.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£34.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the 9W Fast Wireless Charger for your Galaxy Watch5 & Watch5 Pro at Samsung UK. Applicable for 4.5W Normal Charge for Watch Active2, Watch3 & Watch4."
+    },
+    {
+      "id": "EP-T6530NBEGGB",
+      "name": "65W Trio Universal Power Adapter",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Smartphones Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-T6530NBEGGB"
+      ],
+      "productLaunchDate": "2022-01-31 00:00:00",
+      "numberOfReviews": "8",
+      "reviewRating": "3.4",
+      "productDisplayName": "65W Trio Universal Power Adapter",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t6530nbeggb/gallery/uk-65w-power-adapter-trio-ep-t6530-ep-t6530nbeggb-532813965?$PD_GALLERY_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t6530nbeggb/gallery/uk-65w-power-adapter-trio-ep-t6530-ep-t6530nbeggb-thumb-532813627?$PD_GALLERY_THUM_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t6530nbeggb/gallery/uk-65w-power-adapter-trio-ep-t6530-ep-t6530nbeggb-thumb-532813627?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t6530nbeggb/gallery/uk-65w-power-adapter-trio-ep-t6530-ep-t6530nbeggb-532813965?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Power and Cables"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers",
+            "Cables and Adaptors"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy S22"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 54.0,
+      "sale_price": 54.0,
+      "taxonomyIdPath": "01000000#01050000#01052200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Power and Cables",
+        "Wireless Chargers",
+        "Cables and Adaptors",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-T6530NBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Smartphones_Accessories&dt=65W_Trio_Universal_Power_Adapter&dr=5",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/65w-power-adapter-trio-black-ep-t6530nbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/65w-power-adapter-trio-black-ep-t6530nbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-T6530NBEGGB",
+      "uspDesc": [],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£54.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£54.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Samsung 65W Black 3 in 1 Power Adapter Charger Plug EP-T6530NBEGGB to charge three devices, at the same time! See more at Samsung UK."
+    },
+    {
+      "id": "EP-P2400TBEGGB",
+      "name": "15W Super Fast Wireless Charger Pad",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Smartphones Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-P2400TBEGGB",
+        "EP-P2400TWEGGB"
+      ],
+      "productLaunchDate": "2022-01-26 00:00:00",
+      "numberOfReviews": "58",
+      "reviewRating": "2.1",
+      "productDisplayName": "15W Super Fast Wireless Charger Pad",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-ep-p2400-ep-p2400tbeggb-531013264?$PD_GALLERY_PNG$",
+          "desc": "front Dark Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-ep-p2400-ep-p2400tbeggb-thumb-531013265?$PD_GALLERY_THUM_PNG$",
+          "desc": "package Dark Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-ep-p2400-ep-p2400tbeggb-thumb-531013265?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-ep-p2400-ep-p2400tbeggb-531013264?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy S22"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Graphite"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#5e6061"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 52.0,
+      "sale_price": 52.0,
+      "taxonomyIdPath": "01000000#01050000#01052200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Graphite"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-P2400TBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Smartphones_Accessories&dt=15W_Super_Fast_Wireless_Charger_Pad&dr=6",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/super-fast-wireless-charger-dark-gray-ep-p2400tbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/super-fast-wireless-charger-dark-gray-ep-p2400tbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-P2400TBEGGB",
+      "uspDesc": [
+        "25W Travel Adapter (UK 3 pin) included"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£52.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£52.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the grey 15W Samsung Super Fast Wireless Charger Pad EP-P2400BBEGEU for your device. Browse all Mobile Accessories at Samsung UK."
+    },
+    {
+      "id": "EP-T1510NBEGGB",
+      "name": "15W Adaptive Fast Charger (USB C without Cable)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Smartphones Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-T1510NBEGGB",
+        "EP-T1510NWEGGB"
+      ],
+      "productLaunchDate": "2022-02-10 00:00:00",
+      "numberOfReviews": "17",
+      "reviewRating": "2.1",
+      "productDisplayName": "15W Adaptive Fast Charger (USB C without Cable)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t1510nbeggb/gallery/uk-15w-power-adapter-ep-t1510-411602-ep-t1510nbeggb-530907386?$PD_GALLERY_PNG$",
+          "desc": "pkg Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t1510nbeggb/gallery/uk-15w-power-adapter-ep-t1510-411602-ep-t1510nbeggb-thumb-530907399?$PD_GALLERY_THUM_PNG$",
+          "desc": "pkg Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t1510nbeggb/gallery/uk-15w-power-adapter-ep-t1510-411602-ep-t1510nbeggb-thumb-530907399?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t1510nbeggb/gallery/uk-15w-power-adapter-ep-t1510-411602-ep-t1510nbeggb-530907386?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy S22"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 12.0,
+      "sale_price": 12.0,
+      "taxonomyIdPath": "01000000#01050000#01052200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-T1510NBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Smartphones_Accessories&dt=15W_Adaptive_Fast_Charger_(USB_C_without_Cable)&dr=7",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/15w-power-adapter-black-ep-t1510nbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/15w-power-adapter-black-ep-t1510nbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-T1510NBEGGB",
+      "uspDesc": [],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£12.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£12.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the black 15W Samsung USB C Super Fast Charger EP-T1510NBEGGB to quickly charge your devices. Enjoy 0% Finance & Free Delivery at Samsung UK."
+    },
+    {
+      "id": "EP-T1510XWEGGB",
+      "name": "15W Adaptive Fast Charger (with C to C Cable)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Smartphones Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-T1510XBEGGB",
+        "EP-T1510XWEGGB"
+      ],
+      "productLaunchDate": "2022-01-31 00:00:00",
+      "numberOfReviews": "17",
+      "reviewRating": "2.1",
+      "productDisplayName": "15W Adaptive Fast Charger (with C to C Cable)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t1510xweggb/gallery/uk-15w-power-adapter-ep-t1510-411602-ep-t1510xweggb-530908808?$PD_GALLERY_PNG$",
+          "desc": "l-perspective White"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t1510xweggb/gallery/uk-15w-power-adapter-ep-t1510-411602-ep-t1510xweggb-thumb-530908841?$PD_GALLERY_THUM_PNG$",
+          "desc": "l-perspective White"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t1510xweggb/gallery/uk-15w-power-adapter-ep-t1510-411602-ep-t1510xweggb-thumb-530908841?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t1510xweggb/gallery/uk-15w-power-adapter-ep-t1510-411602-ep-t1510xweggb-530908808?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers",
+            "Cables and Adaptors"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy S22"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "White"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 16.0,
+      "sale_price": 16.0,
+      "taxonomyIdPath": "01000000#01050000#01052200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Cables and Adaptors",
+        "White"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-T1510XWEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Smartphones_Accessories&dt=15W_Adaptive_Fast_Charger_(with_C_to_C_Cable)&dr=8",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/15w-power-adapter-white-ep-t1510xweggb/",
+      "linkUrlReview": "/uk/mobile-accessories/15w-power-adapter-white-ep-t1510xweggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-T1510XWEGGB",
+      "uspDesc": [],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£16.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£16.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Samsung 15W Super Fast Charger with USB Type-C Port for super fast, easy & safe charging. Browse all mobile accessories at Samsung UK."
+    },
+    {
+      "id": "EP-OL300BBEGWW",
+      "name": "Wireless Charger for Galaxy Watch",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Power",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-OL300BBEGWW"
+      ],
+      "productLaunchDate": "2024-07-23 00:00:00",
+      "numberOfReviews": "1",
+      "reviewRating": "5.0",
+      "productDisplayName": "Wireless Charger for Galaxy Watch",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-ol300bbegww/gallery/uk-fast-wireless-charger-ep-ol300-ep-ol300bbegww-542827065?$PD_GALLERY_PNG$",
+          "desc": "detail-back Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-ol300bbegww/gallery/uk-fast-wireless-charger-ep-ol300-ep-ol300bbegww-thumb-542827073?$PD_GALLERY_THUM_PNG$",
+          "desc": "detail-back Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-ol300bbegww/gallery/uk-fast-wireless-charger-ep-ol300-ep-ol300bbegww-thumb-542827073?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-ol300bbegww/gallery/uk-fast-wireless-charger-ep-ol300-ep-ol300bbegww-542827065?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers",
+            "Cables and Adaptors"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch Active2",
+            "Galaxy Watch3",
+            "Galaxy Watch4",
+            "Galaxy Watch5 & 5 Pro",
+            "Galaxy Watch6 & 6 Classic",
+            "Galaxy Watch Ultra",
+            "Galaxy Watch7"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 34.0,
+      "sale_price": 34.0,
+      "taxonomyIdPath": "01000000#01050000#01051900",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Cables and Adaptors",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-OL300BBEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Power&dt=Wireless_Charger_for_Galaxy_Watch&dr=9",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/wireless-charger-for-galaxy-watch-black-ep-ol300bbegww/",
+      "linkUrlReview": "/uk/mobile-accessories/wireless-charger-for-galaxy-watch-black-ep-ol300bbegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-OL300BBEGWW",
+      "uspDesc": [
+        "Fast charging for Galaxy Watch5 and later models.",
+        "Standard charging speed for Galaxy Active, Active2, Watch3 and Watch4"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£34.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£34.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Samsung Wireless Charger for your Galaxy Watch EP-OL300BBEGWW. Browse all mobile accessories, chargers & cases at Samsung UK."
+    },
+    {
+      "id": "EP-T5020XBEGGB",
+      "name": "50W Duo Travel Adapter",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Power",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-T5020XBEGGB"
+      ],
+      "productLaunchDate": "2024-06-18 00:00:00",
+      "numberOfReviews": "0",
+      "reviewRating": "0.0",
+      "productDisplayName": "50W Duo Travel Adapter",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t5020xbeggb/gallery/uk-50w-power-adapter-duo-ep-t5020-ep-t5020xbeggb-542305100?$PD_GALLERY_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t5020xbeggb/gallery/uk-50w-power-adapter-duo-ep-t5020-ep-t5020xbeggb-thumb-542305130?$PD_GALLERY_THUM_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t5020xbeggb/gallery/uk-50w-power-adapter-duo-ep-t5020-ep-t5020xbeggb-thumb-542305130?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t5020xbeggb/gallery/uk-50w-power-adapter-duo-ep-t5020-ep-t5020xbeggb-542305100?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 59.0,
+      "sale_price": 59.0,
+      "taxonomyIdPath": "01000000#01050000#01051900",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-T5020XBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Power&dt=50W_Duo_Travel_Adapter&dr=10",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/50w-duo-travel-adapter-black-ep-t5020xbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/50w-duo-travel-adapter-black-ep-t5020xbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-T5020XBEGGB",
+      "uspDesc": [
+        "UK Plug with 2 x USB-C port, data cable not included"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£59.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£59.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the 50W USB C Duo Travel Adapter EP-T5020XBEGGB with UK plug. Enjoy Free Delivery & Returns at Samsung UK. "
+    },
+    {
+      "id": "EB-U2510XUEGEU",
+      "name": "10,000 mAh Wireless Battery Pack (25W Super Fast Charging)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Battery",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EB-U2510XUEGEU"
+      ],
+      "productLaunchDate": "2024-06-14 00:00:00",
+      "numberOfReviews": "0",
+      "reviewRating": "0.0",
+      "productDisplayName": "10,000 mAh Wireless Battery Pack (25W Super Fast Charging)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-u2510xuegeu/gallery/uk-wireless-battery-pack-10000mah-eb-u2510-eb-u2510xuegeu-542201653?$PD_GALLERY_PNG$",
+          "desc": "r-perspective Beige"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-u2510xuegeu/gallery/uk-wireless-battery-pack-10000mah-eb-u2510-eb-u2510xuegeu-thumb-542201667?$PD_GALLERY_THUM_PNG$",
+          "desc": "r-perspective Beige"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-u2510xuegeu/gallery/uk-wireless-battery-pack-10000mah-eb-u2510-eb-u2510xuegeu-thumb-542201667?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-u2510xuegeu/gallery/uk-wireless-battery-pack-10000mah-eb-u2510-eb-u2510xuegeu-542201653?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Colour",
+          "value": [
+            "Beige"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#d6cdc1"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 44.0,
+      "sale_price": 44.0,
+      "taxonomyIdPath": "01000000#01050000#01051100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Beige"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EB-U2510XUEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Battery&dt=10,000_mAh_Wireless_Battery_Pack_(25W_Super_Fast_Charging)&dr=11",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/25w-wireless-battery-pack-10-000mah-beige-eb-u2510xuegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/25w-wireless-battery-pack-10-000mah-beige-eb-u2510xuegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/EB-U2510XUEGEU",
+      "uspDesc": [
+        "Battery Pack with 25W Super Fast Charging (PD 3.0 PPS) 2x USB-C, 7.5W wireless output"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£44.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£44.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Samsung 25W Super Fast Charging Battery Pack EB-U2510XUEGEU. Browse all Mobile Accessories at Samsung UK."
+    },
+    {
+      "id": "EP-T4511XBEGGB",
+      "name": "45W Super Fast Charger 2.0",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Power",
+      "discount": 30.0,
+      "groupedProducts": [
+        "EP-T4511XBEGGB"
+      ],
+      "productLaunchDate": "2024-05-01 00:00:00",
+      "numberOfReviews": "21",
+      "reviewRating": "1.9",
+      "productDisplayName": "45W Super Fast Charger 2.0",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t4511xbeggb/gallery/uk-45w-power-adapter-ep-t4511-ep-t4511xbeggb-541440133?$PD_GALLERY_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t4511xbeggb/gallery/uk-45w-power-adapter-ep-t4511-ep-t4511xbeggb-thumb-541439950?$PD_GALLERY_THUM_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t4511xbeggb/gallery/uk-45w-power-adapter-ep-t4511-ep-t4511xbeggb-thumb-541439950?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t4511xbeggb/gallery/uk-45w-power-adapter-ep-t4511-ep-t4511xbeggb-541440133?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 44.0,
+      "sale_price": 30.8,
+      "taxonomyIdPath": "01000000#01050000#01051900",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-T4511XBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Power&dt=45W_Super_Fast_Charger_2.0&dr=12",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/45w-power-adapter-black-usb-c-ep-t4511xbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/45w-power-adapter-black-usb-c-ep-t4511xbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-T4511XBEGGB",
+      "uspDesc": [
+        "UK Plug with USB-C port",
+        "5A USB-C to C cable included"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£44.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£30.80",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the 45W USB C Port Wall Charger EP-T4511XBEGGB with USB C to C cable included. Enjoy Free Delivery at Samsung UK."
+    },
+    {
+      "id": "EB-P4520XUEGEU",
+      "name": "20,000 mAh Battery Pack (45W Super Fast Charging 2.0)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Battery",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EB-P4520XUEGEU"
+      ],
+      "productLaunchDate": "2024-04-03 00:00:00",
+      "numberOfReviews": "11",
+      "reviewRating": "4.5",
+      "productDisplayName": "20,000 mAh Battery Pack (45W Super Fast Charging 2.0)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-p4520xuegeu/gallery/uk-battery-pack-20000mah-eb-p4520-eb-p4520xuegeu-540938982?$PD_GALLERY_PNG$",
+          "desc": "r-perspective Beige"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-p4520xuegeu/gallery/uk-battery-pack-20000mah-eb-p4520-eb-p4520xuegeu-thumb-540938996?$PD_GALLERY_THUM_PNG$",
+          "desc": "r-perspective Beige"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-p4520xuegeu/gallery/uk-battery-pack-20000mah-eb-p4520-eb-p4520xuegeu-thumb-540938996?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-p4520xuegeu/gallery/uk-battery-pack-20000mah-eb-p4520-eb-p4520xuegeu-540938982?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Battery Packs"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Other",
+            "Galaxy Z Fold4",
+            "Galaxy Z Flip4",
+            "Galaxy S23",
+            "Galaxy Z Fold5",
+            "Galaxy Z Flip5"
+          ]
+        },
+        {
+          "name": "Tablet Compatibility",
+          "id": "9",
+          "value": [
+            "Galaxy Tab S7",
+            "Galaxy Tab S6 Lite",
+            "Galaxy Tab S8",
+            "Galaxy Tab S9 Ultra",
+            "Galaxy Tab S9+",
+            "Galaxy Tab S9"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch Active2",
+            "Galaxy Watch3",
+            "Galaxy Watch4",
+            "Galaxy Watch5 & 5 Pro",
+            "Galaxy Watch6 & 6 Classic"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Beige"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#d6cdc1"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 57.0,
+      "sale_price": 57.0,
+      "taxonomyIdPath": "01000000#01050000#01051100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Battery Packs",
+        "Beige"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EB-P4520XUEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Battery&dt=20,000_mAh_Battery_Pack_(45W_Super_Fast_Charging_2.0)&dr=13",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/battery-pack-20-000mah-beige-usb-c-eb-p4520xuegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/battery-pack-20-000mah-beige-usb-c-eb-p4520xuegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/EB-P4520XUEGEU",
+      "uspDesc": [
+        "Battery Pack with 45W Super Fast Charging 2.0 (PD 3.0 PPS) 3x USB-C"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£57.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£57.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "20,000 mAh Battery Pack (45W Super Fast Charging 2.0) (EB-P4520XUEGEU) - See the benefits and full features of this product. Learn more and find the best Mobile Accessories for you at Samsung UK."
+    },
+    {
+      "id": "EB-P3400XUEGEU",
+      "name": "Battery Pack 10,000mAh 25W Super Fast Charging",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Power",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EB-P3400XUEGEU"
+      ],
+      "productLaunchDate": "2023-03-31 00:00:00",
+      "numberOfReviews": "67",
+      "reviewRating": "4.3",
+      "productDisplayName": "Battery Pack 10,000mAh 25W Super Fast Charging",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-p3400xuegeu/gallery/uk-10ah-battery-pack-eb-p3400-eb-p3400xuegeu-535675377?$PD_GALLERY_PNG$",
+          "desc": "r-perspective Beige"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-p3400xuegeu/gallery/uk-10ah-battery-pack-eb-p3400-eb-p3400xuegeu-thumb-535675390?$PD_GALLERY_THUM_PNG$",
+          "desc": "r-perspective Beige"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-p3400xuegeu/gallery/uk-10ah-battery-pack-eb-p3400-eb-p3400xuegeu-thumb-535675390?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/eb-p3400xuegeu/gallery/uk-10ah-battery-pack-eb-p3400-eb-p3400xuegeu-535675377?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers",
+            "Cables and Adaptors",
+            "Battery Packs"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Fold2",
+            "Galaxy Z Fold3",
+            "Galaxy Z Flip3",
+            "Galaxy S22",
+            "Galaxy Z Fold4",
+            "Galaxy Z Flip4"
+          ]
+        },
+        {
+          "name": "Tablet Compatibility",
+          "id": "9",
+          "value": [
+            "Galaxy Tab S6",
+            "Galaxy Tab S7",
+            "Galaxy Tab S6 Lite",
+            "Galaxy Tab A 10.5",
+            "Galaxy Tab 10.1",
+            "Galaxy Tab S8"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch Active2",
+            "Galaxy Watch3",
+            "Galaxy Watch4"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Beige"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#d6cdc1"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 37.0,
+      "sale_price": 37.0,
+      "taxonomyIdPath": "01000000#01050000#01051900",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Cables and Adaptors",
+        "Battery Packs",
+        "Beige"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EB-P3400XUEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Power&dt=Battery_Pack_10,000mAh_25W_Super_Fast_Charging&dr=14",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/10-000mah-battery-pack-beige-eb-p3400xuegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/10-000mah-battery-pack-beige-eb-p3400xuegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/EB-P3400XUEGEU",
+      "uspDesc": [
+        "Battery Pack with 25W Super Fast Charging (PD 3.0 PPS) 2x USB-C"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£37.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£37.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the 25W super fast portable battery pack EB-P3400XUEGEU to charge your devices on the go. Enjoy Free Delivery at Samsung UK."
+    },
+    {
+      "id": "EP-T2510XBEGGB",
+      "name": "25W Super Fast Charging Travel Adapter (with C to C cable)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Power",
+      "discount": 30.0,
+      "groupedProducts": [
+        "EP-T2510XBEGGB",
+        "EP-T2510XWEGGB"
+      ],
+      "productLaunchDate": "2023-10-26 00:00:00",
+      "numberOfReviews": "16",
+      "reviewRating": "2.8",
+      "productDisplayName": "25W Super Fast Charging Travel Adapter (with C to C cable)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t2510xbeggb/gallery/uk-25w-power-adapter-ep-t2510-ep-t2510xbeggb-538595743?$PD_GALLERY_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t2510xbeggb/gallery/uk-25w-power-adapter-ep-t2510-ep-t2510xbeggb-thumb-538595782?$PD_GALLERY_THUM_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t2510xbeggb/gallery/uk-25w-power-adapter-ep-t2510-ep-t2510xbeggb-thumb-538595782?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t2510xbeggb/gallery/uk-25w-power-adapter-ep-t2510-ep-t2510xbeggb-538595743?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers",
+            "Cables and Adaptors"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Fold4",
+            "Galaxy Z Flip4",
+            "Galaxy S23",
+            "Galaxy Z Fold5",
+            "Galaxy Z Flip5"
+          ]
+        },
+        {
+          "name": "Tablet Compatibility",
+          "id": "9",
+          "value": [
+            "Galaxy Tab S7",
+            "Galaxy Tab S6 Lite",
+            "Galaxy Tab S8",
+            "Galaxy Tab S9 Ultra",
+            "Galaxy Tab S9+",
+            "Galaxy Tab S9",
+            "Galaxy Tab S9 FE+",
+            "Galaxy Tab S9 FE"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 29.0,
+      "sale_price": 20.3,
+      "taxonomyIdPath": "01000000#01050000#01051900",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Cables and Adaptors",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-T2510XBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Power&dt=25W_Super_Fast_Charging_Travel_Adapter_(with_C_to_C_cable)&dr=15",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/25w-power-adapter-black-ep-t2510xbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/25w-power-adapter-black-ep-t2510xbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-T2510XBEGGB",
+      "uspDesc": [
+        "Compact, Gallium Nitride (GaN) UK plug with USB-C port, USB-C to C cable included"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£29.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£20.30",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "25W Power Adapter, charger, super fast charger"
+    },
+    {
+      "id": "EP-T2510NBEGGB",
+      "name": "25W Super Fast Charging Travel Adapter (USB-C without Cable)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Power",
+      "discount": 30.0,
+      "groupedProducts": [
+        "EP-T2510NBEGGB",
+        "EP-T2510NWEGGB"
+      ],
+      "productLaunchDate": "2023-10-26 00:00:00",
+      "numberOfReviews": "16",
+      "reviewRating": "2.8",
+      "productDisplayName": "25W Super Fast Charging Travel Adapter (USB-C without Cable)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t2510nbeggb/gallery/uk-25w-power-adapter-ep-t2510-481727-ep-t2510nbeggb-538596030?$PD_GALLERY_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t2510nbeggb/gallery/uk-25w-power-adapter-ep-t2510-481727-ep-t2510nbeggb-thumb-538596069?$PD_GALLERY_THUM_PNG$",
+          "desc": "dynamic Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t2510nbeggb/gallery/uk-25w-power-adapter-ep-t2510-481727-ep-t2510nbeggb-thumb-538596069?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-t2510nbeggb/gallery/uk-25w-power-adapter-ep-t2510-481727-ep-t2510nbeggb-538596030?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers",
+            "Cables and Adaptors"
+          ]
+        },
+        {
+          "name": "Smartphone Compatibility",
+          "id": "8",
+          "value": [
+            "Galaxy Z Fold4",
+            "Galaxy Z Flip4",
+            "Galaxy S23",
+            "Galaxy Z Fold5",
+            "Galaxy Z Flip5"
+          ]
+        },
+        {
+          "name": "Tablet Compatibility",
+          "id": "9",
+          "value": [
+            "Galaxy Tab S7",
+            "Galaxy Tab S6 Lite",
+            "Galaxy Tab S8",
+            "Galaxy Tab S9 Ultra",
+            "Galaxy Tab S9+",
+            "Galaxy Tab S9",
+            "Galaxy Tab S9 FE+",
+            "Galaxy Tab S9 FE"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 19.0,
+      "sale_price": 13.3,
+      "taxonomyIdPath": "01000000#01050000#01051900",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Cables and Adaptors",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-T2510NBEGGB&dc=Mobile&sc=Mobile_Accessories&dg=Power&dt=25W_Super_Fast_Charging_Travel_Adapter_(USB-C_without_Cable)&dr=16",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/",
+      "linkUrlReview": "/uk/mobile-accessories/25w-power-adapter-black-ep-t2510nbeggb/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-T2510NBEGGB",
+      "uspDesc": [
+        "Compact, Gallium Nitride (GaN) UK plug with USB-C port, data cable not included"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£19.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£13.30",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "25W Power Adapter, charger, super fast charger"
+    },
+    {
+      "id": "EP-DG930IBEGWW",
+      "name": "USB-A to USB-C Data Charging Cable",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Connectivity",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-DG930IBEGWW"
+      ],
+      "productLaunchDate": "2021-05-25 00:00:00",
+      "numberOfReviews": "15",
+      "reviewRating": "3.8",
+      "productDisplayName": "USB-A to USB-C Data Charging Cable",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-cable-c-power-ep-dg930ibegww-frontblack-124867191?$PD_GALLERY_PNG$",
+          "desc": "front-4 black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-cable-c-power-ep-dg930ibegww-frontblack-thumb-124867199?$PD_GALLERY_THUM_PNG$",
+          "desc": "front-4 black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/uk-cable-c-power-ep-dg930ibegww-frontblack-thumb-124867199?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/uk-cable-c-power-ep-dg930ibegww-frontblack-124867191?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 9.0,
+      "sale_price": 9.0,
+      "taxonomyIdPath": "01000000#01050000#01051400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-DG930IBEGWW&dc=Mobile&sc=Mobile_Accessories&dg=Connectivity&dt=USB-A_to_USB-C_Data_Charging_Cable&dr=17",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/cable-c-power-ep-dg930ibegww/",
+      "linkUrlReview": "/uk/mobile-accessories/cable-c-power-ep-dg930ibegww/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-DG930IBEGWW",
+      "uspDesc": [],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£9.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£9.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the Samsung Galaxy USB A to USB C Phone Charger Cable EP-DG930IBEGWW to quickly charge your device. Enjoy 0% Finance & Free Delivery at Samsung UK."
+    },
+    {
+      "id": "GP-FPR940AMAWW",
+      "name": "Galaxy Watch Charger Cradle (charger not included, uses watch in-box charging puck)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Cases",
+      "discount": 0.0,
+      "groupedProducts": [
+        "GP-FPR940AMAWW"
+      ],
+      "productLaunchDate": "2023-10-26 00:00:00",
+      "numberOfReviews": "2",
+      "reviewRating": "2.5",
+      "productDisplayName": "Galaxy Watch Charger Cradle (charger not included, uses watch in-box charging puck)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/gp-fpr940amaww/gallery/uk-watch-charger-stand-anymode-for-galaxy-watch6-gp-fpr940amaww-538300300?$PD_GALLERY_PNG$",
+          "desc": "rperspective White"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/gp-fpr940amaww/gallery/uk-watch-charger-stand-anymode-for-galaxy-watch6-gp-fpr940amaww-thumb-538300306?$PD_GALLERY_THUM_PNG$",
+          "desc": "rperspective White"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/gp-fpr940amaww/gallery/uk-watch-charger-stand-anymode-for-galaxy-watch6-gp-fpr940amaww-thumb-538300306?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/gp-fpr940amaww/gallery/uk-watch-charger-stand-anymode-for-galaxy-watch6-gp-fpr940amaww-538300300?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "5",
+          "value": [
+            "Wireless Chargers",
+            "Cables and Adaptors"
+          ]
+        },
+        {
+          "name": "Watch Compatibility",
+          "id": "10",
+          "value": [
+            "Galaxy Watch6 & 6 Classic"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "White"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 24.0,
+      "sale_price": 24.0,
+      "taxonomyIdPath": "01000000#01050000#01050100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Wireless Chargers",
+        "Cables and Adaptors",
+        "White"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=GP-FPR940AMAWW&dc=Mobile&sc=Mobile_Accessories&dg=Cases&dt=Galaxy_Watch_Charger_Cradle_(charger_not_included,_uses_watch_in-box_charging_puck)&dr=18",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/watch-charger-stand-anymode-for-galaxy-watch6-white-gp-fpr940amaww/",
+      "linkUrlReview": "/uk/mobile-accessories/watch-charger-stand-anymode-for-galaxy-watch6-white-gp-fpr940amaww/#reviews",
+      "uspDesc": [
+        "Optimised for Galaxy Watch using magnetic clasp or D-Buckle band. Charger not included, uses standard in-box charger (compatible with Watch5 Series or later)"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£24.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£24.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Galaxy Watch Charger Cradle (charger not included, uses watch in-box charging puck) (GP-FPR940AMAWW) - See the benefits and full features of this product. Learn more and find the best Mobile Accessories for you at Samsung UK."
+    },
+    {
+      "id": "EP-L4020NBEGEU",
+      "name": "40W Car Charger",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Power",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-L4020NBEGEU"
+      ],
+      "productLaunchDate": "2022-06-06 00:00:00",
+      "numberOfReviews": "3",
+      "reviewRating": "4.0",
+      "productDisplayName": "40W Car Charger",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-l4020nbegeu/gallery/uk-40w-car-charger-duo-ep-l4020-ep-l4020nbegeu-532541228?$PD_GALLERY_PNG$",
+          "desc": "l-perspective Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-l4020nbegeu/gallery/uk-40w-car-charger-duo-ep-l4020-ep-l4020nbegeu-thumb-532541240?$PD_GALLERY_THUM_PNG$",
+          "desc": "l-perspective Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-l4020nbegeu/gallery/uk-40w-car-charger-duo-ep-l4020-ep-l4020nbegeu-thumb-532541240?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-l4020nbegeu/gallery/uk-40w-car-charger-duo-ep-l4020-ep-l4020nbegeu-532541228?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 29.0,
+      "sale_price": 29.0,
+      "taxonomyIdPath": "01000000#01050000#01051900",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-L4020NBEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Power&dt=40W_Car_Charger&dr=19",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/black-ep-l4020nbegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/black-ep-l4020nbegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-L4020NBEGEU",
+      "uspDesc": [],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£29.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£29.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the black 40W Samsung Phone Car Charger EP-L4020NBEGEU with USB Type C Ports to charge up to two devices simultaneously, where you are!"
+    },
+    {
+      "id": "EP-DX510JBEGEU",
+      "name": "USB-C to C 1.8m Cable (5A)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Mobile Accessories",
+      "sub_genre": "Smartphones Accessories",
+      "discount": 0.0,
+      "groupedProducts": [
+        "EP-DX510JBEGEU",
+        "EP-DX510JWEGEU"
+      ],
+      "productLaunchDate": "2022-06-13 00:00:00",
+      "numberOfReviews": "15",
+      "reviewRating": "3.0",
+      "productDisplayName": "USB-C to C 1.8m Cable (5A)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-dx510jbegeu/gallery/uk-usb-cable-5a-ep-dx510jbegeu-532724887?$PD_GALLERY_PNG$",
+          "desc": "package Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-dx510jbegeu/gallery/uk-usb-cable-5a-ep-dx510jbegeu-thumb-532724893?$PD_GALLERY_THUM_PNG$",
+          "desc": "package Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-dx510jbegeu/gallery/uk-usb-cable-5a-ep-dx510jbegeu-thumb-532724893?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/ep-dx510jbegeu/gallery/uk-usb-cable-5a-ep-dx510jbegeu-532724887?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "Power and Cables"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#ffffff",
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 17.0,
+      "sale_price": 17.0,
+      "taxonomyIdPath": "01000000#01050000#01052200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Power and Cables",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=watch_charger&cn=scom&cco=B2C&ui=047842b9-b8e1-3585-bac4-a4285e90c292&si=12c6b015-7656-3be9-8226-dbf2f5d2903d-1726738657084&ti=777c65e3-3d7d-3281-892f-aa5f22267452&qi=abff9945-b900-339a-b59b-c1caec22ed32&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=40&rs=Samsung_Wireless_Charger_Trio,Samsung_15W_Super_Fast_Wireless_Charger_Pad,Samsung_15W_Adaptive_Fast_Charger_with_C_to_Cable,Samsung_15W_Duo_Super_Fast_Wireless_Charger_Pad,Samsung_40W_Car_Charger,Samsung_15W_Adaptive_Fast_Charger_USB_C_without_Cable,Samsung_45W_Super_Fast_Charger_2.0,Samsung_Galaxy_Watch_Charger_Cradle_charger_not_included,_uses_watch_in_box_charging_puck,Samsung_Wireless_Charger_for_Galaxy_Watch,Samsung_Wireless_Car_Charger&tc=ACCESSORIES&di=EP-DX510JBEGEU&dc=Mobile&sc=Mobile_Accessories&dg=Smartphones_Accessories&dt=USB-C_to_C_1.8m_Cable_(5A)&dr=20",
+      "contentSource": "Accessories",
+      "sourceType": "B2CAccessory",
+      "pdpURL": "/uk/mobile-accessories/usb-cable-5a-usb-c-to-usb-c-black-ep-dx510jbegeu/",
+      "linkUrlReview": "/uk/mobile-accessories/usb-cable-5a-usb-c-to-usb-c-black-ep-dx510jbegeu/#reviews",
+      "supportLinkUrl": "/uk/support/model/EP-DX510JBEGEU",
+      "uspDesc": [
+        "5A Cable required for 45W and 65W Charging Speeds"
+      ],
+      "promotionText": [
+        "<p><span style=\"color: #3366ff;\">Get 15% off when bought with any mobile, tablet, computer, or wearable device</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£17.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£17.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Buy the black Samsung Cable 5A EP-DX510JBEGEU (USB-C to USB-C) for fast charging & data transmission. See all mobile accessories at Samsung UK."
+    }
+  ],
+  "filters": [
+    {
+      "displayName": "Categories",
+      "values": [
+        {
+          "count": 1,
+          "value": "Computer Accessories"
+        },
+        {
+          "count": 1,
+          "value": "Display Accessories"
+        },
+        {
+          "count": 4,
+          "value": "Home Appliance Accessories"
+        },
+        {
+          "count": 30,
+          "value": "Mobile Accessories"
+        },
+        {
+          "count": 1,
+          "value": "Projector Accessories"
+        },
+        {
+          "count": 3,
+          "value": "TV Accessories"
+        }
+      ],
+      "name": "groupedProductsList.sub_category.keyword",
+      "type": "property",
+      "priority": 0
+    },
+    {
+      "displayName": "Price Range",
+      "values": [
+        {
+          "count": 14,
+          "value": "£50 - £100"
+        },
+        {
+          "count": 24,
+          "value": "£50 or less"
+        }
+      ],
+      "name": "groupedProductsList.sale_price",
+      "type": "range",
+      "priority": 1
+    },
+    {
+      "displayName": "Discount Range",
+      "values": [
+        {
+          "count": 5,
+          "value": "25% - 35%"
+        },
+        {
+          "count": 33,
+          "value": "5% or less"
+        }
+      ],
+      "name": "groupedProductsList.discount",
+      "type": "range",
+      "priority": 2
+    },
+    {
+      "displayName": "Colour",
+      "values": [
+        {
+          "count": 3,
+          "value": "Beige"
+        },
+        {
+          "count": 26,
+          "value": "Black"
+        },
+        {
+          "count": 3,
+          "value": "Graphite"
+        },
+        {
+          "count": 1,
+          "value": "Peach"
+        },
+        {
+          "count": 1,
+          "value": "Serene Purple"
+        },
+        {
+          "count": 2,
+          "value": "Silver"
+        },
+        {
+          "count": 14,
+          "value": "White"
+        }
+      ],
+      "name": "Colour",
+      "type": "attribute",
+      "priority": 3
+    },
+    {
+      "displayName": "Product Type",
+      "values": [
+        {
+          "count": 2,
+          "value": "Battery Packs"
+        },
+        {
+          "count": 17,
+          "value": "Cables and Adaptors"
+        },
+        {
+          "count": 8,
+          "value": "Covers & Cases"
+        },
+        {
+          "count": 1,
+          "value": "Other"
+        },
+        {
+          "count": 4,
+          "value": "Power and Cables"
+        },
+        {
+          "count": 2,
+          "value": "S Pens"
+        },
+        {
+          "count": 19,
+          "value": "Wireless Chargers"
+        }
+      ],
+      "name": "Product Type",
+      "type": "attribute",
+      "priority": 9
+    },
+    {
+      "displayName": "Smartphone Compatibility",
+      "values": [
+        {
+          "count": 2,
+          "value": "Galaxy A21s"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A40"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A41"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A51"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A70"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy A71"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Note10"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Note20"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy S10"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy S20"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy S21"
+        },
+        {
+          "count": 10,
+          "value": "Galaxy S22"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy S23"
+        },
+        {
+          "count": 2,
+          "value": "Galaxy Z Flip"
+        },
+        {
+          "count": 1,
+          "value": "Galaxy Z Flip3"
+        },
+        {
+          "count": 9,
+          "value": "Galaxy Z Flip4"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Z Flip5"
+        },
+        {
+          "count": 3,
+          "value": "Galaxy Z Fold2"
+        },
+        {
+          "count": 1,
+          "value": "Galaxy Z Fold3"
+        },
+        {
+          "count": 10,
+          "value": "Galaxy Z Fold4"
+        },
+        {
+          "count": 6,
+          "value": "Galaxy Z Fold5"
+        },
+        {
+          "count": 1,
+          "value": "Other"
+        }
+      ],
+      "name": "Smartphone Compatibility",
+      "type": "attribute",
+      "priority": 91
+    },
+    {
+      "displayName": "Watch Compatibility",
+      "values": [
+        {
+          "count": 2,
+          "value": "Galaxy Watch Active"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Watch Active2"
+        },
+        {
+          "count": 1,
+          "value": "Galaxy Watch Ultra"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Watch3"
+        },
+        {
+          "count": 3,
+          "value": "Galaxy Watch4"
+        },
+        {
+          "count": 4,
+          "value": "Galaxy Watch5 & 5 Pro"
+        },
+        {
+          "count": 3,
+          "value": "Galaxy Watch6 & 6 Classic"
+        },
+        {
+          "count": 1,
+          "value": "Galaxy Watch7"
+        }
+      ],
+      "name": "Watch Compatibility",
+      "type": "attribute",
+      "priority": 92
+    },
+    {
+      "displayName": "Tablet Compatibility",
+      "values": [
+        {
+          "count": 1,
+          "value": "Galaxy Tab 10.1"
+        },
+        {
+          "count": 1,
+          "value": "Galaxy Tab A 10.5"
+        },
+        {
+          "count": 1,
+          "value": "Galaxy Tab S6"
+        },
+        {
+          "count": 8,
+          "value": "Galaxy Tab S6 Lite"
+        },
+        {
+          "count": 6,
+          "value": "Galaxy Tab S7"
+        },
+        {
+          "count": 6,
+          "value": "Galaxy Tab S8"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Tab S9"
+        },
+        {
+          "count": 4,
+          "value": "Galaxy Tab S9 FE"
+        },
+        {
+          "count": 4,
+          "value": "Galaxy Tab S9 FE+"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Tab S9 Ultra"
+        },
+        {
+          "count": 5,
+          "value": "Galaxy Tab S9+"
+        }
+      ],
+      "name": "Tablet Compatibility",
+      "type": "attribute",
+      "priority": 93
+    },
+    {
+      "displayName": "Supported Accessories",
+      "values": [
+        {
+          "count": 1,
+          "value": "AV Gender"
+        },
+        {
+          "count": 1,
+          "value": "AV gender"
+        },
+        {
+          "count": 1,
+          "value": "USB Cable for Charging"
+        },
+        {
+          "count": 2,
+          "value": "USB Extension Cable"
+        },
+        {
+          "count": 3,
+          "value": "User Manual"
+        }
+      ],
+      "name": "Supported Accessories",
+      "type": "attribute",
+      "priority": 95
+    },
+    {
+      "displayName": "Availability",
+      "values": [
+        {
+          "count": 35,
+          "value": "In Stock"
+        },
+        {
+          "count": 3,
+          "value": "Out of Stock"
+        }
+      ],
+      "name": "Availability",
+      "type": "attribute",
+      "priority": 98
+    },
+    {
+      "displayName": "Led TV Compatibility",
+      "values": [
+        {
+          "count": 1,
+          "value": "2014 Europe / Türkiye: H5303, H5203"
+        },
+        {
+          "count": 1,
+          "value": "For all 2011 and 2012 Samsung D,E and ES series 3D TV"
+        },
+        {
+          "count": 1,
+          "value": "2010 C5000 and above2011 D5000 ~ D64**2012 EH 4500, EH 5300, EH 5400, ES 5500,ES 5700"
+        }
+      ],
+      "name": "Led TV Compatibility",
+      "type": "attribute",
+      "priority": 99
+    },
+    {
+      "displayName": "Plasma TV Compatibility",
+      "values": [
+        {
+          "count": 1,
+          "value": "For all 2011 and 2012 Samsung D,E and ES series 3D TV"
+        },
+        {
+          "count": 1,
+          "value": "2010 C550 and above (C540 is only supported in North America) 2011 D550 ~ D64**2012 E 490, 550 (Korea, Europe & CIS)"
+        }
+      ],
+      "name": "Plasma TV Compatibility",
+      "type": "attribute",
+      "priority": 99
+    }
+  ],
+  "subjectiveQuery": false,
+  "resultType": "accessory",
+  "relatedKeywords": [
+    "Samsung Wireless Charger Trio",
+    "Samsung 15W Super Fast Wireless Charger Pad",
+    "Samsung 15W Adaptive Fast Charger with C to Cable",
+    "Samsung 15W Duo Super Fast Wireless Charger Pad",
+    "Samsung 40W Car Charger",
+    "Samsung 15W Adaptive Fast Charger USB C without Cable",
+    "Samsung 45W Super Fast Charger 2.0",
+    "Samsung Galaxy Watch Charger Cradle charger not included, uses watch in box charging puck",
+    "Samsung Wireless Charger for Galaxy Watch",
+    "Samsung Wireless Car Charger"
+  ],
+  "tabInfoList": [
+    {
+      "tabType": "ALL",
+      "tabParam": "all",
+      "count": 132
+    },
+    {
+      "tabType": "PRD",
+      "tabParam": "product",
+      "count": 1
+    },
+    {
+      "tabType": "ACC",
+      "tabParam": "accessory",
+      "count": 40
+    },
+    {
+      "tabType": "SPP",
+      "tabParam": "support",
+      "count": 85
+    }
+  ]
+}

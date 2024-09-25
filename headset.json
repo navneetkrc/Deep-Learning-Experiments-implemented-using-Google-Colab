@@ -1,0 +1,256 @@
+{
+  "sessionID": "888a3169-e12a-305b-bb85-3f3f4dab7146-1726738275792",
+  "searchTotalTime": 149,
+  "searchTotalCount": 1,
+  "searchProcTime": 124,
+  "hasMoreResults": false,
+  "searchResults": [
+    {
+      "id": "UE49KU6500UXXU",
+      "name": "49\" KU6500 6 Series UHD Crystal Colour HDR Smart TV",
+      "type": "Product",
+      "category": "Television",
+      "sub_category": "TV",
+      "sub_genre": "UHD 4K TV",
+      "groupedProducts": [
+        "UE49KU6500UXXU"
+      ],
+      "productLaunchDate": "2016-06-29 00:00:00",
+      "numberOfReviews": "227",
+      "reviewRating": "4.7",
+      "productDisplayName": "49\" KU6500 6 Series UHD Crystal Colour HDR Smart TV",
+      "ecomFlag": "N",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-uhd-ku6500-ue49ku6500uxxu-007-black-black?$PD_GALLERY_PNG$",
+          "desc": "R Side black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/uk-uhd-ku6500-ue49ku6500uxxu-black-thumb-61263792?$PD_GALLERY_THUM_PNG$",
+          "desc": "R Side black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/uk-uhd-ku6500-ue49ku6500uxxu-black-thumb-61263792?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/uk-uhd-ku6500-ue49ku6500uxxu-007-black-black?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "name_eng": "Supported Accessories",
+          "name": "Supported Accessories",
+          "id": "0",
+          "value": [
+            "Batteries (for Remote Control)",
+            "Mini Wall Mount Support",
+            "Vesa Wall Mount Support",
+            "User Manual",
+            "E-Manual",
+            "Power Cable",
+            "Slim Gender Cable"
+          ]
+        },
+        {
+          "name_eng": "Features",
+          "name": "Features",
+          "id": "1",
+          "value": [
+            "Instant On",
+            "Ultra Clean View",
+            "Digital Clean View",
+            "Auto Channel Search",
+            "Caption",
+            "Channel List USB-Clone",
+            "ConnectShare",
+            "ConnectShare",
+            "Embeded POP",
+            "EPG",
+            "Extended PVR",
+            "Game Mode",
+            "Picture-In-Picture",
+            "BT HID Built-in",
+            "USB HID Support",
+            "Time Shift"
+          ]
+        },
+        {
+          "name_eng": "Supported Audio Features",
+          "name": "Audio Features",
+          "id": "2",
+          "value": [
+            "Dolby Digital Plus",
+            "DTS Codec",
+            "Wallmount Sound Mode",
+            "Multiroom Link",
+            "TV SoundConnect",
+            "BT Headset Support"
+          ]
+        },
+        {
+          "name_eng": "Num Hdmi",
+          "name": "No of HDMI Ports",
+          "id": "3",
+          "value": [
+            "3"
+          ]
+        },
+        {
+          "name_eng": "Num Usb",
+          "name": "No of USB Ports",
+          "id": "4",
+          "value": [
+            "2"
+          ]
+        },
+        {
+          "numeric_value": [
+            49
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "5",
+          "value": [
+            "49 inch"
+          ]
+        },
+        {
+          "name_eng": "Smart Features",
+          "name": "Smart Features",
+          "id": "10",
+          "value": [
+            "TV to Mobile - Mirroring",
+            "Mobile to TV - Mirroring, DLNA",
+            "Samsung SMART View",
+            "Bluetooth Low Energy",
+            "WiFi Direct"
+          ]
+        },
+        {
+          "name_eng": "Energy Efficiency Class",
+          "name": "Energy Efficiency",
+          "id": "8",
+          "value": [
+            "A band"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "taxonomyIdPath": "04000000#04010000#04010200",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Batteries (for Remote Control)",
+        "Mini Wall Mount Support",
+        "Vesa Wall Mount Support",
+        "User Manual",
+        "E-Manual",
+        "Power Cable",
+        "Slim Gender Cable",
+        "Instant On",
+        "Ultra Clean View",
+        "Digital Clean View",
+        "Auto Channel Search",
+        "Caption",
+        "Channel List USB-Clone",
+        "ConnectShare",
+        "ConnectShare",
+        "Embeded POP",
+        "EPG",
+        "Extended PVR",
+        "Game Mode",
+        "Picture-In-Picture",
+        "BT HID Built-in",
+        "USB HID Support",
+        "Time Shift",
+        "Dolby Digital Plus",
+        "DTS Codec",
+        "Wallmount Sound Mode",
+        "Multiroom Link",
+        "TV SoundConnect",
+        "BT Headset Support",
+        "3",
+        "2",
+        "49 inch",
+        "TV to Mobile - Mirroring",
+        "Mobile to TV - Mirroring, DLNA",
+        "Samsung SMART View",
+        "Bluetooth Low Energy",
+        "WiFi Direct",
+        "A band",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=headset&cn=scom&cco=B2C&ui=26f4b741-e0e5-3274-906d-e751892d2bab&si=888a3169-e12a-305b-bb85-3f3f4dab7146-1726738275792&ti=c7f21039-7b7e-30f1-82a3-20f34aa9aadc&qi=d5879608-3039-395e-a903-928b56bc5fe2&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=1&rs=HM1000Bluetooth_Headset,Compact_Mono_Bluetooth_Headset,WEP570Bluetooth_Headset,Bluetooth_Stereo_Headset,Bluetooth_Mono_Headset,How_do_I_connect_a_Bluetooth_headset_to_my_Samsung_Galaxy_smartphone_or_tablet?,BHM3500Bluetooth_Headset,Mono_Bluetooth_Headset,How_to_troubleshoot_when_Bluetooth_headset_audio_is_unstable&tc=PRODUCT&di=UE49KU6500UXXU&dc=Television&sc=TV&dg=UHD_4K_TV&dt=49\"_KU6500_6_Series_UHD_Crystal_Colour_HDR_Smart_TV&dr=1",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/tvs/uhd-4k-tv/ku6500-49-inch-crystal-uhd-smart-tv-ue49ku6500uxxu/",
+      "linkUrlReview": "/uk/tvs/uhd-4k-tv/ku6500-49-inch-crystal-uhd-smart-tv-ue49ku6500uxxu/#reviews",
+      "supportLinkUrl": "/uk/support/model/UE49KU6500UXXU",
+      "uspDesc": [
+        "Experience a superior High Dynamic Range",
+        "Experience seamless gaming through the cloud",
+        "Enjoy quick access to all content with the Smart Hub",
+        "Enjoy a stunningly natural and lifelike picture"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "N",
+      "energyLabel": {
+        "CssClassId": "s-grade-a s-fourth-level",
+        "EnergyLabelFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/uk-energylabel-ue49ku6500uxxu-energylabel.pdf",
+        "Grade": "A",
+        "FicheFileUrl": "https://images.samsung.com/is/content/samsung/p6/common/energylabel/common-energylabel-ue49ku6500uxxu-productfiche.pdf"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "productDescription": "Discover the design, specs and features of Samsung 49 inch Curved UHD TV KU6500 here. You can purchase the TV now and complete your viewing experience."
+    }
+  ],
+  "filters": [],
+  "subjectiveQuery": false,
+  "resultType": "Product",
+  "relatedKeywords": [
+    "HM1000Bluetooth Headset",
+    "Compact Mono Bluetooth Headset",
+    "WEP570Bluetooth Headset",
+    "Bluetooth Stereo Headset",
+    "Bluetooth Mono Headset",
+    "How do I connect a Bluetooth headset to my Samsung Galaxy smartphone or tablet?",
+    "BHM3500Bluetooth Headset",
+    "Mono Bluetooth Headset",
+    "How to troubleshoot when Bluetooth headset audio is unstable"
+  ],
+  "tabInfoList": [
+    {
+      "tabType": "ALL",
+      "tabParam": "all",
+      "count": 14
+    },
+    {
+      "tabType": "PRD",
+      "tabParam": "product",
+      "count": 1
+    },
+    {
+      "tabType": "SPP",
+      "tabParam": "support",
+      "count": 13
+    }
+  ]
+}

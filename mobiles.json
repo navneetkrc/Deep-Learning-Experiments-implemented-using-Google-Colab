@@ -1,0 +1,5694 @@
+{
+  "sessionID": "9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051",
+  "searchTotalTime": 117,
+  "searchTotalCount": 54,
+  "searchProcTime": 106,
+  "hasMoreResults": true,
+  "searchResults": [
+    {
+      "id": "SM-F741BAKGEUB",
+      "name": "Galaxy Z Flip6 (Online Exclusive)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy Z",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-F741BAKGEUB",
+        "SM-F741BAKHEUB",
+        "SM-F741BZOGEUB",
+        "SM-F741BZOHEUB",
+        "SM-F741BZWGEUB",
+        "SM-F741BZWHEUB"
+      ],
+      "productLaunchDate": "2024-06-10 00:00:00",
+      "numberOfReviews": "4370",
+      "reviewRating": "4.7",
+      "productDisplayName": "Galaxy Z Flip6 (Online Exclusive)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-z-flip6/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-zflip6-f741-512601-sm-f741bakgeub-542270389?$PD_GALLERY_PNG$",
+          "desc": "openback Crafted Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-zflip6-f741-512601-sm-f741bakgeub-thumb-542660294?$PD_GALLERY_THUM_PNG$",
+          "desc": "openback Crafted Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-zflip6-f741-512601-sm-f741bakgeub-thumb-542660294?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-zflip6-f741-512601-sm-f741bakgeub-542270389?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            256
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "256 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.7
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.7 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2640 x 1080"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In ",
+            "Bundle Discount",
+            "Online Exclusive",
+            "Cashback"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "Foldable",
+            "Nightography"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Crafted Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#454646",
+        "#ffa47f",
+        "#e9e9e7"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 1049.0,
+      "sale_price": 1049.0,
+      "taxonomyIdPath": "01000000#01010000#01010300",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "5G",
+        "Crafted Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-F741BAKGEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_Z&dt=Galaxy_Z_Flip6_(Online_Exclusive)&dr=1",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-z/galaxy-z-flip6-crafted-black-256gb-online-exclusive-sm-f741bakgeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-z-flip6/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-F741BAKGEUB",
+      "uspDesc": [
+        "Your communicative companion for multilingual conversations",
+        "New floating edge design is slim, sleek and stunning",
+        "Capture your best angle hands-free with auto zoom",
+        "Only available at Samsung.com"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£1,049.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£1,049.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Galaxy Z Flip6, the compact flip phone with a 50MP camera, world-changing Galaxy AI features & a long-lasting battery at Samsung UK."
+    },
+    {
+      "id": "SM-F741BLBGEUB",
+      "name": "Galaxy Z Flip6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy Z",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-F741BLBGEUB",
+        "SM-F741BLBHEUB",
+        "SM-F741BLGGEUB",
+        "SM-F741BLGHEUB",
+        "SM-F741BZSGEUB",
+        "SM-F741BZSHEUB",
+        "SM-F741BZYGEUB",
+        "SM-F741BZYHEUB"
+      ],
+      "productLaunchDate": "2024-06-10 00:00:00",
+      "numberOfReviews": "4319",
+      "reviewRating": "4.7",
+      "productDisplayName": "Galaxy Z Flip6",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-z-flip6/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-zflip6-f741-sm-f741blbgeub-542455094?$PD_GALLERY_PNG$",
+          "desc": "closedback Blue"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-zflip6-f741-sm-f741blbgeub-thumb-542658134?$PD_GALLERY_THUM_PNG$",
+          "desc": "closedback Blue"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-zflip6-f741-sm-f741blbgeub-thumb-542658134?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-zflip6-f741-sm-f741blbgeub-542455094?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            256
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "256 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.7
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.7 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2640 x 1080"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In ",
+            "Bundle Discount",
+            "Cashback"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "Foldable",
+            "Nightography"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Blue"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#f8e59a",
+        "#a7c6ed",
+        "#7f7f7e",
+        "#a5dfd3"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 1049.0,
+      "sale_price": 1049.0,
+      "taxonomyIdPath": "01000000#01010000#01010300",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "5G",
+        "Blue"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-F741BLBGEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_Z&dt=Galaxy_Z_Flip6&dr=2",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-z/galaxy-z-flip6-blue-256gb-sm-f741blbgeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-z-flip6/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-F741BLBGEUB",
+      "uspDesc": [
+        "Your communicative companion for multilingual conversations",
+        "New floating edge design is slim, sleek and stunning",
+        "Capture your best angle hands-free with auto zoom"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£1,049.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£1,049.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Galaxy Z Flip6, the compact flip phone with a 50MP camera, world-changing Galaxy AI features & a long-lasting battery at Samsung UK."
+    },
+    {
+      "id": "SM-F956BAKBEUB",
+      "name": "Galaxy Z Fold6 (Online Exclusive)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy Z",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-F956BAKBEUB",
+        "SM-F956BAKCEUB",
+        "SM-F956BAKNEUB",
+        "SM-F956BZWBEUB",
+        "SM-F956BZWCEUB",
+        "SM-F956BZWNEUB"
+      ],
+      "productLaunchDate": "2024-06-10 00:00:00",
+      "numberOfReviews": "1813",
+      "reviewRating": "4.6",
+      "productDisplayName": "Galaxy Z Fold6 (Online Exclusive)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-z-fold6/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-f956bakbeub/gallery/uk-galaxy-z-fold6-f956-512611-sm-f956bakbeub-542850192?$PD_GALLERY_PNG$",
+          "desc": "openback115 Crafted Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-f956-512611-sm-f956bakbeub-thumb-542668088?$PD_GALLERY_THUM_PNG$",
+          "desc": "openback115 Crafted Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-f956-512611-sm-f956bakbeub-thumb-542668088?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-f956bakbeub/gallery/uk-galaxy-z-fold6-f956-512611-sm-f956bakbeub-542850192?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4400
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4400 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "QXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            256
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "256 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            7.6
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "7.6 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2160 x 1856"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In ",
+            "Bundle Discount",
+            "Online Exclusive",
+            "Cashback"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording",
+            "Foldable",
+            "Nightography",
+            "S Pen Supported"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Crafted Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#454646",
+        "#e9e9e7"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 1799.0,
+      "sale_price": 1799.0,
+      "taxonomyIdPath": "01000000#01010000#01010300",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Crafted Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-F956BAKBEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_Z&dt=Galaxy_Z_Fold6_(Online_Exclusive)&dr=3",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-z/galaxy-z-fold6-crafted-black-256gb-online-exclusive-sm-f956bakbeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-z-fold6/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-F956BAKBEUB",
+      "uspDesc": [
+        "The most powerful processor on Samsung Galaxy foldables",
+        "The thinnest, lightest design",
+        "The most efficient way to search on a smartphone",
+        "Only available at Samsung.com"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "msrp_price_currency": "£1,799.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£1,799.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Galaxy Z Fold6, the new foldable phone with a long-lasting battery, PC-like multitasking with AI on a big screen & powerful gaming."
+    },
+    {
+      "id": "SM-A556BLBAEUB",
+      "name": "Galaxy A55 5G",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy A",
+      "discount": 18.0,
+      "groupedProducts": [
+        "SM-A556BLBAEUB",
+        "SM-A556BLBCEUB",
+        "SM-A556BLVAEUB",
+        "SM-A556BLVCEUB",
+        "SM-A556BZKAEUB",
+        "SM-A556BZKCEUB",
+        "SM-A556BZYAEUB",
+        "SM-A556BZYCEUB"
+      ],
+      "productLaunchDate": "2024-03-20 00:00:00",
+      "numberOfReviews": "5069",
+      "reviewRating": "4.6",
+      "productDisplayName": "Galaxy A55 5G",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a556blbaeub/gallery/uk-galaxy-a55-5g-sm-a556-sm-a556blbaeub-540145115?$PD_GALLERY_PNG$",
+          "desc": "front2 Awesome Iceblue"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a556blbaeub/gallery/uk-galaxy-a55-5g-sm-a556-sm-a556blbaeub-thumb-540145133?$PD_GALLERY_THUM_PNG$",
+          "desc": "front2 Awesome Iceblue"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a556blbaeub/gallery/uk-galaxy-a55-5g-sm-a556-sm-a556blbaeub-thumb-540145133?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a556blbaeub/gallery/uk-galaxy-a55-5g-sm-a556-sm-a556blbaeub-540145115?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.6
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.6 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2340"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Awesome Iceblue"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#e7e9a5",
+        "#3e424b",
+        "#d4c7d9",
+        "#cbd9e7"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 439.0,
+      "sale_price": 364.0,
+      "taxonomyIdPath": "01000000#01010000#01010400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Super AMOLED",
+        "5G",
+        "Awesome Iceblue"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-A556BLBAEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_A&dt=Galaxy_A55_5G&dr=4",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-a/galaxy-a55-5g-awesome-iceblue-128gb-sm-a556blbaeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-a/galaxy-a55-5g-awesome-iceblue-128gb-sm-a556blbaeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-A556BLBAEUB",
+      "uspDesc": [
+        "Works with e-SIMs (no SIM card needed)",
+        "Vibrant 6.6” High Resolution Display",
+        "Amazingly detailed video with Super HDR",
+        "Superfast processor for smooth action"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Free case when you add 2 Year Samsung Care+*</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£439.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£364.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy A55 5G today, with 6.6\" FHD+ Display, 50MP Camera, Long-Lasting Battery & Powerful Processor at Samsung UK."
+    },
+    {
+      "id": "SM-A356BZYBEUB",
+      "name": "Galaxy A35 5G",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy A",
+      "discount": 23.0,
+      "groupedProducts": [
+        "SM-A356BLBBEUB",
+        "SM-A356BLBGEUB",
+        "SM-A356BLVBEUB",
+        "SM-A356BLVGEUB",
+        "SM-A356BZKBEUB",
+        "SM-A356BZKGEUB",
+        "SM-A356BZYBEUB",
+        "SM-A356BZYGEUB"
+      ],
+      "productLaunchDate": "2024-03-20 00:00:00",
+      "numberOfReviews": "1701",
+      "reviewRating": "4.4",
+      "productDisplayName": "Galaxy A35 5G",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a356bzybeub/gallery/uk-galaxy-a35-5g-sm-a356-sm-a356bzybeub-540079810?$PD_GALLERY_PNG$",
+          "desc": "front2 Awesome Lemon"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a356bzybeub/gallery/uk-galaxy-a35-5g-sm-a356-sm-a356bzybeub-thumb-540079828?$PD_GALLERY_THUM_PNG$",
+          "desc": "front2 Awesome Lemon"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a356bzybeub/gallery/uk-galaxy-a35-5g-sm-a356-sm-a356bzybeub-thumb-540079828?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a356bzybeub/gallery/uk-galaxy-a35-5g-sm-a356-sm-a356bzybeub-540079810?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.6
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.6 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2340"
+          ]
+        },
+        {
+          "numeric_value": [
+            6
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "6 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Awesome Lemon"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#e7e9a5",
+        "#3e424b",
+        "#d4c7d9",
+        "#cbd9e7"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 339.0,
+      "sale_price": 264.0,
+      "taxonomyIdPath": "01000000#01010000#01010400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Super AMOLED",
+        "5G",
+        "Awesome Lemon"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-A356BZYBEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_A&dt=Galaxy_A35_5G&dr=5",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-a/galaxy-a35-5g-awesome-lemon-128gb-sm-a356bzybeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-a/galaxy-a35-5g-awesome-lemon-128gb-sm-a356bzybeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-A356BZYBEUB",
+      "uspDesc": [
+        "Powerful processor for fast screen response",
+        "Works with e-SIMs (no SIM card needed)",
+        "Bright 6.6” High Definition Display",
+        "Shoot stunning photos with 50MP camera"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Free case when you add 2 Year Samsung Care+*</span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£339.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£264.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy A35 5G today, with 6.6\" FHD+ Display, 50MP Camera, Long-Lasting Battery & Powerful Processor at Samsung UK."
+    },
+    {
+      "id": "SM-A556BZKAEEB",
+      "name": "Galaxy A55 5G Enterprise Edition",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy A",
+      "discount": 16.0,
+      "groupedProducts": [
+        "SM-A556BZKAEEB"
+      ],
+      "productLaunchDate": "2024-03-20 00:00:00",
+      "numberOfReviews": "397",
+      "reviewRating": "4.2",
+      "productDisplayName": "Galaxy A55 5G Enterprise Edition",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a556bzkaeeb/gallery/uk-galaxy-a55-5g-sm-a556-498217-sm-a556bzkaeeb-540162124?$PD_GALLERY_PNG$",
+          "desc": "front2 Awesome Navy"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a556bzkaeeb/gallery/uk-galaxy-a55-5g-sm-a556-498217-sm-a556bzkaeeb-thumb-540162142?$PD_GALLERY_THUM_PNG$",
+          "desc": "front2 Awesome Navy"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a556bzkaeeb/gallery/uk-galaxy-a55-5g-sm-a556-498217-sm-a556bzkaeeb-thumb-540162142?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a556bzkaeeb/gallery/uk-galaxy-a55-5g-sm-a556-498217-sm-a556bzkaeeb-540162124?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.6
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.6 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2340"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Awesome Navy"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#3e424b"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 469.0,
+      "sale_price": 394.0,
+      "taxonomyIdPath": "01000000#01010000#01010400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Super AMOLED",
+        "5G",
+        "Awesome Navy"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-A556BZKAEEB&dc=Mobile&sc=Smartphones&dg=Galaxy_A&dt=Galaxy_A55_5G_Enterprise_Edition&dr=6",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-128gb-enterprise-edition-sm-a556bzkaeeb/",
+      "linkUrlReview": "/uk/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-128gb-enterprise-edition-sm-a556bzkaeeb/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-A556BZKAEEB",
+      "uspDesc": [
+        "Awesome Camera",
+        "Awesome Performance",
+        "Awesome Durability"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£469.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£394.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the ultra fast 6.6\" Samsung Galaxy A55 5G Enterprise Edition with a powerful Octa-core processor & 5,000mAh battery at Samsung Business UK."
+    },
+    {
+      "id": "SM-A356BZKBEEB",
+      "name": "Galaxy A35 5G Enterprise Edition",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy A",
+      "discount": 21.0,
+      "groupedProducts": [
+        "SM-A356BZKBEEB"
+      ],
+      "productLaunchDate": "2024-03-20 00:00:00",
+      "numberOfReviews": "222",
+      "reviewRating": "4.1",
+      "productDisplayName": "Galaxy A35 5G Enterprise Edition",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a356bzkbeeb/gallery/uk-galaxy-a35-5g-sm-a356-498215-sm-a356bzkbeeb-540161882?$PD_GALLERY_PNG$",
+          "desc": "front Awesome Navy"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a356bzkbeeb/gallery/uk-galaxy-a35-5g-sm-a356-498215-sm-a356bzkbeeb-thumb-540161883?$PD_GALLERY_THUM_PNG$",
+          "desc": "awesome-navy Awesome Navy"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a356bzkbeeb/gallery/uk-galaxy-a35-5g-sm-a356-498215-sm-a356bzkbeeb-thumb-540161883?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a356bzkbeeb/gallery/uk-galaxy-a35-5g-sm-a356-498215-sm-a356bzkbeeb-540161882?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.6
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.6 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2340"
+          ]
+        },
+        {
+          "numeric_value": [
+            6
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "6 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Awesome Navy"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#3e424b"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 369.0,
+      "sale_price": 294.0,
+      "taxonomyIdPath": "01000000#01010000#01010400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Super AMOLED",
+        "5G",
+        "Awesome Navy"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-A356BZKBEEB&dc=Mobile&sc=Smartphones&dg=Galaxy_A&dt=Galaxy_A35_5G_Enterprise_Edition&dr=7",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-a/galaxy-a35-5g-awesome-navy-128gb-enterprise-edition-sm-a356bzkbeeb/",
+      "linkUrlReview": "/uk/smartphones/galaxy-a/galaxy-a35-5g-awesome-navy-128gb-enterprise-edition-sm-a356bzkbeeb/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-A356BZKBEEB",
+      "uspDesc": [
+        "Awesome Camera",
+        "Awesome Performance",
+        "Awesome Durability"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£369.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£294.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the ultra fast 6.6\" Samsung Galaxy A35 5G Enterprise Edition with a powerful Octa-core processor & 5,000mAh battery at Samsung Business UK."
+    },
+    {
+      "id": "SM-A155FZKDEUB",
+      "name": "Galaxy A15",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy A",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-A155FZBDEUB",
+        "SM-A155FZKDEUB",
+        "SM-A155FZYDEUB"
+      ],
+      "productLaunchDate": "2024-01-22 00:00:00",
+      "numberOfReviews": "1121",
+      "reviewRating": "4.3",
+      "productDisplayName": "Galaxy A15",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a155fzkdeub/gallery/uk-galaxy-a15-sm-a155-sm-a155fzkdeub-539617101?$PD_GALLERY_PNG$",
+          "desc": "back-l30 Blue Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a155fzkdeub/gallery/uk-galaxy-a15-sm-a155-sm-a155fzkdeub-thumb-539617119?$PD_GALLERY_THUM_PNG$",
+          "desc": "back-l30 Blue Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a155fzkdeub/gallery/uk-galaxy-a15-sm-a155-sm-a155fzkdeub-thumb-539617119?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a155fzkdeub/gallery/uk-galaxy-a15-sm-a155-sm-a155fzkdeub-539617101?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.5
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.5 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2340"
+          ]
+        },
+        {
+          "numeric_value": [
+            4
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "4 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Cashback"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Blue Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#e7e9a5",
+        "#3f4251",
+        "#6f8aad"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 169.0,
+      "sale_price": 169.0,
+      "taxonomyIdPath": "01000000#01010000#01010400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Super AMOLED",
+        "Blue Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-A155FZKDEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_A&dt=Galaxy_A15&dr=8",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-a/galaxy-a15-blue-black-128gb-sm-a155fzkdeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-a/galaxy-a15-blue-black-128gb-sm-a155fzkdeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-A155FZKDEUB",
+      "uspDesc": [
+        "Reliable Performance",
+        "Clearer and smoother viewing experience",
+        "Capture the World in High Resolution",
+        "Powered-up Application Processor"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£169.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£169.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy A15 today, with 6.5\" FHD+ Display, 50MP Camera, Long-Lasting Battery & Octa-Core Processor at Samsung UK."
+    },
+    {
+      "id": "SM-A156BZKDEUB",
+      "name": "Galaxy A15 5G",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy A",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-A156BZBDEUB",
+        "SM-A156BZKDEUB",
+        "SM-A156BZYDEUB"
+      ],
+      "productLaunchDate": "2024-01-22 00:00:00",
+      "numberOfReviews": "910",
+      "reviewRating": "4.2",
+      "productDisplayName": "Galaxy A15 5G",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a156bzkdeub/gallery/uk-galaxy-a15-5g-sm-a156-sm-a156bzkdeub-539602475?$PD_GALLERY_PNG$",
+          "desc": "front2 Blue Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a156bzkdeub/gallery/uk-galaxy-a15-5g-sm-a156-sm-a156bzkdeub-thumb-539602493?$PD_GALLERY_THUM_PNG$",
+          "desc": "front2 Blue Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a156bzkdeub/gallery/uk-galaxy-a15-5g-sm-a156-sm-a156bzkdeub-thumb-539602493?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a156bzkdeub/gallery/uk-galaxy-a15-5g-sm-a156-sm-a156bzkdeub-539602475?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.5
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.5 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2340"
+          ]
+        },
+        {
+          "numeric_value": [
+            4
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "4 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Cashback"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Blue Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#e7e9a5",
+        "#3f4251",
+        "#6f8aad"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 199.0,
+      "sale_price": 199.0,
+      "taxonomyIdPath": "01000000#01010000#01010400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Super AMOLED",
+        "Blue Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-A156BZKDEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_A&dt=Galaxy_A15_5G&dr=9",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-a/galaxy-a15-5g-blue-black-128gb-sm-a156bzkdeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-a/galaxy-a15-5g-blue-black-128gb-sm-a156bzkdeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-A156BZKDEUB",
+      "uspDesc": [
+        "Reliable Performance",
+        "Clearer and smoother viewing experience",
+        "Capture the World in High Resolution",
+        "Powered-up Application Processor"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£199.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£199.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy A15 5G today, with 6.5\" FHD+ Display, 50MP Camera, Long-Lasting Battery & Octa-Core Processor at Samsung UK."
+    },
+    {
+      "id": "SM-S928BZTPEUB",
+      "name": "Galaxy S24 Ultra",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-S928BZKGEUB",
+        "SM-S928BZKHEUB",
+        "SM-S928BZKPEUB",
+        "SM-S928BZTGEUB",
+        "SM-S928BZTHEUB",
+        "SM-S928BZTPEUB",
+        "SM-S928BZVGEUB",
+        "SM-S928BZVHEUB",
+        "SM-S928BZVPEUB",
+        "SM-S928BZYGEUB",
+        "SM-S928BZYHEUB",
+        "SM-S928BZYPEUB"
+      ],
+      "productLaunchDate": "2023-12-15 00:00:00",
+      "numberOfReviews": "17254",
+      "reviewRating": "4.6",
+      "productDisplayName": "Galaxy S24 Ultra",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-s24-ultra/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-491396-sm-s928bztpeub-539464027?$PD_GALLERY_PNG$",
+          "desc": "deviceback Titanium Gray"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-491396-sm-s928bztpeub-thumb-539464063?$PD_GALLERY_THUM_PNG$",
+          "desc": "deviceback Titanium Gray"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-491396-sm-s928bztpeub-thumb-539464063?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-491396-sm-s928bztpeub-539464027?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            200.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "200.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "Quad HD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            1
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "TB"
+          ],
+          "id": "7",
+          "value": [
+            "1 TB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.8
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.8 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "3120 x 1440"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In Available",
+            "Free Watch6",
+            "Cashback"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording",
+            "Built-in S Pen",
+            "S Pen Supported"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Titanium Grey"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#4d4e5f",
+        "#f0e1b9",
+        "#aca49b",
+        "#62605f"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 1549.0,
+      "sale_price": 1549.0,
+      "taxonomyIdPath": "01000000#01010000#01010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Titanium Grey"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-S928BZTPEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_S&dt=Galaxy_S24_Ultra&dr=10",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-s/galaxy-s24-ultra-titanium-gray-1tb-sm-s928bztpeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-s24-ultra/reviews/",
+      "supportLinkUrl": "/uk/support/model/SM-S928BZTPEUB",
+      "uspDesc": [
+        "200MP camera with epic AI-powered 100x Space Zoom",
+        "Supercharge your everyday with advanced AI",
+        "Our brightest ever display, even outdoors"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£1,549.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£1,549.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Samsung Galaxy S24 Ultra, packed with industry-leading camera, performance & world-changing Galaxy AI at Samsung UK."
+    },
+    {
+      "id": "SM-S921BZYDEUB",
+      "name": "Galaxy S24",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-S921BZADEUB",
+        "SM-S921BZAGEUB",
+        "SM-S921BZKDEUB",
+        "SM-S921BZKGEUB",
+        "SM-S921BZVDEUB",
+        "SM-S921BZVGEUB",
+        "SM-S921BZYDEUB",
+        "SM-S921BZYGEUB"
+      ],
+      "productLaunchDate": "2023-12-15 00:00:00",
+      "numberOfReviews": "7501",
+      "reviewRating": "4.5",
+      "productDisplayName": "Galaxy S24",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-s24/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-sm-s921bzydeub-539353863?$PD_GALLERY_PNG$",
+          "desc": "back Amber Yellow"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-sm-s921bzydeub-thumb-539353881?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Amber Yellow"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-sm-s921bzydeub-thumb-539353881?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-sm-s921bzydeub-539353863?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.2
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.2 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2340 x 1080"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In Available",
+            "Cashback",
+            "Free Buds2 Pro"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Amber Yellow"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#52566d",
+        "#f1ead4",
+        "#4a4a4d",
+        "#c5c3c3"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 799.0,
+      "sale_price": 799.0,
+      "taxonomyIdPath": "01000000#01010000#01010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Amber Yellow"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-S921BZYDEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_S&dt=Galaxy_S24&dr=11",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-s/galaxy-s24-amber-yellow-128gb-sm-s921bzydeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-s24/reviews/",
+      "supportLinkUrl": "/uk/support/model/SM-S921BZYDEUB",
+      "uspDesc": [
+        "Mind-blowing photo editing with just one tap",
+        "AI at your service",
+        "Scroll for longer with optimised battery"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£799.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£799.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Samsung Galaxy S24 & S24+, packed with industry-leading camera, performance & world-changing Galaxy AI at Samsung UK."
+    },
+    {
+      "id": "SM-S926BZVDEUB",
+      "name": "Galaxy S24+",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-S926BZADEUB",
+        "SM-S926BZAGEUB",
+        "SM-S926BZKDEUB",
+        "SM-S926BZKGEUB",
+        "SM-S926BZVDEUB",
+        "SM-S926BZVGEUB",
+        "SM-S926BZYDEUB",
+        "SM-S926BZYGEUB"
+      ],
+      "productLaunchDate": "2023-12-15 00:00:00",
+      "numberOfReviews": "4786",
+      "reviewRating": "4.6",
+      "productDisplayName": "Galaxy S24+",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-s24/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24--491390-sm-s926bzvdeub-539463591?$PD_GALLERY_PNG$",
+          "desc": "backl30 Cobalt Violet"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24--491390-sm-s926bzvdeub-thumb-539463608?$PD_GALLERY_THUM_PNG$",
+          "desc": "backl30 Cobalt Violet"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24--491390-sm-s926bzvdeub-thumb-539463608?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24--491390-sm-s926bzvdeub-539463591?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4900
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4900 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "Quad HD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            256
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "256 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.7
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.7 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "3120 x 1440"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In Available",
+            "Cashback",
+            "Free Buds2 Pro"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Cobalt Violet"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#52566d",
+        "#f1ead4",
+        "#4a4a4d",
+        "#c5c3c3"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 999.0,
+      "sale_price": 999.0,
+      "taxonomyIdPath": "01000000#01010000#01010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Cobalt Violet"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-S926BZVDEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_S&dt=Galaxy_S24+&dr=12",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-s/galaxy-s24-plus-cobalt-violet-256gb-sm-s926bzvdeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-s24/reviews/",
+      "supportLinkUrl": "/uk/support/model/SM-S926BZVDEUB",
+      "uspDesc": [
+        "Dial up your phone experience with epic AI",
+        "Silky smooth gameplay with lifelike graphics",
+        "Super bright detailed pics even after dark"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£999.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£999.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Samsung Galaxy S24 & S24+, packed with industry-leading camera, performance & world-changing Galaxy AI at Samsung UK."
+    },
+    {
+      "id": "SM-S928BZOPEUB",
+      "name": "Galaxy S24 Ultra (Online Exclusive)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-S928BLBGEUB",
+        "SM-S928BLBHEUB",
+        "SM-S928BLBPEUB",
+        "SM-S928BLGGEUB",
+        "SM-S928BLGHEUB",
+        "SM-S928BLGPEUB",
+        "SM-S928BZOGEUB",
+        "SM-S928BZOHEUB",
+        "SM-S928BZOPEUB"
+      ],
+      "productLaunchDate": "2023-12-15 00:00:00",
+      "numberOfReviews": "3269",
+      "reviewRating": "4.5",
+      "productDisplayName": "Galaxy S24 Ultra (Online Exclusive)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-s24-ultra/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-online-exclusive-491397-sm-s928bzopeub-539464736?$PD_GALLERY_PNG$",
+          "desc": "deviceback Titanium Orange"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-online-exclusive-491397-sm-s928bzopeub-thumb-539464772?$PD_GALLERY_THUM_PNG$",
+          "desc": "deviceback Titanium Orange"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-online-exclusive-491397-sm-s928bzopeub-thumb-539464772?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-online-exclusive-491397-sm-s928bzopeub-539464736?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            200.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "200.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "Quad HD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            1
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "TB"
+          ],
+          "id": "7",
+          "value": [
+            "1 TB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.8
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.8 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "3120 x 1440"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "AI Smartphones"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording",
+            "Built-in S Pen",
+            "S Pen Supported"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Titanium Orange"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#c48b6c",
+        "#a7b5c8",
+        "#c1d0be"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 1549.0,
+      "sale_price": 1549.0,
+      "taxonomyIdPath": "01000000#01010000#01010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Titanium Orange"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-S928BZOPEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_S&dt=Galaxy_S24_Ultra_(Online_Exclusive)&dr=13",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-s/galaxy-s24-ultra-titanium-orange-1tb-online-exclusive-sm-s928bzopeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-s24-ultra/reviews/",
+      "supportLinkUrl": "/uk/support/model/SM-S928BZOPEUB",
+      "uspDesc": [
+        "200MP camera with epic AI-powered 100x Space Zoom",
+        "Only available at Samsung.com ",
+        "Supercharge your everyday with advanced AI"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£1,549.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£1,549.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Samsung Galaxy S24 Ultra, packed with industry-leading camera, performance & world-changing Galaxy AI at Samsung UK."
+    },
+    {
+      "id": "SM-A256BZKDEUB",
+      "name": "Galaxy A25 5G",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy A",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-A256BZBDEUB",
+        "SM-A256BZKDEUB",
+        "SM-A256BZYDEUB"
+      ],
+      "productLaunchDate": "2023-12-22 00:00:00",
+      "numberOfReviews": "725",
+      "reviewRating": "4.4",
+      "productDisplayName": "Galaxy A25 5G",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a256bzkdeub/gallery/uk-galaxy-a25-5g-sm-a256-sm-a256bzkdeub-539504382?$PD_GALLERY_PNG$",
+          "desc": "front2--l- Blue Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a256bzkdeub/gallery/uk-galaxy-a25-5g-sm-a256-sm-a256bzkdeub-thumb-539504400?$PD_GALLERY_THUM_PNG$",
+          "desc": "front2--l- Blue Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a256bzkdeub/gallery/uk-galaxy-a25-5g-sm-a256-sm-a256bzkdeub-thumb-539504400?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-a256bzkdeub/gallery/uk-galaxy-a25-5g-sm-a256-sm-a256bzkdeub-539504382?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            5000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "5000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Super AMOLED"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.5
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.5 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2340"
+          ]
+        },
+        {
+          "numeric_value": [
+            6
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "6 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Cashback"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "Nightography"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Blue Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#7296ba",
+        "#e7e9a5",
+        "#3f4251"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 249.0,
+      "sale_price": 249.0,
+      "taxonomyIdPath": "01000000#01010000#01010400",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Super AMOLED",
+        "5G",
+        "Blue Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-A256BZKDEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_A&dt=Galaxy_A25_5G&dr=14",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-a/galaxy-a25-5g-blue-black-128gb-sm-a256bzkdeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-a/galaxy-a25-5g-blue-black-128gb-sm-a256bzkdeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-A256BZKDEUB",
+      "uspDesc": [
+        "Vivid and Large Display",
+        "Engineered to capture incredible details",
+        "Powerful Battery and Performance",
+        "Awesome Processor"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£249.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£249.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy A25 today, with 6.5\" Super AMOLED Display, 50MP OIS Camera & 5nm Octa-Core Processor at Samsung UK."
+    },
+    {
+      "id": "SM-S921BZODEUB",
+      "name": "Galaxy S24 (Online Exclusive)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-S921BLBDEUB",
+        "SM-S921BLBGEUB",
+        "SM-S921BLGDEUB",
+        "SM-S921BLGGEUB",
+        "SM-S921BZODEUB",
+        "SM-S921BZOGEUB"
+      ],
+      "productLaunchDate": "2023-12-15 00:00:00",
+      "numberOfReviews": "3047",
+      "reviewRating": "4.2",
+      "productDisplayName": "Galaxy S24 (Online Exclusive)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-s24/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-online-exclusive-491388-sm-s921bzodeub-539462974?$PD_GALLERY_PNG$",
+          "desc": "backr30 Sandstone Orange"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-online-exclusive-491388-sm-s921bzodeub-thumb-539462992?$PD_GALLERY_THUM_PNG$",
+          "desc": "backr30 Sandstone Orange"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-online-exclusive-491388-sm-s921bzodeub-thumb-539462992?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-online-exclusive-491388-sm-s921bzodeub-539462974?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.2
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.2 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2340 x 1080"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In Available",
+            "Cashback",
+            "Free Buds2 Pro"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Sandstone Orange"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#c48b6c",
+        "#a7b5c8",
+        "#c1d0be"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 799.0,
+      "sale_price": 799.0,
+      "taxonomyIdPath": "01000000#01010000#01010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Sandstone Orange"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-S921BZODEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_S&dt=Galaxy_S24_(Online_Exclusive)&dr=15",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-s/galaxy-s24-sandstone-orange-128gb-online-exclusive-sm-s921bzodeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-s24/reviews/",
+      "supportLinkUrl": "/uk/support/model/SM-S921BZODEUB",
+      "uspDesc": [
+        "Mind-blowing photo editing with just one tap",
+        "AI at your service",
+        "Only available at Samsung.com"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£799.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£799.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Samsung Galaxy S24 & S24+, packed with industry-leading camera, performance & world-changing Galaxy AI at Samsung UK."
+    },
+    {
+      "id": "SM-S926BLGDEUB",
+      "name": "Galaxy S24+ (Online Exclusive)",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-S926BLBDEUB",
+        "SM-S926BLBGEUB",
+        "SM-S926BLGDEUB",
+        "SM-S926BLGGEUB",
+        "SM-S926BZODEUB",
+        "SM-S926BZOGEUB"
+      ],
+      "productLaunchDate": "2023-12-15 00:00:00",
+      "numberOfReviews": "1164",
+      "reviewRating": "4.5",
+      "productDisplayName": "Galaxy S24+ (Online Exclusive)",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-s24/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24--online-exclusive-sm-s926blgdeub-539463122?$PD_GALLERY_PNG$",
+          "desc": "back Jade Green"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24--online-exclusive-sm-s926blgdeub-thumb-539463140?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Jade Green"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24--online-exclusive-sm-s926blgdeub-thumb-539463140?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24--online-exclusive-sm-s926blgdeub-539463122?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4900
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4900 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "Quad HD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            256
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "256 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.7
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.7 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "3120 x 1440"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In Available",
+            "Cashback",
+            "Free Buds2 Pro"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Jade Green"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#c48b6c",
+        "#a7b5c8",
+        "#c1d0be"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 999.0,
+      "sale_price": 999.0,
+      "taxonomyIdPath": "01000000#01010000#01010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Jade Green"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-S926BLGDEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_S&dt=Galaxy_S24+_(Online_Exclusive)&dr=16",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-s/galaxy-s24-plus-jade-green-256gb-online-exclusive-sm-s926blgdeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-s24/reviews/",
+      "supportLinkUrl": "/uk/support/model/SM-S926BLGDEUB",
+      "uspDesc": [
+        "Dial up your phone experience with epic AI",
+        "Only available at Samsung.com ",
+        "Super bright detailed pics even after dark"
+      ],
+      "promotionText": [
+        "<p><span style=\"color:#3366ff\">Claim a free Chromebook Go<sup>1</sup></span></p>"
+      ],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£999.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£999.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the new Samsung Galaxy S24 & S24+, packed with industry-leading camera, performance & world-changing Galaxy AI at Samsung UK."
+    },
+    {
+      "id": "SM-S711BLGDEUB",
+      "name": "Galaxy S23 FE",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-S711BLGDEUB",
+        "SM-S711BLGGEUB",
+        "SM-S711BZADEUB",
+        "SM-S711BZAGEUB",
+        "SM-S711BZPDEUB",
+        "SM-S711BZPGEUB",
+        "SM-S711BZWDEUB",
+        "SM-S711BZWGEUB"
+      ],
+      "productLaunchDate": "2023-12-08 00:00:00",
+      "numberOfReviews": "2725",
+      "reviewRating": "4.3",
+      "productDisplayName": "Galaxy S23 FE",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/smartphones/galaxy-s23-fe/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-s711blgdeub/gallery/uk-galaxy-s23-fe-s711-sm-s711blgdeub-538686382?$PD_GALLERY_PNG$",
+          "desc": "front2 Mint"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-s711blgdeub/gallery/uk-galaxy-s23-fe-s711-sm-s711blgdeub-thumb-538686400?$PD_GALLERY_THUM_PNG$",
+          "desc": "front2 Mint"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-s711blgdeub/gallery/uk-galaxy-s23-fe-s711-sm-s711blgdeub-thumb-538686400?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-s711blgdeub/gallery/uk-galaxy-s23-fe-s711-sm-s711blgdeub-538686382?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4500
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4500 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.4
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.4 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2340"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Product Type",
+          "id": "1",
+          "value": [
+            "AI Smartphones"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Mint"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#514b79",
+        "#53565a",
+        "#f0eae0",
+        "#cad9d3"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 599.0,
+      "sale_price": 599.0,
+      "taxonomyIdPath": "01000000#01010000#01010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Mint"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-S711BLGDEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_S&dt=Galaxy_S23_FE&dr=17",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-s/galaxy-s23-fe-mint-128gb-sm-s711blgdeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-s/galaxy-s23-fe-mint-128gb-sm-s711blgdeub/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-S711BLGDEUB",
+      "uspDesc": [
+        "Captivating Clarity",
+        "Effortless performance",
+        "Super Sharp Photos",
+        "Power to share"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£599.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£599.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy S23 FE with new AI features. Capture epic moments day & night, turn heads with the exclusive online colours & enjoy long-lasting battery."
+    },
+    {
+      "id": "SM-S921BZKDEEB",
+      "name": "Galaxy S24 Enterprise Edition",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy S",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-S921BZKDEEB"
+      ],
+      "productLaunchDate": "2023-12-15 00:00:00",
+      "numberOfReviews": "867",
+      "reviewRating": "4.0",
+      "productDisplayName": "Galaxy S24 Enterprise Edition",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "consumerUrl": "/uk/business/smartphones/galaxy-s/galaxy-s24-onyx-black-128gb-enterprise-edition-sm-s921bzkdeeb/buy/",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-enterprise-edition-sm-s921bzkdeeb-539464860?$PD_GALLERY_PNG$",
+          "desc": "back Onyx Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-enterprise-edition-sm-s921bzkdeeb-thumb-539464878?$PD_GALLERY_THUM_PNG$",
+          "desc": "back Onyx Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-enterprise-edition-sm-s921bzkdeeb-thumb-539464878?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-enterprise-edition-sm-s921bzkdeeb-539464860?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4000
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4000 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.2
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.2 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2340 x 1080"
+          ]
+        },
+        {
+          "numeric_value": [
+            8
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "8 GB"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Onyx Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#4a4a4d"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 822.6,
+      "sale_price": 822.6,
+      "taxonomyIdPath": "01000000#01010000#01010100",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Onyx Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-S921BZKDEEB&dc=Mobile&sc=Smartphones&dg=Galaxy_S&dt=Galaxy_S24_Enterprise_Edition&dr=18",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-s/galaxy-s24-onyx-black-128gb-enterprise-edition-sm-s921bzkdeeb/",
+      "linkUrlReview": "/uk/business/smartphones/galaxy-s/galaxy-s24-onyx-black-128gb-enterprise-edition-sm-s921bzkdeeb/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-S921BZKDEEB",
+      "uspDesc": [
+        "Mind-blowing photo editing with just one tap",
+        "AI at your service",
+        "Scroll for longer with optimised battery"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£822.60",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£822.60",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Samsung Galaxy S24 & S24+ Enterprise Edition for your business. View full specs, battery, camera & features at Samsung Business UK."
+    },
+    {
+      "id": "SM-G556BZKDEEB",
+      "name": "Galaxy XCover7",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Others",
+      "discount": 0.0,
+      "groupedProducts": [
+        "SM-G556BZKDEEB"
+      ],
+      "productLaunchDate": "2024-01-10 00:00:00",
+      "numberOfReviews": "22",
+      "reviewRating": "3.4",
+      "productDisplayName": "Galaxy XCover7",
+      "ecomFlag": "N",
+      "stockFlag": "Y",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-g556bzkdeeb/gallery/uk-galaxy-xcover7-sm-g556bzkdeeb-539582693?$PD_GALLERY_PNG$",
+          "desc": "front-l30 Black"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-g556bzkdeeb/gallery/uk-galaxy-xcover7-sm-g556bzkdeeb-thumb-539582715?$PD_GALLERY_THUM_PNG$",
+          "desc": "front-l30 Black"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-g556bzkdeeb/gallery/uk-galaxy-xcover7-sm-g556bzkdeeb-thumb-539582715?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm-g556bzkdeeb/gallery/uk-galaxy-xcover7-sm-g556bzkdeeb-539582693?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4050
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4050 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "FHD"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "PLS LCD"
+          ]
+        },
+        {
+          "numeric_value": [
+            128
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "128 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "No"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD"
+          ]
+        },
+        {
+          "numeric_value": [
+            6.6
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "6.6 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "1080 x 2408"
+          ]
+        },
+        {
+          "numeric_value": [
+            6
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "6 GB"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Availability",
+          "id": "-1",
+          "value": [
+            "In Stock"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#000000"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "msrp_price": 349.0,
+      "sale_price": 349.0,
+      "taxonomyIdPath": "01000000#01010000#01010600",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "PLS LCD",
+        "Black"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-G556BZKDEEB&dc=Mobile&sc=Smartphones&dg=Others&dt=Galaxy_XCover7&dr=19",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/others/galaxy-xcover7-black-128gb-sm-g556bzkdeeb/",
+      "linkUrlReview": "/uk/smartphones/others/galaxy-xcover7-black-128gb-sm-g556bzkdeeb/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-G556BZKDEEB",
+      "uspDesc": [
+        "IP68 & MIL-STD-810H",
+        "6GB RAM / 128GB Storage",
+        "6.6\" display with Gorilla Glass Victus+",
+        "Replaceable Battery",
+        "5G Connectivity"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "shopYN": "Y",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": null
+      },
+      "msrp_price_currency": "£349.00",
+      "msrp_price_currency_code": "GBP",
+      "sale_price_currency": "£349.00",
+      "sale_price_currency_code": "GBP",
+      "stockStatus": "inStock",
+      "productDescription": "Meet the Galaxy XCover7 with an improved 6.6ʺ screen & 50MP camera, X Cover key, replaceable battery & IP68 rating at Samsung UK."
+    },
+    {
+      "id": "SM-F956BZSBEUB",
+      "name": "Galaxy Z Fold6",
+      "type": "Product",
+      "category": "Mobile",
+      "sub_category": "Smartphones",
+      "sub_genre": "Galaxy Z",
+      "groupedProducts": [
+        "SM-F956BDBBEUB",
+        "SM-F956BDBCEUB",
+        "SM-F956BDBNEUB",
+        "SM-F956BLIBEUB",
+        "SM-F956BLICEUB",
+        "SM-F956BLINEUB",
+        "SM-F956BZSBEUB",
+        "SM-F956BZSCEUB",
+        "SM-F956BZSNEUB"
+      ],
+      "productLaunchDate": "2024-06-10 00:00:00",
+      "numberOfReviews": "3849",
+      "reviewRating": "4.7",
+      "productDisplayName": "Galaxy Z Fold6",
+      "ecomFlag": "N",
+      "images": {
+        "largeImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-f956-sm-f956bzsbeub-542660710?$PD_GALLERY_PNG$",
+          "desc": "front Silver Shadow"
+        },
+        "smallImage": {
+          "type": "image",
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-f956-sm-f956bzsbeub-thumb-542660719?$PD_GALLERY_THUM_PNG$",
+          "desc": "openfront Silver Shadow"
+        },
+        "smImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-f956-sm-f956bzsbeub-thumb-542660719?$PD_GALLERY_THUM_PNG$",
+        "laImage": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-z-fold6-f956-sm-f956bzsbeub-542660710?$PD_GALLERY_PNG$"
+      },
+      "filters": [
+        {
+          "numeric_value": [
+            4400
+          ],
+          "name_eng": "Battery Capacity",
+          "name": "Battery Capacity",
+          "numeric_value_unit": [
+            "mAh"
+          ],
+          "id": "0",
+          "value": [
+            "4400 mAh"
+          ]
+        },
+        {
+          "numeric_value": [
+            50.0
+          ],
+          "name_eng": "Primary Camera Resolution",
+          "name": "Camera",
+          "numeric_value_unit": [
+            "MP"
+          ],
+          "id": "1",
+          "value": [
+            "50.0 MP"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Class",
+          "name": "Display Resolution",
+          "id": "4",
+          "value": [
+            "QXGA"
+          ]
+        },
+        {
+          "name_eng": "Display Type",
+          "name": "Display Type",
+          "id": "5",
+          "value": [
+            "Dynamic AMOLED 2X"
+          ]
+        },
+        {
+          "numeric_value": [
+            256
+          ],
+          "name_eng": "Storage",
+          "name": "Device Storage",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "7",
+          "value": [
+            "256 GB"
+          ]
+        },
+        {
+          "name_eng": "No Of Sim",
+          "name": "No of SIM",
+          "id": "8",
+          "value": [
+            "Dual-SIM"
+          ]
+        },
+        {
+          "name_eng": "Dex Support",
+          "name": "Samsung DeX Support",
+          "id": "9",
+          "value": [
+            "Yes"
+          ]
+        },
+        {
+          "name_eng": "Network Infra",
+          "name": "Network Infra",
+          "id": "10",
+          "value": [
+            "2G GSM",
+            "3G WCDMA",
+            "4G LTE FDD",
+            "4G LTE TDD",
+            "5G Sub6 FDD",
+            "5G Sub6 TDD",
+            "5G Sub6 SDL"
+          ]
+        },
+        {
+          "numeric_value": [
+            7.6
+          ],
+          "name_eng": "Screen Size",
+          "name": "Screen Size",
+          "numeric_value_unit": [
+            "inch"
+          ],
+          "id": "2",
+          "value": [
+            "7.6 inch"
+          ]
+        },
+        {
+          "name_eng": "Display Resolution Pixels",
+          "name": "Display Resolution Pixels",
+          "id": "3",
+          "value": [
+            "2160 x 1856"
+          ]
+        },
+        {
+          "numeric_value": [
+            12
+          ],
+          "name_eng": "Ram",
+          "name": "Ram",
+          "numeric_value_unit": [
+            "GB"
+          ],
+          "id": "6",
+          "value": [
+            "12 GB"
+          ]
+        },
+        {
+          "name": "Offers",
+          "id": "1",
+          "value": [
+            "Trade In ",
+            "Bundle Discount",
+            "Cashback"
+          ]
+        },
+        {
+          "name": "Connectivity",
+          "id": "3",
+          "value": [
+            "5G"
+          ]
+        },
+        {
+          "name": "Features",
+          "id": "4",
+          "value": [
+            "4K Video Recording",
+            "Wireless Charging",
+            "8K Video Recording",
+            "Foldable",
+            "Nightography",
+            "S Pen Supported"
+          ]
+        },
+        {
+          "name": "Colour",
+          "value": [
+            "Silver Shadow"
+          ]
+        }
+      ],
+      "colorCodes": [
+        "#f0dbe1",
+        "#485167",
+        "#7f7f7e"
+      ],
+      "promotions": {},
+      "promotionsCount": 0,
+      "promotionsCountV2": 0,
+      "taxonomyIdPath": "01000000#01010000#01010300",
+      "modificationDate": "1726720246450",
+      "modificationTag": "Inserted",
+      "isKeyProduct": true,
+      "attribute_values": [
+        "Dynamic AMOLED 2X",
+        "Samsung DeX Support",
+        "5G",
+        "Silver Shadow"
+      ],
+      "feedbackParam": "st=uk&qc=true&ct=uk&fl=[]&qt=mobiles&cn=scom&cco=B2C&ui=d737838e-3c7f-3369-a602-beb8e95e6bee&si=9ed58cef-0cff-383d-b87d-d42bc07f824c-1726737420051&ti=2ca8fee3-2374-330f-949f-f9b20aaf0677&qi=88a011c8-faaf-3519-92bc-e593f6381f28&qe=relevance,desc,20&ap=android&ft=KW&fr=true&tr=54&rs=Samsung_Galaxy_Z_Fold6,Samsung_Flipsuit_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6_Online_Exclusive,Samsung_Galaxy_Z_Fold6_Online_Exclusive,Samsung_Clear_Case_for_Z_Flip6,Samsung_Galaxy_Z_Flip6,Samsung_Faux_Leather_Case_/_Kindsuit_for_Z_Flip6,Samsung_Clear_Case_with_Ring_for_Z_Flip6,Samsung_Keith_Haring_Flipsuit_Card,Samsung_Keith_Haring_Flipsuit_Case_for_Z_Flip6&tc=PRODUCT&di=SM-F956BZSBEUB&dc=Mobile&sc=Smartphones&dg=Galaxy_Z&dt=Galaxy_Z_Fold6&dr=20",
+      "contentSource": "Products",
+      "sourceType": "B2CProduct",
+      "pdpURL": "/uk/smartphones/galaxy-z/galaxy-z-fold6-silver-shadow-256gb-sm-f956bzsbeub/",
+      "linkUrlReview": "/uk/smartphones/galaxy-z-fold6/#reviews",
+      "supportLinkUrl": "/uk/support/model/SM-F956BZSBEUB",
+      "uspDesc": [
+        "The most powerful processor on Samsung Galaxy foldables",
+        "The thinnest, lightest design",
+        "The most efficient way to search on a smartphone"
+      ],
+      "promotionText": [],
+      "whereToBuyBnFlag": "N",
+      "mdlRegTypeCd": "M",
+      "simplePdYn": "Y",
+      "energyLabel": {
+        "CssClassId": "null",
+        "EnergyLabelFileUrl": "null",
+        "Grade": "null",
+        "FicheFileUrl": "null"
+      },
+      "badgeDetails": {
+        "iconTitle": null,
+        "iconTypeCd": "N"
+      },
+      "productDescription": "Meet the Galaxy Z Fold6, the new foldable phone with a long-lasting battery, PC-like multitasking with AI on a big screen & powerful gaming."
+    }
+  ],
+  "filters": [
+    {
+      "displayName": "Price Range",
+      "values": [
+        {
+          "count": 49,
+          "value": "£1000 or more"
+        },
+        {
+          "count": 24,
+          "value": "£700 - £1000"
+        },
+        {
+          "count": 7,
+          "value": "£500 - £700"
+        },
+        {
+          "count": 25,
+          "value": "£250 - £500"
+        },
+        {
+          "count": 9,
+          "value": "£100 - £250"
+        },
+        {
+          "count": 3,
+          "value": "£50 - £100"
+        }
+      ],
+      "name": "groupedProductsList.sale_price",
+      "type": "range",
+      "priority": 1
+    },
+    {
+      "displayName": "Discount Range",
+      "values": [
+        {
+          "count": 21,
+          "value": "10% - 25%"
+        },
+        {
+          "count": 96,
+          "value": "5% or less"
+        }
+      ],
+      "name": "groupedProductsList.discount",
+      "type": "range",
+      "priority": 2
+    },
+    {
+      "displayName": "Colour",
+      "values": [
+        {
+          "count": 4,
+          "value": "Amber Yellow"
+        },
+        {
+          "count": 4,
+          "value": "Awesome Black"
+        },
+        {
+          "count": 2,
+          "value": "Awesome Graphite"
+        },
+        {
+          "count": 4,
+          "value": "Awesome Iceblue"
+        },
+        {
+          "count": 4,
+          "value": "Awesome Lemon"
+        },
+        {
+          "count": 4,
+          "value": "Awesome Lilac"
+        },
+        {
+          "count": 4,
+          "value": "Awesome Lime"
+        },
+        {
+          "count": 6,
+          "value": "Awesome Navy"
+        },
+        {
+          "count": 2,
+          "value": "Awesome Silver"
+        },
+        {
+          "count": 4,
+          "value": "Awesome Violet"
+        },
+        {
+          "count": 3,
+          "value": "Awesome White"
+        },
+        {
+          "count": 21,
+          "value": "Black"
+        },
+        {
+          "count": 24,
+          "value": "Black(Frame)"
+        },
+        {
+          "count": 28,
+          "value": "Blue"
+        },
+        {
+          "count": 3,
+          "value": "Blue Black"
+        },
+        {
+          "count": 4,
+          "value": "Cobalt Violet"
+        },
+        {
+          "count": 5,
+          "value": "Crafted Black"
+        },
+        {
+          "count": 11,
+          "value": "Cream"
+        },
+        {
+          "count": 13,
+          "value": "Graphite"
+        },
+        {
+          "count": 8,
+          "value": "Green"
+        },
+        {
+          "count": 6,
+          "value": "Grey"
+        },
+        {
+          "count": 3,
+          "value": "Icy Blue"
+        },
+        {
+          "count": 2,
+          "value": "Indigo"
+        },
+        {
+          "count": 4,
+          "value": "Jade Green"
+        },
+        {
+          "count": 6,
+          "value": "Lavender"
+        },
+        {
+          "count": 2,
+          "value": "Light Green"
+        },
+        {
+          "count": 7,
+          "value": "Lime"
+        },
+        {
+          "count": 4,
+          "value": "Marble Grey"
+        },
+        {
+          "count": 6,
+          "value": "Mint"
+        },
+        {
+          "count": 1,
+          "value": "Mystic Grey"
+        },
+        {
+          "count": 3,
+          "value": "Navy"
+        },
+        {
+          "count": 5,
+          "value": "Onyx Black"
+        },
+        {
+          "count": 2,
+          "value": "Peach"
+        },
+        {
+          "count": 13,
+          "value": "Phantom Black"
+        },
+        {
+          "count": 1,
+          "value": "Phantom Grey"
+        },
+        {
+          "count": 21,
+          "value": "Pink"
+        },
+        {
+          "count": 2,
+          "value": "Purple"
+        },
+        {
+          "count": 3,
+          "value": "Red"
+        },
+        {
+          "count": 4,
+          "value": "Sandstone Orange"
+        },
+        {
+          "count": 4,
+          "value": "Sapphire Blue"
+        },
+        {
+          "count": 2,
+          "value": "Silver"
+        },
+        {
+          "count": 5,
+          "value": "Silver Shadow"
+        },
+        {
+          "count": 25,
+          "value": "Silver(Frame)"
+        },
+        {
+          "count": 3,
+          "value": "Sky Blue"
+        },
+        {
+          "count": 2,
+          "value": "Tangerine"
+        },
+        {
+          "count": 3,
+          "value": "Titanium Black"
+        },
+        {
+          "count": 3,
+          "value": "Titanium Blue"
+        },
+        {
+          "count": 3,
+          "value": "Titanium Green"
+        },
+        {
+          "count": 3,
+          "value": "Titanium Grey"
+        },
+        {
+          "count": 3,
+          "value": "Titanium Orange"
+        },
+        {
+          "count": 3,
+          "value": "Titanium Violet"
+        },
+        {
+          "count": 3,
+          "value": "Titanium Yellow"
+        },
+        {
+          "count": 23,
+          "value": "White"
+        },
+        {
+          "count": 25,
+          "value": "Yellow"
+        }
+      ],
+      "name": "Colour",
+      "type": "attribute",
+      "priority": 3
+    },
+    {
+      "displayName": "Display Type",
+      "values": [
+        {
+          "count": 216,
+          "value": "Dynamic AMOLED 2X"
+        },
+        {
+          "count": 11,
+          "value": "PLS LCD"
+        },
+        {
+          "count": 46,
+          "value": "Super AMOLED"
+        },
+        {
+          "count": 1,
+          "value": "Super AMOLED Plus"
+        }
+      ],
+      "name": "Display Type",
+      "type": "attribute",
+      "priority": 10
+    },
+    {
+      "displayName": "Screen Size",
+      "values": [
+        {
+          "count": 30,
+          "value": "7.6 inch"
+        },
+        {
+          "count": 37,
+          "value": "6.8 inch"
+        },
+        {
+          "count": 107,
+          "value": "6.7 inch"
+        },
+        {
+          "count": 38,
+          "value": "6.6 inch"
+        },
+        {
+          "count": 10,
+          "value": "6.5 inch"
+        },
+        {
+          "count": 22,
+          "value": "6.4 inch"
+        },
+        {
+          "count": 16,
+          "value": "6.2 inch"
+        },
+        {
+          "count": 14,
+          "value": "6.1 inch"
+        }
+      ],
+      "name": "Screen Size",
+      "type": "attribute",
+      "priority": 25
+    },
+    {
+      "displayName": "Display Resolution",
+      "values": [
+        {
+          "count": 191,
+          "value": "FHD"
+        },
+        {
+          "count": 1,
+          "value": "HD"
+        },
+        {
+          "count": 30,
+          "value": "QXGA"
+        },
+        {
+          "count": 52,
+          "value": "Quad HD"
+        }
+      ],
+      "name": "Display Resolution",
+      "type": "attribute",
+      "priority": 26
+    },
+    {
+      "displayName": "Display Resolution Pixels",
+      "values": [
+        {
+          "count": 2,
+          "value": "3200 x 1440"
+        },
+        {
+          "count": 35,
+          "value": "3120 x 1440"
+        },
+        {
+          "count": 15,
+          "value": "3088 x 1440"
+        },
+        {
+          "count": 87,
+          "value": "2640 x 1080"
+        },
+        {
+          "count": 3,
+          "value": "2400 x 1080"
+        },
+        {
+          "count": 33,
+          "value": "2340 x 1080"
+        },
+        {
+          "count": 15,
+          "value": "2176 x 1812"
+        },
+        {
+          "count": 15,
+          "value": "2160 x 1856"
+        },
+        {
+          "count": 57,
+          "value": "1080 x 2340"
+        },
+        {
+          "count": 4,
+          "value": "1080 x 2400"
+        },
+        {
+          "count": 7,
+          "value": "1080 x 2408"
+        },
+        {
+          "count": 1,
+          "value": "720 x 1600"
+        }
+      ],
+      "name": "Display Resolution Pixels",
+      "type": "attribute",
+      "priority": 28
+    },
+    {
+      "displayName": "Device Storage",
+      "values": [
+        {
+          "count": 21,
+          "value": "1 TB"
+        },
+        {
+          "count": 45,
+          "value": "512 GB"
+        },
+        {
+          "count": 137,
+          "value": "256 GB"
+        },
+        {
+          "count": 61,
+          "value": "128 GB"
+        },
+        {
+          "count": 9,
+          "value": "64 GB"
+        },
+        {
+          "count": 1,
+          "value": "32 GB"
+        }
+      ],
+      "name": "Device Storage",
+      "type": "attribute",
+      "priority": 36
+    },
+    {
+      "displayName": "Camera",
+      "values": [
+        {
+          "count": 35,
+          "value": "200.0 MP"
+        },
+        {
+          "count": 1,
+          "value": "108.0 MP"
+        },
+        {
+          "count": 150,
+          "value": "50.0 MP"
+        },
+        {
+          "count": 10,
+          "value": "48.0 MP"
+        },
+        {
+          "count": 77,
+          "value": "12.0 MP"
+        }
+      ],
+      "name": "Camera",
+      "type": "attribute",
+      "priority": 42
+    },
+    {
+      "displayName": "Ram",
+      "values": [
+        {
+          "count": 89,
+          "value": "12 GB"
+        },
+        {
+          "count": 154,
+          "value": "8 GB"
+        },
+        {
+          "count": 15,
+          "value": "6 GB"
+        },
+        {
+          "count": 15,
+          "value": "4 GB"
+        },
+        {
+          "count": 1,
+          "value": "3 GB"
+        }
+      ],
+      "name": "Ram",
+      "type": "attribute",
+      "priority": 45
+    },
+    {
+      "displayName": "Battery Capacity",
+      "values": [
+        {
+          "count": 93,
+          "value": "5000 mAh"
+        },
+        {
+          "count": 14,
+          "value": "4900 mAh"
+        },
+        {
+          "count": 1,
+          "value": "4800 mAh"
+        },
+        {
+          "count": 4,
+          "value": "4700 mAh"
+        },
+        {
+          "count": 13,
+          "value": "4500 mAh"
+        },
+        {
+          "count": 30,
+          "value": "4400 mAh"
+        },
+        {
+          "count": 1,
+          "value": "4300 mAh"
+        },
+        {
+          "count": 1,
+          "value": "4050 mAh"
+        },
+        {
+          "count": 30,
+          "value": "4000 mAh"
+        },
+        {
+          "count": 13,
+          "value": "3900 mAh"
+        },
+        {
+          "count": 17,
+          "value": "3700 mAh"
+        },
+        {
+          "count": 57,
+          "value": "3300 mAh"
+        }
+      ],
+      "name": "Battery Capacity",
+      "type": "attribute",
+      "priority": 50
+    },
+    {
+      "displayName": "Connectivity",
+      "values": [
+        {
+          "count": 208,
+          "value": "5G"
+        },
+        {
+          "count": 6,
+          "value": "4G"
+        }
+      ],
+      "name": "Connectivity",
+      "type": "attribute",
+      "priority": 52
+    },
+    {
+      "displayName": "Features",
+      "values": [
+        {
+          "count": 115,
+          "value": "8K Video Recording"
+        },
+        {
+          "count": 157,
+          "value": "4K Video Recording"
+        },
+        {
+          "count": 36,
+          "value": "Built-in S Pen"
+        },
+        {
+          "count": 4,
+          "value": "Certified Re-Newed"
+        },
+        {
+          "count": 68,
+          "value": "Foldable"
+        },
+        {
+          "count": 1,
+          "value": "Long lasting battery (Over 5000mAh)"
+        },
+        {
+          "count": 67,
+          "value": "Nightography"
+        },
+        {
+          "count": 66,
+          "value": "S Pen Supported"
+        },
+        {
+          "count": 158,
+          "value": "Wireless Charging"
+        }
+      ],
+      "name": "Features",
+      "type": "attribute",
+      "priority": 62
+    },
+    {
+      "displayName": "Samsung DeX Support",
+      "values": [
+        {
+          "count": 144,
+          "value": "No"
+        },
+        {
+          "count": 130,
+          "value": "Yes"
+        }
+      ],
+      "name": "Samsung DeX Support",
+      "type": "attribute",
+      "priority": 85
+    },
+    {
+      "displayName": "Offers",
+      "values": [
+        {
+          "count": 29,
+          "value": "Bundle Discount"
+        },
+        {
+          "count": 97,
+          "value": "Cashback"
+        },
+        {
+          "count": 3,
+          "value": "Free Buds2"
+        },
+        {
+          "count": 40,
+          "value": "Free Buds2 Pro"
+        },
+        {
+          "count": 12,
+          "value": "Free Watch6"
+        },
+        {
+          "count": 12,
+          "value": "Online Exclusive"
+        },
+        {
+          "count": 29,
+          "value": "Trade In "
+        },
+        {
+          "count": 125,
+          "value": "Trade In Available"
+        }
+      ],
+      "name": "Offers",
+      "type": "attribute",
+      "priority": 97
+    },
+    {
+      "displayName": "Availability",
+      "values": [
+        {
+          "count": 108,
+          "value": "In Stock"
+        },
+        {
+          "count": 9,
+          "value": "Out of Stock"
+        }
+      ],
+      "name": "Availability",
+      "type": "attribute",
+      "priority": 98
+    },
+    {
+      "displayName": "Network Infra",
+      "values": [
+        {
+          "count": 264,
+          "value": "5G Sub6 FDD"
+        },
+        {
+          "count": 91,
+          "value": "5G Sub6 SDL"
+        },
+        {
+          "count": 264,
+          "value": "5G Sub6 TDD"
+        },
+        {
+          "count": 274,
+          "value": "4G LTE FDD"
+        },
+        {
+          "count": 274,
+          "value": "4G LTE TDD"
+        },
+        {
+          "count": 274,
+          "value": "3G WCDMA"
+        },
+        {
+          "count": 274,
+          "value": "2G GSM"
+        }
+      ],
+      "name": "Network Infra",
+      "type": "attribute",
+      "priority": 99
+    }
+  ],
+  "subjectiveQuery": false,
+  "resultType": "Product",
+  "relatedKeywords": [
+    "Samsung Galaxy Z Fold6",
+    "Samsung Flipsuit Case for Z Flip6",
+    "Samsung Galaxy Z Flip6 Online Exclusive",
+    "Samsung Galaxy Z Fold6 Online Exclusive",
+    "Samsung Clear Case for Z Flip6",
+    "Samsung Galaxy Z Flip6",
+    "Samsung Faux Leather Case / Kindsuit for Z Flip6",
+    "Samsung Clear Case with Ring for Z Flip6",
+    "Samsung Keith Haring Flipsuit Card",
+    "Samsung Keith Haring Flipsuit Case for Z Flip6"
+  ],
+  "tabInfoList": [
+    {
+      "tabType": "ALL",
+      "tabParam": "all",
+      "count": 1889
+    },
+    {
+      "tabType": "PRD",
+      "tabParam": "product",
+      "count": 54
+    },
+    {
+      "tabType": "ACC",
+      "tabParam": "accessory",
+      "count": 343
+    },
+    {
+      "tabType": "SPP",
+      "tabParam": "support",
+      "count": 1037
+    }
+  ]
+}
