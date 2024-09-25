@@ -29,9 +29,13 @@ class MobileDevice:
                f"  Battery Capacity: {self.battery_capacity} mAh\n"
 
 def fetch_phone_data(phone_name):
-    """Fetches mobile phone specifications from Smartprix."""
-    url = f"https://www.smartprix.com/mobiles/{phone_name.replace(' ', '_')}-cpd1rhc5ozwd_pd1i7vu80cl.php"
-    response = requests.get(url)
+    """Fetches mobile phone specifications from GSMArena."""
+    url = f"https://www.gsmarena.com/{phone_name.replace(' ', '_').lower()}-10100.php"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+    }
+    
+    response = requests.get(url, headers=headers)
     
     if response.status_code != 200:
         print(f"Failed to retrieve data for {phone_name}")
@@ -40,14 +44,14 @@ def fetch_phone_data(phone_name):
     soup = BeautifulSoup(response.content, 'html.parser')
     
     # Extract specifications from the page
-    specs_table = soup.find("table", {"class": "table"})
+    specs_table = soup.find("table", {"class": "specs-table"})
     specs = {}
     
     if specs_table:
         rows = specs_table.find_all("tr")
         for row in rows:
-            header = row.find("th")
-            value = row.find("td")
+            header = row.find("td", {"class": "ttl"})
+            value = row.find("td", {"class": "nfo"})
             if header and value:
                 specs[header.get_text(strip=True)] = value.get_text(strip=True)
 
@@ -57,11 +61,11 @@ def create_device_from_specs(name, specs):
     """Creates a MobileDevice instance from fetched specifications."""
     return MobileDevice(
         name=name,
-        release_date=specs.get("Release Date", "N/A"),
-        price=specs.get("Price", "N/A").replace('₹', '').replace(',', ''),
+        release_date=specs.get("Announced", "N/A"),
+        price=specs.get("Price", "N/A"),
         market_positioning="Flagship",  # Assuming both are flagship devices
-        display_size=specs.get("Display Size", "N/A"),
-        display_resolution=specs.get("Display Resolution", "N/A"),
+        display_size=specs.get("Display", "N/A"),
+        display_resolution=specs.get("Resolution", "N/A"),
         refresh_rate=specs.get("Refresh Rate", "N/A"),
         processor=specs.get("Chipset", "N/A"),
         ram=specs.get("RAM", "N/A").replace(' GB', ''),
